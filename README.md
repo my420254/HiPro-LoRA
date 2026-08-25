@@ -1,6 +1,29 @@
 # HiPro-LoRA Strict Evaluation Package
 
-This directory contains the strict held-out evaluation package for HiPro-LoRA. It includes the experiment runners, strict result CSVs, figure-generation script, final table/figure data packages, and LLM baseline records used to reproduce the reported results.
+This repository packages the strict held-out evaluation protocol for **HiPro-LoRA**, a PEFT framework for low-resource long-tailed sentiment analysis.
+
+## Why this repo matters
+
+Most low-resource sentiment papers mix validation selection and final reporting too loosely. This package keeps the protocol explicit:
+
+- validation is used for model selection
+- final scores are reported on disjoint class-balanced test subsets
+- all strict CSVs and figure data are stored separately
+
+## My contribution
+
+- Designed the method and strict evaluation protocol
+- Built the result tables, sensitivity sweeps, and gate-dynamics traces
+- Organized the LLM baseline comparison package
+- Prepared the final table / figure data for the paper
+
+## Main result
+
+Across the strict held-out settings, HiPro-LoRA achieves the best Tail-F1 in 5 of 6 configurations and the best Macro-F1 in 4 of 6, while staying competitive in the remaining settings.
+
+## Status
+
+ECML-PKDD accepted, final version submitted.
 
 The internal experiment name `LoRA-Ours` corresponds to the paper-facing method name `HiPro-LoRA`.
 
