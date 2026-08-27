@@ -1,0 +1,6 @@
+Task: Classify tweet sentiment. Reason briefly, then give the final answer.
+Options: 0:Negative, 1:Neutral, 2:Positive
+
+Briefly explain the decision, then end with a separate line "Final Answer: <numeric ID>".
+Text: "[TEXT_TO_CLASSIFY]"
+Reasoning:

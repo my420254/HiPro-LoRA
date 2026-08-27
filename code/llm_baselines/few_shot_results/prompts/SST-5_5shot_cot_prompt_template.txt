@@ -1,0 +1,32 @@
+Task: Classify the sentiment of the text. Reason briefly, then give the final answer.
+Options: 0:Very Negative, 1:Negative, 2:Neutral, 3:Positive, 4:Very Positive
+Examples:
+Text: "a bad movie that happened to good actors ." -> Answer: 0
+Text: "a devastating indictment of unbridled greed and materalism ." -> Answer: 0
+Text: "i still want my money back ." -> Answer: 0
+Text: "makes 98 minutes feel like three hours ." -> Answer: 0
+Text: "the problem is that for the most part , the film is deadly dull ." -> Answer: 0
+Text: "gorgeous to look at but insufferably tedious and turgid ... a curiously constricted epic ." -> Answer: 1
+Text: "lush and beautifully photographed -lrb- somebody suggested the stills might make a nice coffee table book -rrb- , but ultimately you 'll leave the theater wondering why these people mattered ." -> Answer: 1
+Text: "quitting , however , manages just to be depressing , as the lead actor phones in his autobiographical performance ." -> Answer: 1
+Text: "though harris is affecting at times , he can not overcome the sense that pumpkin is a mere plot pawn for two directors with far less endearing disabilities ." -> Answer: 1
+Text: "zigzag might have been richer and more observant if it were less densely plotted ." -> Answer: 1
+Text: "a dopey movie clothed in excess layers of hipness ." -> Answer: 2
+Text: "demeo is not without talent ; he just needs better material ." -> Answer: 2
+Text: "if all of eight legged freaks was as entertaining as the final hour , i would have no problem giving it an unqualified recommendation ." -> Answer: 2
+Text: "it somehow managed to make its way past my crappola radar and find a small place in my heart" -> Answer: 2
+Text: "the last three narcissists left on earth compete for each others ' affections ." -> Answer: 2
+Text: "but kouyate elicits strong performances from his cast , and he delivers a powerful commentary on how governments lie , no matter who runs them ." -> Answer: 3
+Text: "certainly the performances are worthwhile ." -> Answer: 3
+Text: "the powder blues and sun-splashed whites of tunis make an alluring backdrop for this sensuous and spirited tale of a prim widow who finds an unlikely release in belly-dancing clubs ." -> Answer: 3
+Text: "there 's just something about watching a squad of psychopathic underdogs whale the tar out of unsuspecting lawmen that reaches across time and distance ." -> Answer: 3
+Text: "there are flaws , but also stretches of impact and moments of awe ; we 're wrapped up in the characters , how they make their choices , and why ." -> Answer: 3
+Text: "combines sharp comedy , old-fashioned monster movie atmospherics , and genuine heart to create a film that 's not merely about kicking undead \*\*\* , but also about dealing with regret and , ultimately , finding redemption ." -> Answer: 4
+Text: "delirious fun ." -> Answer: 4
+Text: "hopkins , squarely fills the screen ." -> Answer: 4
+Text: "the overall fabric is hypnotic , and mr. mattei fosters moments of spontaneous intimacy ." -> Answer: 4
+Text: "woody allen can write and deliver a one liner as well as anybody ." -> Answer: 4
+
+Briefly explain the decision, then end with a separate line "Final Answer: <numeric ID>".
+Text: "[TEXT_TO_CLASSIFY]"
+Reasoning:

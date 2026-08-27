@@ -1,0 +1,6 @@
+Task: Classify the sentiment of the text. Reason briefly, then give the final answer.
+Options: 0:Very Negative, 1:Negative, 2:Neutral, 3:Positive, 4:Very Positive
+
+Briefly explain the decision, then end with a separate line "Final Answer: <numeric ID>".
+Text: "[TEXT_TO_CLASSIFY]"
+Reasoning:

@@ -1,0 +1,378 @@
+text,true_label,pred_label,llm_response,k_shot,prompt_style,protocol
+"Melania Trump's full speech at 2016 Republican National Convention, and comparison to Michelle Obama",1,1,"The text provided is a neutral statement describing a speech and its comparison. It does not express any positive or negative emotions or opinions about the content of the speech. Therefore, it can be classified as neutral.
+
+Final Answer: 1",0,cot,balanced-held-out-test
+"@user India, I am sure top management/Admin would've fallen Prey to Leftists'/Psedoseculiars' setting tempetions -:)!",0,0,"The tweet expresses a negative opinion about the influence of certain groups on top management, using sarcastic punctuation (:) at the end which often indicates mockery or derision. The use of terms like ""Leftists'"" and ""Psedoseculiars'"" suggests a critical stance against these groups. Therefore, this tweet conveys a negative sentiment.
+
+Final Answer: 0",0,cot,balanced-held-out-test
+@user @user @user Now that is awesome #mannequinchallenge #WeAre,2,2,"The tweet expresses enthusiasm and positivity about the mannequin challenge, using the word ""awesome"" and including a relevant hashtag. There are no negative elements present.
+Final Answer: 2",0,cot,balanced-held-out-test
+"Breaking News!! Hear this all Homosexual people not everyone supports gay marriage, some people believe marriage is…",1,0,"The tweet expresses a controversial and divisive opinion about support for gay marriage, which could be seen as negative due to its potentially offensive stance against a minority group. However, it does not convey strong negative emotions or harsh criticism.
+
+Final Answer: 0",0,cot,balanced-held-out-test
+@user The majority of the deplorables that voted for Trump Dumb,1,0,"The tweet expresses a negative opinion about people who voted for Trump, using the term ""deplorables"" which has a derogatory connotation. It also directly calls them ""dumb,"" which is a negative characterization.
+Final Answer: 0",0,cot,balanced-held-out-test
+@user He's not talking about killing Americans via drone strikes like your head thug obama!,0,0,"The tweet expresses a negative sentiment towards Obama and his policies, using derogatory language (""head thug""). The tone is confrontational and critical.
+Final Answer: 0",0,cot,balanced-held-out-test
+#Saakashvili has his say on #Ukraine #Odessa #Georgia,1,1,"The tweet appears to be a neutral statement providing information about Saakashvili speaking on topics related to Ukraine, Odessa, and Georgia. It does not express any clear positive or negative sentiment but rather states a fact or event.
+
+Final Answer: 1",0,cot,balanced-held-out-test
+Burtle for sale! DM me! #Hatchimals #hatchimal #blackfriday #burtle,2,2,"The tweet is promoting a product (Burtle) for sale and encouraging interaction through direct messaging. The use of hashtags related to popular merchandise (Hatchimals) and a shopping event (Black Friday) suggests an attempt to generate interest and sales. While there's no explicit positive language, the overall tone is promotional and optimistic about potential sales.
+
+Final Answer: 2",0,cot,balanced-held-out-test
+It's funny to watch the news stations try to figure Donald Trump out when he is putting his cabinet togetherSo funny,1,2,"The tweet expresses amusement at the news stations' efforts to interpret Donald Trump's actions, indicating a lighthearted and positive attitude towards the situation. The use of ""So funny"" at the end directly conveys enjoyment or humor.
+
+Final Answer: 2",0,cot,balanced-held-out-test
+One of my first papers in grad. school was about how the Feds engineered US housing patterns since the 1920s.…,1,1,"The tweet appears to be sharing information or reflecting on an academic paper from the user's graduate school days. There is no explicit positive or negative emotion expressed; it seems to be a neutral statement of fact. 
+Final Answer: 1",0,cot,balanced-held-out-test
+Grayson Allen is so cute 😭😭😭,2,2,"The tweet expresses admiration and cuteness towards Grayson Allen, which indicates a positive sentiment. The use of multiple sad/crying emojis (😭😭😭) in this context likely means the user is expressing strong positive emotions rather than sadness. 
+Final Answer: 2",0,cot,balanced-held-out-test
+Hacked PELOSI emails CONFIRM Dems responsible for Mayhem in Cleveland during RNC proving they are Party of DISGUST!,0,0,"The tweet expresses strong negative emotions and criticism towards Democrats, using words like ""DISGUST"" in all caps to emphasize negativity. It also mentions ""Mayhem"" which conveys a negative event. Overall, the tone is highly critical and negative.
+Final Answer: 0",0,cot,balanced-held-out-test
+It's more difficult to move to Mexico as the Clintons built a bloody great fence all along the Border…,0,0,"The tweet expresses a negative sentiment by criticizing the construction of a border fence and linking it to a political figure (the Clintons). The use of words like ""bloody great fence"" in a critical context indicates dissatisfaction or frustration.
+
+Final Answer: 0",0,cot,balanced-held-out-test
+"@user Kim Jong Un wishes his propaganda was a good as this.  BHO never uses the restroom either, We believe that. Wink wink",0,0,"The tweet contains sarcastic and mocking comments about political figures, which suggests a negative tone. The use of ""propaganda"" and ""never uses the restroom"" in a dismissive manner indicates criticism and derision.
+
+Final Answer: 0",0,cot,balanced-held-out-test
+Charles rails on bible thumping conservatives all the time and I find it funny because they're always taken a back that a veteran is going—,0,2,"The tweet expresses amusement at Charles's comments about conservatives, indicating a light-hearted or positive reaction despite the subject matter being critical. The use of ""I find it funny"" directly conveys a positive sentiment.
+Final Answer: 2",0,cot,balanced-held-out-test
+Watching Scream Queens Season 2 Episode 5 'Chanel Pour Homme-icide' #ScreamQueens #ChanelPourHommeIcide @user,1,2,"The tweet expresses enjoyment of watching a TV show episode and includes relevant hashtags and a mention, indicating a positive engagement with the content. There are no negative sentiments expressed.
+Final Answer: 2",0,cot,balanced-held-out-test
+New #BeautyAndTheBeast photo of Gaston wooing Belle @user @user,2,2,"The tweet appears to be sharing a positive aspect of a movie (Beauty and the Beast) by mentioning a new photo that shows a positive interaction between characters. There are no negative elements in the text. 
+Final Answer: 2",0,cot,balanced-held-out-test
+"Published on Nov 18, 2016Speech by Stephen K. Bannon (Steve Bannon), Donald Trump's senior strategic advisor and...",1,1,"The text provided is a description of a speech given by Steve Bannon, which does not contain any explicit positive or negative sentiment. It is merely a factual statement about the content of the speech without expressing an opinion or emotion.
+
+Final Answer: 1",0,cot,balanced-held-out-test
+"This woman is still talking about Melania Trump's admittedly plagiarized speech, guys.As in, she's still saying i…",1,0,"The tweet expresses frustration or annoyance at someone who continues to discuss Melania Trump's speech, implying it is old news. The tone suggests a negative sentiment towards the ongoing discussion.
+
+Final Answer: 0",0,cot,balanced-held-out-test
+"Tonight's plan is to sketch, design and colour in clothes, shoes and accessories for all our favourite characters f…",2,2,"The tweet expresses an activity plan that seems enjoyable and creative, indicating a positive outlook. Sketching, designing, and coloring are typically associated with hobbies and leisure activities that people engage in for fun or relaxation.
+
+Final Answer: 2",0,cot,balanced-held-out-test
+Retweeted Medical Marijuana (@AmericanGanja):So it's legal for a single doctor to prescribe these dangerous...,0,1,"The tweet appears to be retweeting content about medical marijuana and its legal status, but does not express a clear positive or negative sentiment towards the subject matter. It is simply sharing information without additional commentary that would indicate a strong opinion either way.
+
+Final Answer: 1",0,cot,balanced-held-out-test
+"{New Post} Yolanda Adams and Common singing ""Glory"" at the BET's #ThankYouObama event: This is an awesome rendition…",2,2,"The tweet expresses enthusiasm about a performance, using the word ""awesome"" which indicates a positive sentiment.
+Final Answer: 2",0,cot,balanced-held-out-test
+"@user @user BEING DESPERATE CALLS FOR DESPERATE MORONIC ACTIONS....FUNNY THOU 😂CNN NEEDS RATING AT AT COST,AS WELL AS ANY LIBERALS MEDIA",0,0,"The tweet contains a mix of negative and positive elements but leans towards a negative sentiment overall. The use of ""desperate"" and ""moronic actions"" is clearly negative. While ""FUNNY THOU 😂"" suggests some levity, it does not outweigh the negative tone set by the criticism of media outlets. The overall context implies a critical and somewhat mocking tone against certain media practices.
+
+Final Answer: 0",0,cot,balanced-held-out-test
+Day 2 of vegetarianism 🍏🍐🍓🍇🍌 going good 😊👍🏻✌🏻️,2,2,"The tweet expresses a positive experience with vegetarianism and uses positive emojis. The phrase ""going good"" indicates satisfaction and success in maintaining the diet for two days. The use of smiling and thumbs-up emojis further reinforces the positive sentiment.
+
+Final Answer: 2",0,cot,balanced-held-out-test
+"3D printing is great fun, even the cheaper kits turn out reasonable quality.",2,2,"The tweet expresses a positive sentiment about 3D printing, highlighting its fun nature and reasonable quality from affordable kits. The use of words like ""great"" and ""reasonable"" indicate a positive outlook.
+Final Answer: 2",0,cot,balanced-held-out-test
+@user Kim Jong-un can help you. He can show you the way.,2,0,"The tweet suggests that Kim Jong-un can assist the user, which implies a helpful or positive tone. However, the context and nature of Kim Jong-un's involvement might be seen as sarcastic or ironic by some readers, potentially negating the positive sentiment.
+
+Final Answer: 0",0,cot,balanced-held-out-test
+"@user @user When Hillary said, ""Basket of Deplorables."" That outcome was awesome.",2,2,"The tweet expresses a positive sentiment towards Hillary's statement, indicating approval or satisfaction with its outcome. The phrase ""That outcome was awesome"" is a clear indicator of positive sentiment.
+Final Answer: 2",0,cot,balanced-held-out-test
+@user I agree wholeheartedly! #notmyprsident #StillWithHer #sanders @user @user @user @user #TGIFriday,2,2,"The tweet expresses agreement and uses positive hashtags like #TGIFriday, indicating a positive sentiment. There are no negative elements in the text.
+Final Answer: 2",0,cot,balanced-held-out-test
+"When Media sells killer vaccines,give it FEAR label: ZIKA;  when MEDIA wants2hide a REAL DANGER (Black violence), I…",0,0,"The tweet criticizes media for selectively labeling and hiding information, which suggests frustration and negative sentiment. The use of capitalized words like ""FEAR"" and ""REAL DANGER"" emphasizes the author's strong feelings about media practices.
+
+Final Answer: 0",0,cot,balanced-held-out-test
+Obama's dirty secret: Funded fossil fuel projects worldwide while cutting American power plants & jobs #ObamasLegacy,0,0,"The tweet criticizes Obama's actions regarding fossil fuels and job cuts, using a negative tone and a hashtag that implies a negative legacy. This suggests a negative sentiment.
+Final Answer: 0",0,cot,balanced-held-out-test
+"Arsonists setting fires in #Israel, now the hills of #Jerusalem are burning😥🇮🇱 #IsraelFires #arson #Arabs #Jews",0,0,"The tweet expresses concern and sadness about fires in Israel, indicating a negative emotional tone. The use of a sad face emoji (🙏) further emphasizes the negative sentiment. There are no positive elements in the tweet to counterbalance this negativity.
+
+Final Answer: 0",0,cot,balanced-held-out-test
+"FrPavone: ""total number of deaths by capital punishment, for our entire history, is less than the number of deaths by abortion every 5days""",0,1,"The tweet presents a comparison between the number of deaths from capital punishment and abortion, which could be seen as controversial and potentially polarizing. However, without additional context or emotional language, the statement itself does not strongly convey positive or negative sentiment but rather a factual assertion.
+
+Final Answer: 1",0,cot,balanced-held-out-test
+The Egyptian President Mikheil Saakashvili said he would explain if wanting to do it as a record of Palestinian ambitions.,1,1,"The tweet appears to be reporting a statement made by the Egyptian President without any clear positive or negative sentiment expressed. It is a neutral statement providing information rather than an opinion or emotion.
+
+Final Answer: 1",0,cot,balanced-held-out-test
+@user wasn't it raised in 2-3 days?? Report said George Soros cyber bots contributed $165k per hour for a couple days.,0,0,"The tweet appears to be questioning the validity of a report and suggesting that the report's claims about contributions were exaggerated or false. The tone is skeptical and slightly critical, but not strongly negative. It does not express clear positive emotions either.
+
+Final Answer: 0",0,cot,balanced-held-out-test
+@user @user @user religion is a scare tactic and these folks are a prime example. #stomptheyard  #steppinforchrist,0,0,"The tweet expresses a negative view of certain religious individuals, suggesting they use scare tactics. The hashtags ""#stomptheyard"" and ""#steppinforchrist"" imply aggressive or confrontational behavior, which is generally viewed negatively. Final Answer: 0",0,cot,balanced-held-out-test
+Operated by Imura Works of Imura has been working to protect the freedom of gun rights and 3D printing workPlease support the activities!!,2,2,"The tweet expresses support for gun rights and encourages support for the activities, which indicates a positive sentiment. The use of an exclamation mark also suggests enthusiasm.
+Final Answer: 2",0,cot,balanced-held-out-test
+Follow my buddy @user Want on my list of friend promos tweet me (Interactive Followers Only)#PJNET #Tcot #Tlot #TPP #TeaParty,1,2,"The tweet appears to be an invitation for interaction and engagement from the user, suggesting a positive and interactive tone. The use of ""#PJNET"" and other hashtags related to political movements could indicate a supportive or engaged stance, but without negative connotations, it leans more towards a positive sentiment.
+
+Final Answer: 2",0,cot,balanced-held-out-test
+Please don't consider donating to @user They'll just buy more euthanasia.,0,0,"The tweet expresses a negative sentiment by warning against donating to a specific user, suggesting they will misuse the funds. The phrase ""They'll just buy more euthanasia"" implies a critical view of the user's actions and intentions, which is a negative perspective.
+
+Final Answer: 0",0,cot,balanced-held-out-test
+"@user spends $Millions on politicians like #Giuliani, to push #iran war, makes Kim Jong Un look humble!https://t.co/sQpap31XUj",0,0,The tweet expresses strong criticism and sarcasm towards the spending of money on politicians who are perceived as warmongers. The use of exclamation marks and the mention of a controversial figure (Kim Jong Un) in comparison adds to the negative tone. Final Answer: 0,0,cot,balanced-held-out-test
+@user @user all the liberals in the US will be morning their hero. Let's see if Obama lowers white house flag.,0,0,"The tweet expresses a sarcastic and critical tone towards liberals and former President Obama, suggesting they will mourn his departure from the White House. The use of ""morning their hero"" in a sarcastic context indicates a negative sentiment.
+
+Final Answer: 0",0,cot,balanced-held-out-test
+#Beauty #ArianaGrande-CHRISTMAS & CHILL-JAPAN ONLY #CD BONUS TRACK C94 #Deals #TopSeller,2,1,"The tweet appears to be promotional in nature, mentioning a product (likely a CD or music track) and using hashtags related to deals and top sellers. While there is no explicit negative language, the primary focus seems to be on selling a product rather than expressing an emotional state or opinion. Therefore, it can be classified as neutral.
+
+Final Answer: 1",0,cot,balanced-held-out-test
+Oral history & policy by @user  or why #RCT is not the gold standard  @user @user @user,1,1,"The tweet does not express any clear positive or negative emotions. It appears to be a neutral statement about oral history and policy, mentioning that RCT (Randomized Controlled Trial) is not considered the gold standard. The tone is informative rather than emotional.
+
+Final Answer: 1",0,cot,balanced-held-out-test
+Urban landscapes will have far fewer cars#carsharing #autonomous #Driverless #selfdriving #uber #lyft #SmartCity,1,2,"The tweet discusses future urban landscapes with fewer cars due to car sharing and autonomous driving technologies, which suggests a positive outlook on technological advancements and improved city environments. The use of hashtags related to modern transportation solutions also indicates optimism about these changes.
+
+Final Answer: 2",0,cot,balanced-held-out-test
+"VIDEO: #Russia FM Lavrov (@mfa_russia) caught lying red-handed about airstrikes in #Aleppo, #Idlib & #Homs in…",0,0,"The tweet appears to be critical of Russia's actions and highlights a perceived lie by a high-ranking official. This suggests a negative sentiment towards the subject matter.
+Final Answer: 0",0,cot,balanced-held-out-test
+Bad hombres. Raul about to shoot innocent man,0,0,"The tweet expresses a negative sentiment through the use of derogatory language (""Bad hombres"") and a threatening scenario (""Raul about to shoot innocent man""). The overall tone is hostile and alarming.
+Final Answer: 0",0,cot,balanced-held-out-test
+.@DefraGovUK please can you stop hiding discussions on #fracking and make sure people aren't kept in the dark on an important issue?,1,0,"The tweet expresses a request for transparency and openness from a government body regarding a significant issue. The tone is one of frustration and dissatisfaction with the current situation, indicating a negative sentiment.
+
+Final Answer: 0",0,cot,balanced-held-out-test
+@user @user UR going 2 love Steve Bannon as DJT's senior advisor 😂😂😂,2,2,"The tweet expresses amusement and support for Steve Bannon in his role as DJT's (likely referring to Donald Trump) senior advisor, indicated by the laughing emoji usage. This suggests a positive sentiment towards the subject.
+
+Final Answer: 2",0,cot,balanced-held-out-test
+@user Love It!Following! Retweeted! #WIN  Oh fantastic 💖💖 #Hatchimals #BlackFriday,2,2,"The tweet expresses clear enthusiasm and excitement through phrases like ""Love It!"", ""Oh fantastic"", and the use of heart emojis. The user also retweeted and followed someone, indicating engagement and positive interaction. The hashtags used (#WIN, #Hatchimals, #BlackFriday) suggest the user is excited about a product or event.
+
+Final Answer: 2",0,cot,balanced-held-out-test
+Who Are the Millions of ‘Bad Hombres’ Slated for US Deportation? via @user,1,0,"The tweet appears to be questioning or highlighting an issue related to deportation policies, which often have negative connotations due to their potential impact on individuals and families. The phrase ""Millions of ‘Bad Hombres’"" suggests a critical or negative view towards these individuals being targeted.
+
+Final Answer: 0",0,cot,balanced-held-out-test
+Well said #Muhammad Ali Jinnah,2,2,"The tweet expresses agreement and admiration for Muhammad Ali Jinnah, indicating a positive sentiment.
+Final Answer: 2",0,cot,balanced-held-out-test
+The Chanelles in #ScreamQueens are more authentic medical practitioners than the Syrian White Helmets. #FakeNews,1,0,"This tweet expresses a critical and somewhat controversial opinion about the authenticity of characters in a TV show compared to real-life figures, and it also references a political/social issue. The tone is assertive and slightly negative due to the use of ""#FakeNews"" which implies skepticism or criticism towards mainstream narratives.
+
+Final Answer: 0",0,cot,balanced-held-out-test
+"Gold heart earrings, Textured gold heart charm dangle earrings, heart jewelry, valentines..",2,2,"The tweet describes a product description for earrings, using positive and romantic terms like ""gold heart"" and ""valentine"". This suggests a positive sentiment as it evokes feelings of love and romance.
+
+Final Answer: 2",0,cot,balanced-held-out-test
+Samsungs galaxy note 7 smartphone banned from all #TechNews #Tech #News #Gadget #Apps,1,0,"The tweet mentions that Samsung's Galaxy Note 7 smartphone is banned, which implies a negative outcome or regulation. However, the use of hashtags related to technology news and gadgets suggests some level of interest or engagement with tech products, though not necessarily positive. Given the primary focus on a ban, which is generally negative, the sentiment leans towards negative.
+
+Final Answer: 0",0,cot,balanced-held-out-test
+"@user HAS THE HILL REPORTED ON THE ANTI TRUMP RIOTS? LOOTING,BURNING DESTROYING BUSINESSES ? ARE THE THUGS  AND KIDS RUNNING OUR COUNTRY?",0,0,"The tweet expresses strong dissatisfaction and criticism towards media coverage, suggesting that certain events (anti-Trump riots, looting, burning, etc.) are not being reported on adequately. The use of capitalized words like ""THUGS"" and ""KIDS"" indicates anger or frustration. The overall tone is negative and critical.
+
+Final Answer: 0",0,cot,balanced-held-out-test
+Yep... they are staying put... Amazing work Mike Pence,2,2,"The tweet expresses approval and admiration for Mike Pence's actions, using words like ""Amazing work"". This indicates a positive sentiment.
+Final Answer: 2",0,cot,balanced-held-out-test
+Here's Putin's man in our White House.@LindseyGrahamSC @user @user @user @user,1,1,"The tweet does not express any clear positive or negative sentiment. It is merely stating a fact about who someone might consider to be influential in the White House. Without additional context or emotional language, this can be classified as neutral.
+
+Final Answer: 1",0,cot,balanced-held-out-test
+@user Check the Clinton Foundation for contributions to Jill Stein!  There's your problem!  Hillary still in the game and trying,0,0,"The tweet suggests a negative view by implying that contributions to Jill Stein are problematic and questioning Hillary's candidacy. The language used is accusatory and critical.
+Final Answer: 0",0,cot,balanced-held-out-test
+It already WAS normalized. See: Obamacare MT @user Business-specific meddling shouldn't be normalized.,0,0,"The tweet expresses frustration and criticism towards business-specific meddling being normalized, particularly referencing Obamacare. The tone is negative and critical.
+Final Answer: 0",0,cot,balanced-held-out-test
+Donald Trump and the Rise of White Supremacist Media @user #NotMyPresident #uniteblue #Resist #MAGA #tcot @user,0,0,"The tweet mentions ""#NotMyPresident"" and ""#Resist,"" which indicate disagreement or opposition to Donald Trump. The use of ""#uniteblue"" suggests a call for unity against divisive figures like Trump. Additionally, the hashtag ""#tcot"" (which stands for ""tea party conservative"") is often associated with right-wing media that supports Trump but is also seen as controversial and sometimes extremist. Given these elements, the overall tone leans towards negative sentiment due to opposition and criticism.
+
+Final Answer: 0",0,cot,balanced-held-out-test
+Shout out car crashes. Shout out Kim Jong Un. Shout out the Lakers maybe signing him to a 10-day for this game.,1,0,"The tweet expresses a mix of negative and neutral sentiments but leans towards a negative tone due to the mention of car crashes and Kim Jong Un, who is often associated with negative news. The reference to the Lakers signing him (likely referring to North Korea's leader) adds a sarcastic or critical edge to the statement. 
+Final Answer: 0",0,cot,balanced-held-out-test
+Great news from meeting of @user @user and @user #Ukraine soon to get visa-free #Schengen access.,2,2,"The tweet expresses positive news about visa-free access to the Schengen area for Ukraine, which indicates a favorable outcome. The use of words like ""great news"" further reinforces the positive sentiment.
+Final Answer: 2",0,cot,balanced-held-out-test
+What would The [un] @user & Conservatives say if @user or @user did a secret deal to give $300miln to WA? #auspol,0,1,"The tweet expresses a hypothetical scenario and a question about political reactions, which suggests some level of engagement with current events but does not clearly convey positive or negative emotions. It is more focused on speculation rather than expressing an opinion or emotion.
+
+Final Answer: 1",0,cot,balanced-held-out-test
+People are going to protest trump for 4 years and will accomplish nothing,0,0,"The tweet expresses a negative sentiment towards the idea of protesting Trump for four years, suggesting that such actions will be ineffective. The language used (""will accomplish nothing"") indicates a pessimistic outlook and criticism of the protest efforts.
+
+Final Answer: 0",0,cot,balanced-held-out-test
+@user @user @user @user Too bad #MH17 truth comes free. I know how that really bugs piss out of you paid #Kremlintrolls,0,0,"The tweet expresses frustration and anger towards individuals associated with the Kremlin, indicating negative emotions. The use of words like ""too bad"" and ""bugs piss out of you"" suggests strong negative sentiments. 
+Final Answer: 0",0,cot,balanced-held-out-test
+@user i keep my social security card in there cuz i figure no one would willingly open up and read pokespec,1,2,"The tweet appears to be humorous or sarcastic about keeping a sensitive item (social security card) in a location that is not secure (""pokespec"" likely refers to a Pokémon case, implying it's not a safe place for such important documents). The tone suggests a lighthearted or playful attitude rather than genuine concern or negativity. 
+
+Final Answer: 2",0,cot,balanced-held-out-test
+Electoral College must reject Trump #rejecttrump #notmypresident #takingbackdemocracy #blacklivesmatter #nevertrump,0,0,"The tweet expresses strong opposition to Trump and calls for action against him, indicating a negative sentiment towards him. The use of hashtags like #rejecttrump and #nevertrump further reinforces this negative sentiment. There are no positive or neutral elements in the tweet.
+
+Final Answer: 0",0,cot,balanced-held-out-test
+#Turkey #Yemen Supplies running out for Iraqis left in embattled Mosul,1,0,"The tweet mentions supplies running out for people in a conflict zone, which implies a negative situation. There are no positive elements present.
+Final Answer: 0",0,cot,balanced-held-out-test
+"@user @user Yeah, I'm really looking forward to the constant Medicaid paperwork deluge for years on end. So much fun.",2,0,"The tweet expresses disappointment and frustration about having to deal with Medicaid paperwork, indicating a negative sentiment.
+Final Answer: 0",0,cot,balanced-held-out-test
+The people who looted money meant for maternity and vaccines still playing politics with the lives of Kenyans#LipaKamaTender,0,0,"The tweet expresses strong negative sentiment towards individuals who misused funds intended for essential services like maternity care and vaccines. The phrase ""playing politics with the lives of Kenyans"" indicates a critical and disapproving tone. The use of ""#LipaKamaTender"" (which roughly translates to ""payback time"" in English) suggests a sense of justice or retribution is expected.
+
+Final Answer: 0",0,cot,balanced-held-out-test
+"@user Maybe online but in terms of presence outside the left, tankies have sane leftists beat. Most orgs are composed of tankies.",1,1,"The tweet suggests that tankies (likely referring to supporters of Vladimir Putin or Russian nationalism) have a more organized presence on the left compared to other groups, implying a negative view towards tankies and a positive view towards more organized leftist groups. However, the overall tone is not strongly emotional and the statement is more observational than expressing clear positive or negative emotions.
+
+Final Answer: 1",0,cot,balanced-held-out-test
+Ayyyyeeeee Thanksgiving 2016 in the books! Good time good time #mannequinchallenge @ New Orleans…,2,2,"The tweet expresses enthusiasm and satisfaction about Thanksgiving, indicating a positive experience. The use of ""Ayyyyeeeee"" and ""Good time good time"" conveys excitement and enjoyment. Additionally, the hashtag #mannequinchallenge suggests participation in a fun trend. Overall, this tweet reflects a positive sentiment.
+
+Final Answer: 2",0,cot,balanced-held-out-test
+"Curry: ""The political dogma of Obama, Clinton and Pope Francis surrounding climate change seems like more of a recipe for ‘anti-science.’""",0,0,"The tweet expresses a critical view of certain politicians' stance on climate change, suggesting it is anti-science. This indicates a negative sentiment towards those political figures and their policies.
+Final Answer: 0",0,cot,balanced-held-out-test
+@user    Go get em girl!!!!   👊🏽,2,2,"The tweet expresses encouragement and support, indicated by ""Go get em girl"" and the thumbs up sign, which conveys a positive and supportive sentiment.
+Final Answer: 2",0,cot,balanced-held-out-test
+"#Eurozone BREAKING: Vladimir Putin admits Kim Jong-un is better in every way and would ""love to see... [his] face"" #SydMUN16",2,0,"The tweet expresses a controversial and potentially threatening statement from a political leader, which could be interpreted as provocative or aggressive. However, without more context, it's difficult to determine if this is meant sarcastically or seriously, but the overall tone seems negative due to the aggressive language and potential threat implied.
+
+Final Answer: 0",0,cot,balanced-held-out-test
+"“Make Art, and Fight the Power”: A Historically Black National Book Awards - The New Yorker #NBAwards | @user",1,2,"The tweet appears to be supportive of an event (Historically Black National Book Awards) and includes a positive call to action (""Make Art""). There is no negative sentiment expressed. Given the encouragement and the context of celebrating an award, this can be considered positive.
+
+Final Answer: 2",0,cot,balanced-held-out-test
+Up North for thanksgiving🦃,1,2,"The tweet expresses gratitude and mentions a festive holiday, indicating a positive sentiment.
+Final Answer: 2",0,cot,balanced-held-out-test
+"Tell it, Sistah! #ElizabethWarren #TrumpTransitionTeam #DrainTheSwamp",2,2,"The tweet expresses encouragement or support for Elizabeth Warren and uses a hashtag related to removing corruption, indicating a positive sentiment towards these topics. The use of ""Tell it, Sistah!"" also suggests enthusiasm or agreement.
+Final Answer: 2",0,cot,balanced-held-out-test
+UN Security Council to vote Monday on proposed ceasefire in Syria's Aleppo.,1,1,"The tweet provides neutral information about an upcoming vote on a ceasefire proposal. It does not express any positive or negative emotions or opinions.
+Final Answer: 1",0,cot,balanced-held-out-test
+@user Get lost you crooks. Your plan to bring #Burundi where you brought #Libya #Rwanda94 was defeated. Find your next victim elsewhere,0,0,"The tweet expresses strong negative sentiment through phrases like ""Get lost you crooks"" and references to past failures (""defeated""). It also implies that the target group is planning harmful actions, which adds to the negative tone.
+
+Final Answer: 0",0,cot,balanced-held-out-test
+So if I get in a twitter beef with Drumpf...do I become famous too?Or does Comey and Putin....come for me?,1,1,"The tweet expresses a speculative and somewhat humorous tone about potential consequences of engaging in a Twitter dispute with high-profile figures. The use of ""beef"" and the question format suggest a light-hearted or sarcastic approach rather than serious negativity. However, it also hints at potential threats or involvement of controversial individuals, which could be seen as slightly negative.
+
+Final Answer: 1",0,cot,balanced-held-out-test
+Have YOU ever hugged the Eiffel Tower? I HAVE!!! - Google Earth VR: via @user,2,2,"The tweet expresses a positive experience of virtually hugging the Eiffel Tower through Google Earth VR, indicating excitement and a memorable experience. The use of ""I HAVE!!! "" with multiple exclamation marks conveys enthusiasm.
+
+Final Answer: 2",0,cot,balanced-held-out-test
+#Yemen army & militia snipers kills Two of Saudi troops in Najran today. #VirulentYemen,0,0,"The tweet mentions military conflict and casualties, which generally convey negative sentiments due to violence and loss of life. The use of words like ""kills"" and the context of a military conflict suggest a negative tone.
+Final Answer: 0",0,cot,balanced-held-out-test
+I have been astonished at the reaction of the liberals. Horrifying.,0,0,"The tweet expresses strong negative emotions and shock at the reaction of liberals, using words like ""astonished"" and ""horrifying"". This indicates a clearly negative sentiment.
+Final Answer: 0",0,cot,balanced-held-out-test
+Vaccines should be OPTIONAL because you're the master of your own health and you're not harming others which have agreed to get a vaccine.,1,2,"The tweet expresses a strong opinion against mandatory vaccines, emphasizing individual choice and personal health autonomy without causing harm to others who have chosen to vaccinate. This indicates a positive sentiment towards personal freedom and rights in this context.
+
+Final Answer: 2",0,cot,balanced-held-out-test
+@user @user @user @user @user @user #WeThePeople  demand #AuditTheVote #AuditTheElection,1,2,"The tweet expresses a call for action and demands for audits, which indicates a strong stance on an issue. This level of assertiveness and engagement typically suggests a positive or at least strongly engaged sentiment in the context of civic duty and activism.
+
+Final Answer: 2",0,cot,balanced-held-out-test
+"""the patches] are being used to kill people with dementia, with the idea that it’s cheapest and best to get rid of…",0,0,"The tweet expresses strong negative sentiment about using patches to harm individuals with dementia, indicating distress and moral opposition to such practices. The language conveys a sense of injustice and ethical concern.
+
+Final Answer: 0",0,cot,balanced-held-out-test
+Messi's 100 international goals for Barcelona #fcblive  [via @user,2,2,"The tweet is expressing a positive sentiment about Lionel Messi reaching a significant milestone of 100 international goals for Barcelona. The use of ""#fcblive"" and the mention of his achievement indicate enthusiasm and pride in his performance. There are no negative elements present.
+
+Final Answer: 2",0,cot,balanced-held-out-test
+They steal fox cubs off their moms to teach hounds to rip them apart for their sadism (Terrier-work). How else? It's sadistic! #KeepTheBan,0,0,"The tweet expresses strong negative emotions and criticism towards a practice involving fox cubs and hunting dogs. The use of words like ""steal,"" ""sadism,"" and ""#KeepTheBan"" indicate disapproval and distress. The overall tone is clearly negative.
+
+Final Answer: 0",0,cot,balanced-held-out-test
+"@user ""Alt-rightists"" are notorious for their Asian fetishes, so it's honestly not surprising",0,0,"The tweet expresses a negative view towards a specific group (""Alt-rightists"") and makes a derogatory comment about them. The phrase ""notorious for their Asian fetishes"" is used in a critical and disapproving manner.
+
+Final Answer: 0",0,cot,balanced-held-out-test
+Moments in time. #Moments #OneDirection #1D,1,2,"The tweet expresses a positive and reflective sentiment about cherished moments. The use of ""#Moments"" suggests reminiscing or appreciating time spent, which is generally viewed positively. Additionally, the inclusion of a popular music group's hashtag (#OneDirection) often indicates fondness or nostalgia for their music and fan community.
+
+Final Answer: 2",0,cot,balanced-held-out-test
+Programming robots with blocks – Hacker Noon via @user,1,1,"The tweet mentions an educational or learning activity related to programming, which is generally viewed positively as it promotes skill development and technology engagement. However, there's no strong positive emotion expressed beyond the neutral statement of fact.
+
+Final Answer: 1",0,cot,balanced-held-out-test
+Go Marine Le Pen!👇👍,2,2,"The tweet expresses support for Marine Le Pen, indicated by the use of an encouraging emoji. This shows a positive sentiment towards the subject.
+Final Answer: 2",0,cot,balanced-held-out-test
+Our #mannequinchallenge from last night's #steelcitycup charity squash night. Revealing how much raised on Monday,1,2,"The tweet mentions a charitable event and the amount raised, which indicates a positive outcome. The use of ""#mannequinchallenge"" is generally associated with fun and engagement, further suggesting a positive sentiment.
+
+Final Answer: 2",0,cot,balanced-held-out-test
+speak the truth even though if its leading to death penalty. cause nothing will set you free except THE TRUTH.,2,2,"The tweet expresses a strong belief in the importance of truth, even at great personal cost. The phrase ""nothing will set you free except THE TRUTH"" conveys a deeply positive and uplifting sentiment about the power of truth. While the context of ""leading to death penalty"" is serious, the overall message is one of moral conviction and integrity, which is generally viewed positively.
+
+Final Answer: 2",0,cot,balanced-held-out-test
+Retweeted Daniel José Older (@djolder):The honorable @user receiving the #NBAwards and recalling being...,2,1,"The tweet appears to be a retweet of someone receiving an award, which is generally considered a positive event. However, the original text does not contain explicit positive language or strong indicators of celebration or joy. The tone seems neutral as it is simply stating a fact about the award.
+
+Final Answer: 1",0,cot,balanced-held-out-test
+@user @user Giving thanks on the corner of @user street -   #p2 #UniteBlue,1,2,"The tweet expresses gratitude and unity, which are positive sentiments. The use of ""#UniteBlue"" suggests a sense of community and shared values, further indicating a positive tone. There are no negative elements in the text.
+
+Final Answer: 2",0,cot,balanced-held-out-test
+"yesterday was #NationalFastFoodDay, a day where one celebrates, praises, and eventually eats unhealthy food, this is a new low for humanity",0,0,"The tweet expresses a negative sentiment towards celebrating National Fast Food Day, emphasizing its association with unhealthy food and suggesting it is a ""new low"" for humanity. This indicates disappointment or disapproval of the celebration.
+
+Final Answer: 0",0,cot,balanced-held-out-test
+"Potentially oil rich, Venezuela under won't-let-you-recall-me Pres Maduro is now producing refugees from the misery.",0,0,"The tweet expresses concern and negativity about the situation in Venezuela, mentioning ""refugees from the misery"" which indicates a negative outcome. The use of ""won't-let-you-recall-me"" suggests resistance to change or improvement, implying ongoing negative conditions. Therefore, this tweet leans towards a negative sentiment.
+
+Final Answer: 0",0,cot,balanced-held-out-test
+"Label scan for Bob Dylan's 12th biggest hit, Subterranean Homesick Blues.",2,1,"The tweet appears to be a casual reference to searching for a song by Bob Dylan without any clear positive or negative sentiment expressed. It seems neutral in tone.
+Final Answer: 1",0,cot,balanced-held-out-test
+"We Need, We Want @user singing #BeautyAndTheBeast @user @user !!!!! 🙏🏻🙏🏻🙏🏻",2,2,"The tweet expresses a strong desire for someone to sing a specific song, indicating enthusiasm and positivity. The use of multiple exclamation marks and prayer emojis further emphasizes the positive and hopeful sentiment.
+
+Final Answer: 2",0,cot,balanced-held-out-test
+@user @user @user Liberals probly Favored this Job Killin Bullshit Cluster fuck!TPP Would Slaughter Middle Class Income,0,0,"The tweet expresses strong negative sentiment towards the TPP (Trans-Pacific Partnership) and accuses liberals of supporting something harmful to the middle class. The use of words like ""Favored"" and ""Bullshit Cluster fuck"" indicate a highly critical and negative tone.
+Final Answer: 0",0,cot,balanced-held-out-test
+"Obama... Evil, Stupid Or Both? Video - Bill Whittle RETWEET #USA #Conservatives #TeaParty",0,0,"The tweet expresses a negative opinion about Obama using derogatory terms like ""Evil"" and ""Stupid"". It also includes a video link that appears to be critical of Obama. The use of hashtags related to conservative and tea party movements further indicates a negative stance against Obama. 
+Final Answer: 0",0,cot,balanced-held-out-test
+"Melania is the poster child for a woman's lack of power except thru beauty. In speech she said, ""my parents taught…",0,0,"The tweet expresses a negative view by criticizing Melania Trump and suggesting her power is limited to beauty rather than merit or ability. The use of ""poster child for a woman's lack of power"" indicates a critical stance.
+
+Final Answer: 0",0,cot,balanced-held-out-test
+New York Times’ Top Shareholder Is a Clinton Foundation Donor,1,1,"The tweet mentions a factual statement about ownership and donations without any clear positive or negative connotation. It does not express an opinion or emotion that would indicate a positive or negative sentiment.
+Final Answer: 1",0,cot,balanced-held-out-test
+@user @user We honestly did not know you guys were still alive. Grats! #DrainTheSwamp #NRA #FoxNews #realDonaldTrump,2,2,"The tweet expresses congratulations and uses celebratory hashtags, indicating a positive tone. There are no negative elements present.
+Final Answer: 2",0,cot,balanced-held-out-test
+The Socialist/Fascist Party (aka. Dems) is driving itself into obscurity.,0,0,"The tweet expresses a negative view towards a political party, suggesting it is becoming irrelevant. The use of terms like ""Socialist/Fascist"" and ""driving... into obscurity"" indicate a critical and unfavorable opinion.
+
+Final Answer: 0",0,cot,balanced-held-out-test
+"@user @user I mean, he'd be the Cubs best outfielder. He's still really good, he just had a down year imo.",2,2,"The tweet expresses a positive opinion about a player's abilities, despite acknowledging a ""down year."" The phrase ""he's still really good"" indicates a positive sentiment. Final Answer: 2",0,cot,balanced-held-out-test
+United Nations Development Program (UNDP): South Korea offers USD 1M to support stability in #Libya.,2,2,"The tweet mentions South Korea offering financial support to the UNDP for stability in Libya, which is a positive action indicating international cooperation and aid. 
+Final Answer: 2",0,cot,balanced-held-out-test
+Racists masochists fascist all the hate words we deplorables are.,0,0,"The tweet contains strongly negative and derogatory language directed at a group of people, indicating a highly negative sentiment.
+Final Answer: 0",0,cot,balanced-held-out-test
+Bannon bringing Reagan back! #magahttps://t.co/FgL5uiKtJK via @user,1,2,"The tweet expresses support for bringing back Reagan, associated with the political movement #maga (Make America Great Again), which indicates a positive sentiment towards a specific political figure and agenda. The use of exclamation marks also conveys enthusiasm.
+
+Final Answer: 2",0,cot,balanced-held-out-test
+Not for the #TrumpTransitionTeam it's a prerequisite.,1,0,"The tweet expresses a negative sentiment by stating that something is not a prerequisite for the Trump Transition Team, implying a rejection or disapproval of a certain policy or action. The use of ""Not for"" and the hashtag ""#TrumpTransitionTeam"" suggests a critical stance against the team's agenda.
+
+Final Answer: 0",0,cot,balanced-held-out-test
+@user update: Zac Efron kissing a puppy,2,2,"The tweet mentions a positive and heartwarming scene of Zac Efron kissing a puppy, which generally evokes positive emotions. 
+Final Answer: 2",0,cot,balanced-held-out-test
+"FINAL- Fairmont 38 Tippecanoe 28. Allison Mader 18 for Tipp, Madeine Westbeld 16 for Fairmont. #DaytonGirlsHoops",1,1,"The tweet appears to be reporting scores from a girls' basketball game without any positive or negative sentiment expressed. The language used is neutral and factual. 
+Final Answer: 1",0,cot,balanced-held-out-test
+"At the #NBAwards finalist reading, the poets were on 🔥. I've been reading these all day & they are brilliant. I can…",2,2,"The tweet expresses enthusiasm and appreciation for the poets at the NBA awards, using positive language like ""on 🔥"" and ""brilliant"". The author also indicates they have been reading the poets' work all day, suggesting enjoyment. There are no negative elements in the tweet.
+Final Answer: 2",0,cot,balanced-held-out-test
+"@user - dump Pelosi.  Like Harry Reid, she lied about Obamacare and is useless.  Go away.",0,0,"The tweet expresses strong negative opinions about Pelosi, using derogatory language and accusing her of lying and being useless. The tone is clearly critical and disapproving.
+Final Answer: 0",0,cot,balanced-held-out-test
+#Spurs #GoSpursGo TIM DUNCAN 2009-10 PANINI CERTIFIED MIRROR BLUE #25 1/100 FIRST ONE !!! #TimDuncan #NBA,2,2,"The tweet expresses excitement and pride about obtaining a rare collectible related to Tim Duncan, a beloved NBA player. The use of exclamation marks and positive hashtags like ""#GoSpursGo"" indicates enthusiasm. 
+Final Answer: 2",0,cot,balanced-held-out-test
+The only thing standing between the palestine-israel peace agreement is #hamas,1,0,"The tweet expresses a negative sentiment by implying that Hamas is hindering a potential peace agreement. The use of ""only thing standing"" suggests frustration or disappointment with Hamas's role in preventing peace.
+Final Answer: 0",0,cot,balanced-held-out-test
+"Retweeted Lost In History (@HistoryToLearn):Muhammad Ali hugs Pelé at his goodbye match. He said: ""My friend....",2,2,"The tweet is sharing a positive historical moment between two famous figures, Muhammad Ali and Pelé, who had a friendly interaction. This suggests a positive sentiment as it highlights a moment of camaraderie and friendship.
+
+Final Answer: 2",0,cot,balanced-held-out-test
+Obama's latest #BlackLivesMatter recruiting videoWelcome to the Modesto mall...,1,1,"The tweet appears to be referencing Obama's involvement in Black Lives Matter and mentioning a recruiting video shown at a mall. The tone is neutral, not expressing strong positive or negative emotions but rather stating a fact. There are no emotive words or clear indicators of sentiment either way.
+
+Final Answer: 1",0,cot,balanced-held-out-test
+#MuhammadAli Muhammad Ali Leon Spinks On Site Boxing Press Brochure September 15 . 1978 #Legend #Boxer,1,1,"The tweet appears to be a factual statement about a boxing event without any clear positive or negative sentiment expressed. It mentions a famous boxer and an event but does not convey any emotional tone. 
+Final Answer: 1",0,cot,balanced-held-out-test
+U1: RCC: Christian Views on Homosexuality: Gay marriage vote: The couple hoping to marry in church,1,1,"The tweet does not express an opinion or emotion but rather provides information about a topic related to gay marriage and its potential impact on religious views. It is neutral in tone without any clear positive or negative sentiment.
+
+Final Answer: 1",0,cot,balanced-held-out-test
+Trump & his cabinet together w/ his family just downgraded America into Banana Republic in just 2 wks.We're the lau…,0,0,"The tweet expresses strong negative sentiment towards Trump and his actions, using phrases like ""downgraded America"" and comparing the situation to a ""Banana Republic,"" which implies corruption and instability. The tone is critical and disapproving.
+
+Final Answer: 0",0,cot,balanced-held-out-test
+11/16/16 FastCast: Cy Young winners revealed via @user,1,1,"The tweet appears to be a routine sports update or forecast, likely from a weather or sports news source, without any emotional content that would indicate positive or negative sentiment. It is a neutral statement providing information.
+
+Final Answer: 1",0,cot,balanced-held-out-test
+watching every single 1d interview today  #3YearsofMidnightMemories #MtvStarsNiallHoran #MPN #OneDirection,1,2,"The tweet expresses enthusiasm about watching interviews, which indicates a positive sentiment. The use of multiple hashtags also suggests engagement and excitement about the topic. 
+Final Answer: 2",0,cot,balanced-held-out-test
+Why is Armstrong still speaking for Carson? It bothers me. I am not basing my concerns solely on the Mother Jones...,0,0,"The tweet expresses a personal opinion and concern about someone named Armstrong speaking for Carson, indicating a negative sentiment. The phrase ""It bothers me"" directly conveys dissatisfaction or annoyance.
+Final Answer: 0",0,cot,balanced-held-out-test
+"@user He was a ""meh"" prime minister for me. No real highlights come to mind of his tenure. Maybe legalising gay marriage?",1,1,"The tweet expresses a lukewarm opinion about the prime minister, indicating neither strong positive nor negative feelings. The use of ""meh"" suggests dissatisfaction but not intense negativity. Mentioning lack of highlights and a single positive point (legalising gay marriage) does not outweigh the overall neutral tone. 
+Final Answer: 1",0,cot,balanced-held-out-test
+The latest 3D Printing! Thanks to @user @user @user #3dprinting #3d,2,2,"The tweet expresses gratitude and thanks for 3D printing technology, which indicates a positive sentiment. The use of exclamation marks also suggests enthusiasm.
+Final Answer: 2",0,cot,balanced-held-out-test
+fascinating...https://t.co/VB8x7YOoE5,2,2,"The tweet expresses a positive sentiment through the use of the word ""fascinating,"" which indicates interest and excitement. The link suggests additional content that aligns with the positive tone.
+Final Answer: 2",0,cot,balanced-held-out-test
+#jocox  supporter of #hamas and #fabian and #hoax death to try and stop #brexitthe #remain cancer lost,0,0,"The tweet contains mixed elements but leans negative due to the use of terms like ""hoax"" and ""cancer"" which are derogatory and imply conspiracy theories or negative intentions. The context suggests a hostile or critical stance rather than a positive one.
+Final Answer: 0",0,cot,balanced-held-out-test
+#Google Earth now available in VR #HTC #virtualreality …,1,2,"The tweet expresses a positive update about Google Earth becoming available in VR, which indicates excitement or satisfaction. The use of hashtags also suggests sharing this news with others, often associated with positive sentiments.
+
+Final Answer: 2",0,cot,balanced-held-out-test
+"@user babe i thought you can do whatever you want... But, love, I'm no longer want to be without you.",2,2,"The tweet expresses a mix of emotions but leans towards positive sentiment due to the declaration of love and the desire not to be without the other person. The use of ""babe"" and the overall tone suggest affection and a positive relationship status despite some initial uncertainty.
+
+Final Answer: 2",0,cot,balanced-held-out-test
+I liked a @user video The Sky's Limit: We Need to Stop Fossil Fuels,2,2,"The tweet expresses a positive sentiment by using the word ""liked"" and shows support for an environmental cause. 
+Final Answer: 2",0,cot,balanced-held-out-test
+"Raul Castro announced that Cuba would not be allowed to name any streets or monuments after Fidel to ""avoid a cult of personality"" -ABC News",0,1,"The tweet discusses a political decision regarding naming streets and monuments, which is presented as a neutral fact without expressing positive or negative emotions or opinions. The tone is matter-of-fact and informative.
+Final Answer: 1",0,cot,balanced-held-out-test
+Just seen the season finale for westworld and wow... This show is…,2,2,"The tweet expresses excitement and amazement about the show's finale, indicating a positive sentiment despite the ellipsis suggesting some uncertainty or mixed feelings which is not strong enough to classify it as negative.
+Final Answer: 2",0,cot,balanced-held-out-test
+#BreakingNewslist of the terrorist groups at #Jordan meeting are..#Hamas #katabThawratAlAshreen #AlJaishAlislami #BaathParty & others,0,1,"The tweet appears to be reporting on a list of terrorist groups involved in a meeting in Jordan. The content is factual and does not express any positive or negative emotions towards these groups. It is simply stating information without an emotional tone.
+
+Final Answer: 1",0,cot,balanced-held-out-test
+#AllStar 2011 Panini Gold Standard Stars Memorabilia 19 #LaMarcusAldridge Basketball #Card,1,1,"The tweet appears to be a neutral statement about basketball memorabilia, mentioning a specific product and player without expressing any positive or negative emotions. It is simply providing information or sharing an interest in a collectible item.
+Final Answer: 1",0,cot,balanced-held-out-test
+Let Céline sing the theme Song again! #BeautyAndTheBeast 2017 #emmawatson #BeOurGuest #CelineDion,2,2,"The tweet expresses a positive wish for Céline Dion to sing the theme song again, which indicates enthusiasm and a positive sentiment towards her and the song. The use of exclamation marks also conveys excitement. The hashtags used are related to positive events or moments (the 2017 Beauty and the Beast movie and a song from it). 
+Final Answer: 2",0,cot,balanced-held-out-test
+I think I have spent quite enough on Persona 5.,2,0,"The tweet expresses dissatisfaction with spending more on Persona 5, indicating a negative sentiment.
+Final Answer: 0",0,cot,balanced-held-out-test
+Check our #MosulOffensive section to keep up to date with the latest in #Iraq,1,1,"The tweet does not express any positive or negative emotions but rather provides information and updates on a current event. It is neutral in tone.
+Final Answer: 1",0,cot,balanced-held-out-test
+The excitement felt when the #hatchimals hatches. Rosie's face was #priceless .  #hatchybirthday…,2,2,"The tweet expresses positive emotions about the experience of watching a Hatchimal hatch and the reaction it caused, particularly mentioning that someone's face was priceless which indicates a strong positive reaction. The use of exclamation marks and positive hashtags also supports this interpretation.
+
+Final Answer: 2",0,cot,balanced-held-out-test
+Another #oil producer's under pressure to devalue its currency & fight a booming black market for #dollars. #Libya.…,1,0,"The tweet discusses economic pressures and challenges faced by an oil producer in Libya, which generally conveys a negative tone due to the mention of devaluation and a black market issue. Final Answer: 0",0,cot,balanced-held-out-test
+Lauren Graham Responds To Lin-Manuel Miranda's 'Gilmore Girls' tweet - beautiful!@fallonthornley @user,1,2,"The tweet expresses a positive reaction to Lin-Manuel Miranda's mention of ""Gilmore Girls"". The use of the word ""beautiful"" indicates admiration or appreciation, which is a positive sentiment. There are no negative or neutral elements in the tweet.
+
+Final Answer: 2",0,cot,balanced-held-out-test
+I hope one day we won't even need a oil pipeline because we will have a achieved sustainable society. Free of harmful fossil fuels #NoDAPL,2,2,"The tweet expresses a hopeful and optimistic view towards achieving a sustainable society without the need for oil pipelines or harmful fossil fuels. The use of positive language like ""hope"" and the hashtag supporting environmental causes (#NoDAPL) indicates a positive sentiment.
+
+Final Answer: 2",0,cot,balanced-held-out-test
+@user Excellent idea!  Maybe the electoral college will change the outcome of the election!  They have a constitutional right to do it!,2,2,"The tweet expresses enthusiasm and support for an idea, indicating a positive sentiment. While it also includes a speculative statement about the electoral college, this does not detract from the overall positive tone.
+Final Answer: 2",0,cot,balanced-held-out-test
+"wish people find other ways to make money than advertising, booze and fossil fuels, is that called moral economy ?",0,0,"The tweet expresses a critical view on certain industries (advertising, booze, and fossil fuels) and questions their morality. This indicates a negative sentiment towards these sectors.
+
+Final Answer: 0",0,cot,balanced-held-out-test
+#Yemen's War-Damaged #Hodeidah Port Struggles to Bring in Vital Supplieshttps://t.co/mIpjYbCqZ7 via @user,1,1,"The tweet does not express any clear positive or negative emotions or opinions about the situation described. It is a neutral statement providing information about the state of Yemen's Hodeidah Port. Therefore, this tweet can be classified as neutral.
+
+Final Answer: 1",0,cot,balanced-held-out-test
+Thank you @user for always reminding me that light is more powerful than darkness.,2,2,"The tweet expresses gratitude and positivity towards the reminder received from @user about light being more powerful than darkness. This indicates a positive sentiment as it conveys appreciation and optimism.
+Final Answer: 2",0,cot,balanced-held-out-test
+@user The Saviors making Gregory kneel after taking half of his shit comes to mind. #TheWalkingDead,0,0,"The tweet references a scene from ""The Walking Dead"" where a character is made to kneel after being defeated, which implies a negative outcome or punishment. The use of ""half of his shit"" suggests a derogatory and negative tone. Therefore, this tweet conveys a negative sentiment.
+
+Final Answer: 0",0,cot,balanced-held-out-test
+"If we have found in GOD meaning for our own lives, we cannot be indifferent to those who are sad or suffering. --Pope Francis",1,2,"The tweet expresses a positive message about compassion and faith, encouraging engagement with others' suffering based on a spiritual belief. This conveys a hopeful and uplifting sentiment.
+Final Answer: 2",0,cot,balanced-held-out-test
+@user Happy Thanksgiving!,2,2,"The tweet expresses a positive sentiment by wishing someone a happy Thanksgiving, indicating goodwill and celebration.
+Final Answer: 2",0,cot,balanced-held-out-test

@@ -1,0 +1,22 @@
+Task: Classify the sentiment of the text. Reason briefly, then give the final answer.
+Options: 0:Very Negative, 1:Negative, 2:Neutral, 3:Positive, 4:Very Positive
+Examples:
+Text: "a devastating indictment of unbridled greed and materalism ." -> Answer: 0
+Text: "i still want my money back ." -> Answer: 0
+Text: "makes 98 minutes feel like three hours ." -> Answer: 0
+Text: "lush and beautifully photographed -lrb- somebody suggested the stills might make a nice coffee table book -rrb- , but ultimately you 'll leave the theater wondering why these people mattered ." -> Answer: 1
+Text: "quitting , however , manages just to be depressing , as the lead actor phones in his autobiographical performance ." -> Answer: 1
+Text: "zigzag might have been richer and more observant if it were less densely plotted ." -> Answer: 1
+Text: "if all of eight legged freaks was as entertaining as the final hour , i would have no problem giving it an unqualified recommendation ." -> Answer: 2
+Text: "it somehow managed to make its way past my crappola radar and find a small place in my heart" -> Answer: 2
+Text: "the last three narcissists left on earth compete for each others ' affections ." -> Answer: 2
+Text: "but kouyate elicits strong performances from his cast , and he delivers a powerful commentary on how governments lie , no matter who runs them ." -> Answer: 3
+Text: "there 's just something about watching a squad of psychopathic underdogs whale the tar out of unsuspecting lawmen that reaches across time and distance ." -> Answer: 3
+Text: "there are flaws , but also stretches of impact and moments of awe ; we 're wrapped up in the characters , how they make their choices , and why ." -> Answer: 3
+Text: "combines sharp comedy , old-fashioned monster movie atmospherics , and genuine heart to create a film that 's not merely about kicking undead \*\*\* , but also about dealing with regret and , ultimately , finding redemption ." -> Answer: 4
+Text: "hopkins , squarely fills the screen ." -> Answer: 4
+Text: "the overall fabric is hypnotic , and mr. mattei fosters moments of spontaneous intimacy ." -> Answer: 4
+
+Briefly explain the decision, then end with a separate line "Final Answer: <numeric ID>".
+Text: "[TEXT_TO_CLASSIFY]"
+Reasoning:

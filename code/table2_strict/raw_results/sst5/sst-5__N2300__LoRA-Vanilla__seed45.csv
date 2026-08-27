@@ -1,0 +1,2 @@
+Dataset,N,Method,Seed,Macro-F1,Weighted-F1,Accuracy,Balanced_Acc,G-Mean,AUC,Train_Time_Sec,Inference_Time_Sec,Peak_Memory_MB,Params_M,F1_Class_0,F1_Class_1,F1_Class_2,F1_Class_3,F1_Class_4,Eval-Split
+SST-5,2300,LoRA-Vanilla,45,0.06781115879828327,0.06781115879828327,0.1975,0.1975,0.0,0.4899257812499999,29.27612328529358,0.8381726741790771,2391.57861328125,0.888581,0.0,0.0,0.33905579399141633,0.0,0.0,bestparams_rerun

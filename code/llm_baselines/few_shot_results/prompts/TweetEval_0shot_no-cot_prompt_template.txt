@@ -1,0 +1,6 @@
+Task: Classify tweet sentiment.
+Options: 0:Negative, 1:Neutral, 2:Positive
+
+Return ONLY the numeric ID (0-2). Do not explain.
+Text: "[TEXT_TO_CLASSIFY]"
+Answer:

@@ -1,0 +1,401 @@
+text,true_label,pred_label,llm_response,k_shot,protocol
+"besides , real movie producers are n't this nice .",2,0,0,5,balanced-held-out-test
+"is n't quite the equal of woo 's best earlier work , but it 's easily his finest american film ... comes close to recapturing the brilliance of his hong kong films .",3,3,3,5,balanced-held-out-test
+it 's never a good sign when a film 's star spends the entirety of the film in a coma .,0,0,0,5,balanced-held-out-test
+we 've already seen the prequel to the silence of the lambs and hannibal -- and it was better the first time .,2,0,0,5,balanced-held-out-test
+quick : who wants to see a comedy about shoddy airport security ?,1,0,0,5,balanced-held-out-test
+but the characters tend to be cliches whose lives are never fully explored .,1,1,1,5,balanced-held-out-test
+"the film has just enough of everything -- re-enactments , archival footage , talking-head interviews -- and the music is simply sublime .",4,3,3,5,balanced-held-out-test
+"this is a particularly toxic little bonbon , palatable to only a chosen and very jaundiced few .",1,0,0,5,balanced-held-out-test
+"the pianist is a fine valedictory work for polanski , made richer by his own experiences , making his other movies somehow richer in the bargain .",3,4,4,5,balanced-held-out-test
+it 's a great deal of sizzle and very little steak .,1,1,1,5,balanced-held-out-test
+this is n't a `` friday '' worth waiting for .,0,0,0,5,balanced-held-out-test
+one of the greatest romantic comedies of the past decade .,4,4,4,5,balanced-held-out-test
+disturbingly superficial in its approach to the material .,0,0,0,5,balanced-held-out-test
+"a lousy movie that 's not merely unwatchable , but also unlistenable .",0,0,0,5,balanced-held-out-test
+"the premise for this kegger comedy probably sounded brilliant four six-packs and a pitcher of margaritas in , but the film must have been written ... in the thrall of a vicious hangover .",1,0,0,5,balanced-held-out-test
+"just one more collection of penis , breast and flatulence gags in search of a story .",0,0,0,5,balanced-held-out-test
+"an impossible romance , but we root for the patronized iranian lad .",3,3,3,5,balanced-held-out-test
+two generations within one family test boundaries in this intelligent and restrained coming-of-age drama .,4,3,3,5,balanced-held-out-test
+"if there 's nothing fresh about wannabes , which was written by mr. demeo , who produced and directed the film with charles a. addessi , much of the time the movie feels authentic .",2,3,3,5,balanced-held-out-test
+frida 's artistic brilliance is undeniable -- it 's among the most breathtakingly designed films i 've ever seen .,4,4,4,5,balanced-held-out-test
+"had anyone here done anything remotely intelligent , we all could have stopped watching long ago .",0,0,0,5,balanced-held-out-test
+"the weight of water uses water as a metaphor for subconscious desire , but this leaky script barely stays afloat .",0,0,0,5,balanced-held-out-test
+this bold and lyrical first feature from raja amari expands the pat notion that middle-aged women just wanna have fun into a rousing treatise of sensual empowerment .,4,4,4,5,balanced-held-out-test
+happily for mr. chin -- though unhappily for his subjects -- the invisible hand of the marketplace wrote a script that no human screenwriter could have hoped to match .,3,3,3,5,balanced-held-out-test
+"this self-infatuated goofball is far from the only thing wrong with the clumsy comedy stealing harvard , but he 's the most obvious one .",0,1,1,5,balanced-held-out-test
+"compelling as it is exotic , fast runner has a plot that rivals shakespeare for intrigue , treachery and murder .",4,3,3,5,balanced-held-out-test
+"the film 's 45-minute running time stops shy of overkill , though viewers may be more exhausted than the athletes onscreen .",1,2,2,5,balanced-held-out-test
+it ultimately stands forth as an important chronicle of the abuses of one of latin america 's most oppressive regimes .,2,4,4,5,balanced-held-out-test
+skip work to see it at the first opportunity .,3,4,4,5,balanced-held-out-test
+director nalin pan does n't do much to weigh any arguments one way or the other .,1,1,1,5,balanced-held-out-test
+"rarely do films come along that are as intelligent , exuberant , and moving as monsoon wedding .",4,4,4,5,balanced-held-out-test
+only two words will tell you what you know when deciding to see it : anthony .,2,2,2,5,balanced-held-out-test
+"an enthralling , playful film that constantly frustrates our desire to know the ` truth ' about this man , while deconstructing the very format of the biography in a manner that derrida would doubtless give his blessing to .",3,4,4,5,balanced-held-out-test
+"a trashy , exploitative , thoroughly unpleasant experience .",0,0,0,5,balanced-held-out-test
+"admirable , certainly , but not much fun to watch .",2,1,1,5,balanced-held-out-test
+"scarlet diva has a voyeuristic tug , but all in all it 's a lot less sensational than it wants to be .",1,1,1,5,balanced-held-out-test
+and forget about any attempt at a plot !,1,0,0,5,balanced-held-out-test
+"ana is a vivid , vibrant individual and the movie 's focus upon her makes it successful and accessible .",4,3,3,5,balanced-held-out-test
+"not every animated film from disney will become a classic , but forgive me if i 've come to expect more from this studio than some 79-minute after-school `` cartoon '' .",1,0,0,5,balanced-held-out-test
+the film equivalent of a toy chest whose contents get scattered over the course of 80 minutes .,1,2,2,5,balanced-held-out-test
+"the 3d images only enhance the film 's otherworldly quality , giving it a strange combo of you-are-there closeness with the disorienting unreality of the seemingly broken-down fourth wall of the movie screen .",4,3,3,5,balanced-held-out-test
+"a turgid little history lesson , humourless and dull .",0,0,0,5,balanced-held-out-test
+"no , it 's the repetition of said behavior , and so children of the century is more mindless love than mad , more grating and boring than anything else .",0,0,0,5,balanced-held-out-test
+"this series should have died long ago , but they keep bringing it back another day as punishment for paying money to see the last james bond movie .",0,0,0,5,balanced-held-out-test
+the picture is a primer on what happens when lack of know-how mixes with lack of give-a-damn .,1,0,0,5,balanced-held-out-test
+the film is often filled with a sense of pure wonderment and excitement not often seen in today 's cinema du sarcasm,4,4,4,5,balanced-held-out-test
+"the two leads are almost good enough to camouflage the dopey plot , but so much naturalistic small talk , delivered in almost muffled exchanges , eventually has a lulling effect .",1,1,1,5,balanced-held-out-test
+"the problem is that rather than dramatizing this premise , mr. desplechin is content to state it .",2,0,0,5,balanced-held-out-test
+i watched the brainless insanity of no such thing with mounting disbelief .,0,0,0,5,balanced-held-out-test
+heavy-handed exercise in time-vaulting literary pretension .,2,0,0,5,balanced-held-out-test
+the backyard battles you staged with your green plastic army men were more exciting and almost certainly made more sense .,0,0,0,5,balanced-held-out-test
+good actress .,4,3,3,5,balanced-held-out-test
+"it 's a good film -- not a classic , but odd , entertaining and authentic .",4,3,3,5,balanced-held-out-test
+automatically pegs itself for the straight-to-video sci-fi rental shelf .,0,0,0,5,balanced-held-out-test
+"mr. parker has brilliantly updated his source and grasped its essence , composing a sorrowful and hilarious tone poem about alienated labor , or an absurdist workplace sitcom .",4,4,4,5,balanced-held-out-test
+"too loud , too long and too frantic by half , die another day suggests that the bond franchise has run into a creative wall that 007 can not fly over , tunnel under or barrel through .",0,0,0,5,balanced-held-out-test
+i believe the message is in the messenger : the agent is a woman .,2,2,2,5,balanced-held-out-test
+some actors steal scenes .,2,2,2,5,balanced-held-out-test
+ridiculous .,0,0,0,5,balanced-held-out-test
+"sadly , hewitt 's forte is leaning forward while wearing low-cut gowns , not making snappy comebacks .",1,0,0,5,balanced-held-out-test
+"but buying into sham truths and routine `` indie '' filmmaking , freundlich has made just another safe movie .",1,0,0,5,balanced-held-out-test
+"a work of the utmost subtlety and perception , it marks the outstanding feature debut of writer-director eric byler , who understands the power of the implicit and the virtues of simplicity and economy .",3,4,4,5,balanced-held-out-test
+pray 's film works well and will appeal even to those who are n't too familiar with turntablism .,3,3,3,5,balanced-held-out-test
+a movie far more cynical and lazy than anything a fictitious charlie kaufman might object to .,0,0,0,5,balanced-held-out-test
+another rent installment for the ian fleming estate .,1,2,2,5,balanced-held-out-test
+audiences can be expected to suspend their disbelief only so far -- and that does not include the 5 o'clock shadow on the tall wooden kid as he skips off to school .,0,1,1,5,balanced-held-out-test
+"andy garcia enjoys one of his richest roles in years and mick jagger gives his best movie performance since , well , performance .",4,4,4,5,balanced-held-out-test
+woo 's fights have a distinct flair .,3,3,3,5,balanced-held-out-test
+a beautiful and haunting examination of the stories we tell ourselves to make sense of the mundane horrors of the world .,4,4,4,5,balanced-held-out-test
+not even the hanson brothers can save it,0,0,0,5,balanced-held-out-test
+the movie has an avalanche of eye-popping visual effects .,4,4,4,5,balanced-held-out-test
+"if this is an example of the type of project that robert redford 's lab is willing to lend its imprimatur to , then perhaps it 's time to rethink independent films .",1,0,0,5,balanced-held-out-test
+"if you 're not into the pokemon franchise , this fourth animated movie in four years wo n't convert you -- or even keep your eyes open .",0,0,0,5,balanced-held-out-test
+"most of the supporting characters in eastwood films are weak , as are most of the subplots .",0,0,0,5,balanced-held-out-test
+a richly imagined and admirably mature work from a gifted director who definitely has something on his mind .,4,4,4,5,balanced-held-out-test
+"as blunt as it is in depicting child abuse , el bola is a movie steeped in an ambiguity that lends its conflicts a symbolic resonance .",3,3,3,5,balanced-held-out-test
+even those who would like to dismiss the film outright should find much to mull and debate .,2,3,3,5,balanced-held-out-test
+offers that rare combination of entertainment and education .,4,3,3,5,balanced-held-out-test
+sensitive though not quite revelatory documentary .,2,2,2,5,balanced-held-out-test
+"intriguing and beautiful film , but those of you who read the book are likely to be disappointed .",3,3,3,5,balanced-held-out-test
+"the makers have forsaken the entertaining elements of the original and , instead , rehash old jokes and leave any life at the doorstep .",0,0,0,5,balanced-held-out-test
+"guided more by intellect than heart , his story flattens instead of sharpens .",0,1,1,5,balanced-held-out-test
+despite its many infuriating flaws -- not the least of which is amy 's self-absorbed personality -- amy 's o 's honesty will win you over .,2,3,3,5,balanced-held-out-test
+"as a witness to several greek-american weddings -- but , happily , a victim of none -- i can testify to the comparative accuracy of ms. vardalos ' memories and insights .",3,3,3,5,balanced-held-out-test
+it is not a mass-market entertainment but an uncompromising attempt by one artist to think about another .,3,3,3,5,balanced-held-out-test
+"it 's not horrible , just horribly mediocre .",0,1,1,5,balanced-held-out-test
+"branagh , in his most forceful non-shakespeare screen performance , grounds even the softest moments in the angry revolt of his wit .",3,4,4,5,balanced-held-out-test
+take care of my cat offers a refreshingly different slice of asian cinema .,3,3,3,5,balanced-held-out-test
+there 's suspension of disbelief and then there 's bad screenwriting ... this film packs a wallop of the latter .,1,0,0,5,balanced-held-out-test
+"while benigni -lrb- who stars and co-wrote -rrb- seems to be having a wonderful time , he might be alone in that .",1,1,1,5,balanced-held-out-test
+"william shatner , as a pompous professor , is the sole bright spot ...",2,1,1,5,balanced-held-out-test
+"almost every scene in this film is a gem that could stand alone , a perfectly realized observation of mood , behavior and intent .",4,4,4,5,balanced-held-out-test
+"like most bond outings in recent years , some of the stunts are so outlandish that they border on being cartoonlike .",1,2,2,5,balanced-held-out-test
+"it would be interesting to hear from the other side , but in talk to her , the women are down for the count .",2,0,0,5,balanced-held-out-test
+"`` my god , i 'm behaving like an idiot ! ''",2,1,1,5,balanced-held-out-test
+nolan bravely treads where few american films dare to delve -- into the world of ambivalence and ambiguity ...,3,3,3,5,balanced-held-out-test
+a feel-good picture in the best sense of the term .,4,4,4,5,balanced-held-out-test
+... an inviting piece of film .,4,3,3,5,balanced-held-out-test
+"chalk it up to my adoration for both de niro and murphy , but i had a pretty good time with this movie - despite its myriad flaws .",2,3,3,5,balanced-held-out-test
+"... just a big mess of a movie , full of images and events , but no tension or surprise .",0,0,0,5,balanced-held-out-test
+"it 's a sly wink to the others without becoming a postmodern joke , made creepy by its `` men in a sardine can '' warped logic .",3,3,3,5,balanced-held-out-test
+"opens as promising as any war\/adventure film you 'll ever see and dissolves into a routine courtroom drama , better suited for a movie titled `` glory : a soldier 's story . ''",1,0,0,5,balanced-held-out-test
+the piano teacher is the sort of movie that discourages american audiences from ever wanting to see another foreign film .,0,0,0,5,balanced-held-out-test
+"i wish i could say `` thank god it 's friday '' , but the truth of the matter is i was glad when it was over .",0,0,0,5,balanced-held-out-test
+"instead of kicking off the intrigue and suspense and mystery of the whole thing , hart 's war , like the st. louis rams in the super bowl , waits until after halftime to get started .",1,1,1,5,balanced-held-out-test
+"schmaltzy and unfunny , adam sandler 's cartoon about hanukkah is numbingly bad , little nicky bad , 10 worst list bad .",0,0,0,5,balanced-held-out-test
+an atonal estrogen opera that demonizes feminism while gifting the most sympathetic male of the piece with a nice vomit bath at his wedding .,0,0,0,5,balanced-held-out-test
+punish the vehicle to adore the star .,1,2,2,5,balanced-held-out-test
+"daring , mesmerizing and exceedingly hard to forget .",4,4,4,5,balanced-held-out-test
+an enchanting film that presents an audacious tour of the past and takes within its warm embrace the bounties of cultural artifacts inside st. petersburg 's hermitage museum .,4,4,4,5,balanced-held-out-test
+"-lrb- director -rrb- byler may yet have a great movie in him , but charlotte sometimes is only half of one .",1,1,1,5,balanced-held-out-test
+"doug liman , the director of bourne , directs the traffic well , gets a nice wintry look from his locations , absorbs us with the movie 's spycraft and uses damon 's ability to be focused and sincere .",4,4,4,5,balanced-held-out-test
+not too far below the gloss you can still feel director denis villeneuve 's beating heart and the fondness he has for his characters .,3,4,4,5,balanced-held-out-test
+lead provocatuers testud and parmentier give superlative performances,4,3,3,5,balanced-held-out-test
+time changer may not be the most memorable cinema session but its profound self-evaluation message about our fragile existence and the absence of spiritual guidance should at least invade an abundance of mindsets,3,3,3,5,balanced-held-out-test
+"a one-trick pony whose few t&a bits still ca n't save itself from being unoriginal , unfunny and unrecommendable .",0,0,0,5,balanced-held-out-test
+a sermonizing and lifeless paean to teenage dullards .,0,0,0,5,balanced-held-out-test
+perhaps no picture ever made has more literally showed that the road to hell is paved with good intentions .,3,0,0,5,balanced-held-out-test
+a harmless and mildly amusing family comedy .,3,2,2,5,balanced-held-out-test
+"this concoction , so bizarre to the adult mind , is actually a charming triumph where its intended under-12 audience is concerned .",3,3,3,5,balanced-held-out-test
+anyone who can count to five -lrb- the film 's target market ? -rrb-,1,0,0,5,balanced-held-out-test
+"if you think that jennifer lopez has shown poor judgment in planning to marry ben affleck , wait till you see maid in manhattan .",1,0,0,5,balanced-held-out-test
+you 're better off staying home and watching the x-files .,0,0,0,5,balanced-held-out-test
+"often hilarious , well-shot and , importantly , entertaining , hell house is a fascinating document of an event that has to be seen to be believed .",4,4,4,5,balanced-held-out-test
+the story loses its bite in a last-minute happy ending that 's even less plausible than the rest of the picture .,0,0,0,5,balanced-held-out-test
+"it seems just a long , convoluted ploy to get men into drag -- period drag , no less .",2,1,1,5,balanced-held-out-test
+"if this movie were a book , it would be a page-turner , you ca n't wait to see what happens next .",4,4,4,5,balanced-held-out-test
+"a very witty take on change , risk and romance , and the film uses humour to make its points about acceptance and growth .",4,4,4,5,balanced-held-out-test
+"it wants to be thought of as a subversive little indie film , but it has all the qualities of a modern situation comedy .",2,2,2,5,balanced-held-out-test
+"a thoughtful , moving piece that faces difficult issues with honesty and beauty .",3,4,4,5,balanced-held-out-test
+"i like frank the pug , though .",3,3,3,5,balanced-held-out-test
+"earnest but earthbound ... a slow , soggy , soporific , visually dank crime melodrama\/character study that would be more at home on the small screen but for its stellar cast .",1,0,0,5,balanced-held-out-test
+"windtalkers blows this way and that , but there 's no mistaking the filmmaker in the tall grass , true to himself .",3,3,3,5,balanced-held-out-test
+there 's not much going on in this movie unless you simply decide to buy into the notion that something inexplicably strange once happened in point pleasant .,2,0,0,5,balanced-held-out-test
+"the furious coherence that -lrb- deniro -rrb- brings to this part only underscores the fuzzy sentimentality of the movie itself , which feels , as it plods toward the end , less like a movie than like the filmed reading of a script in need of polishing .",1,0,0,5,balanced-held-out-test
+"karmen moves like rhythm itself , her lips chanting to the beat , her long , braided hair doing little to wipe away the jeweled beads of sweat .",2,3,3,5,balanced-held-out-test
+"hey , at least the title of this film lets you know exactly where it 's heading .",2,1,1,5,balanced-held-out-test
+"at its best , the good girl is a refreshingly adult take on adultery ...",3,3,3,5,balanced-held-out-test
+"only a few minutes elapse before the daddy of all slashers arrives , still with the boiler suit and white mask , which look remarkably clean for a guy who has been mass-murdering since 1978 but has never been seen doing laundry .",2,3,3,5,balanced-held-out-test
+"an amusing , breezily apolitical documentary about life on the campaign trail .",3,3,3,5,balanced-held-out-test
+godawful boring slug of a movie .,0,0,0,5,balanced-held-out-test
+"george , hire a real director and good writers for the next installment , please .",1,0,0,5,balanced-held-out-test
+a cop story that understands the medium amazingly well .,3,3,3,5,balanced-held-out-test
+a bigger holiday downer than your end-of-year 401 -lrb- k -rrb- statement .,1,0,0,5,balanced-held-out-test
+a cinematic sleeping pill of impressive potency .,2,0,0,5,balanced-held-out-test
+"the film 's sharp , often mischievous sense of humor will catch some off guard ...",3,3,3,5,balanced-held-out-test
+"after that , it just gets stupid and maudlin .",0,0,0,5,balanced-held-out-test
+"it 's the kind of movie you ca n't quite recommend because it is all windup and not much of a pitch , yet you ca n't bring yourself to dislike it .",1,2,2,5,balanced-held-out-test
+haneke keeps us at arm 's length .,2,2,2,5,balanced-held-out-test
+"an impressive debut for first-time writer-director mark romanek , especially considering his background is in music video .",4,3,3,5,balanced-held-out-test
+leave these flowers unpicked -- they 're dead on the vine .,0,0,0,5,balanced-held-out-test
+"newton draws our attention like a magnet , and acts circles around her better known co-star , mark wahlberg .",4,3,3,5,balanced-held-out-test
+"he just wants them to be part of the action , the wallpaper of his chosen reality .",3,1,1,5,balanced-held-out-test
+"if kaufman kept cameron diaz a prisoner in a cage with her ape , in his latest , he 'd have them mate .",1,2,2,5,balanced-held-out-test
+a waste of good performances .,0,0,0,5,balanced-held-out-test
+"ultimately , it ponders the reasons we need stories so much .",2,3,3,5,balanced-held-out-test
+"an often-deadly boring , strange reading of a classic whose witty dialogue is treated with a baffling casual approach",1,0,0,5,balanced-held-out-test
+"scene-by-scene , things happen , but you 'd be hard-pressed to say what or why .",1,0,0,5,balanced-held-out-test
+he 's super spy !,3,4,4,5,balanced-held-out-test
+"moore 's complex and important film is also , believe it or not , immensely entertaining , a david and goliath story that 's still very much playing itself out .",4,4,4,5,balanced-held-out-test
+"a triumph , relentless and beautiful in its downbeat darkness .",4,4,4,5,balanced-held-out-test
+"this is a good movie in spurts , but when it does n't work , it 's at important times .",2,3,3,5,balanced-held-out-test
+an eccentric little comic\/thriller deeply in love with its own quirky personality .,3,3,3,5,balanced-held-out-test
+"whether kiss is a future cult classic or destined to be completely forgotten is open to question , but the risk-takers in the crowd should check it out and form their own opinion .",2,2,2,5,balanced-held-out-test
+"these are lives worth watching , paths worth following .",4,4,4,5,balanced-held-out-test
+the tone shifts abruptly from tense to celebratory to soppy .,1,2,2,5,balanced-held-out-test
+"an offbeat , sometimes gross and surprisingly appealing animated film about the true meaning of the holidays .",4,3,3,5,balanced-held-out-test
+we may never think of band camp as a geeky or nerdy thing again .,2,3,3,5,balanced-held-out-test
+it 's frustrating to see these guys -- who are obviously pretty clever -- waste their talent on parodies of things they probably thought were funniest when they were high .,1,1,1,5,balanced-held-out-test
+"there is no insight into the anguish of heidi 's life -- only a depiction of pain , today 's version of greek tragedy , the talk-show guest decrying her fate .",2,0,0,5,balanced-held-out-test
+a long-winded and stagy session of romantic contrivances that never really gels like the shrewd feminist fairy tale it could have been .,1,0,0,5,balanced-held-out-test
+nothing more than a mediocre trifle .,0,0,0,5,balanced-held-out-test
+it 's also stupider .,1,0,0,5,balanced-held-out-test
+arnold 's jump from little screen to big will leave frowns on more than a few faces .,1,0,0,5,balanced-held-out-test
+imagine if you will a tony hawk skating video interspliced with footage from behind enemy lines and set to jersey shore techno .,1,2,2,5,balanced-held-out-test
+remarkably accessible and affecting .,4,3,3,5,balanced-held-out-test
+"there 's no denying the elaborateness of the artist 's conceptions , nor his ability to depict them with outrageous elan , but really the whole series is so much pretentious nonsense , lavishly praised by those who equate obscurity with profundity .",1,0,0,5,balanced-held-out-test
+the weakest of the four harry potter books has been transformed into the stronger of the two films by the thinnest of margins .,2,3,3,5,balanced-held-out-test
+"it feels like a community theater production of a great broadway play : even at its best , it will never hold a candle to the original .",0,1,1,5,balanced-held-out-test
+its underlying mythology is a hodgepodge of inconsistencies that pose the question : since when did dumb entertainment have to be this dumb ?,0,0,0,5,balanced-held-out-test
+"the acting is stiff , the story lacks all trace of wit , the sets look like they were borrowed from gilligan 's island -- and the cgi scooby might well be the worst special-effects creation of the year .",0,0,0,5,balanced-held-out-test
+"at nearly three hours , the whole of safe conduct is less than the sum of its parts .",1,0,0,5,balanced-held-out-test
+"egoyan 's movie is too complicated to sustain involvement , and , if you 'll excuse a little critical heresy , too intellectually ambitious .",1,0,0,5,balanced-held-out-test
+passably entertaining but also mechanical and joyless .,2,1,1,5,balanced-held-out-test
+"the movie is as far as you can get from racy , to the point where it almost stops the blood flow to your brain ; it has a dull , costumey feel .",0,0,0,5,balanced-held-out-test
+mocking kung fu pictures when they were a staple of exploitation theater programming was witty .,2,3,3,5,balanced-held-out-test
+a refreshing korean film about five female high school friends who face an uphill battle when they try to take their relationships into deeper waters .,4,3,3,5,balanced-held-out-test
+"a restrained ribisi convinces as an italian , though if ever a movie needed one of the actor 's whiny jags to pump it up , this has to be among the rare ones .",2,2,2,5,balanced-held-out-test
+escapism in its purest form .,3,4,4,5,balanced-held-out-test
+"it 's got its heart in the right place , but it also wilts after awhile .",2,2,2,5,balanced-held-out-test
+rates an ` e ' for effort -- and a ` b ' for boring .,1,0,0,5,balanced-held-out-test
+"the result is solemn and horrifying , yet strangely detached .",1,0,0,5,balanced-held-out-test
+tender yet lacerating and darkly funny fable .,4,3,3,5,balanced-held-out-test
+the only thing in pauline and paulette that you have n't seen before is a scene featuring a football field-sized oriental rug crafted out of millions of vibrant flowers .,1,3,3,5,balanced-held-out-test
+"the kooky yet shadowy vision clooney sustains throughout is daring , inventive and impressive .",4,4,4,5,balanced-held-out-test
+"a hip ride into hyper-time , clockstoppers is a lively and enjoyable adventure for all ages at any time .",4,4,4,5,balanced-held-out-test
+"an incendiary , deeply thought-provoking look at one of the most peculiar -lrb- and peculiarly venomous -rrb- bigotries in our increasingly frightening theocracy",4,4,4,5,balanced-held-out-test
+"-lrb- a -rrb- superbly controlled , passionate adaptation of graham greene 's 1955 novel .",4,4,4,5,balanced-held-out-test
+a charming romantic comedy that is by far the lightest dogme film and among the most enjoyable .,4,4,4,5,balanced-held-out-test
+"the animated subplot keenly depicts the inner struggles of our adolescent heroes - insecure , uncontrolled , and intense .",3,3,3,5,balanced-held-out-test
+"elicits more groans from the audience than jar jar binks , scrappy doo and scooby dumb , all wrapped up into one .",2,0,0,5,balanced-held-out-test
+"this 72-minute film does have some exciting scenes , but it 's a tad slow .",2,2,2,5,balanced-held-out-test
+"jason x has cheesy effects and a hoary plot , but its macabre , self-deprecating sense of humor makes up for a lot .",3,3,3,5,balanced-held-out-test
+it is nature against progress .,2,2,2,5,balanced-held-out-test
+"as green-guts monster movies go , it 's a beaut .",3,3,3,5,balanced-held-out-test
+"with a story inspired by the tumultuous surroundings of los angeles , where feelings of marginalization loom for every dreamer with a burst bubble , the dogwalker has a few characters and ideas , but it never manages to put them on the same path .",1,1,1,5,balanced-held-out-test
+"the film would work much better as a video installation in a museum , where viewers would be free to leave .",0,0,0,5,balanced-held-out-test
+suffocated at conception by its munchausen-by-proxy mum .,0,0,0,5,balanced-held-out-test
+"if it 's possible for a sequel to outshine the original , then sl2 does just that .",4,4,4,5,balanced-held-out-test
+"` charly ' will divide its audience in two separate groups , those reaching for more tissues and those begging for mercy ...",2,0,0,5,balanced-held-out-test
+"it 's tough , astringent , darkly funny and ... well , it 's also generic , untidy , condescending and mild of impact rather than stunning .",2,2,2,5,balanced-held-out-test
+"myers never knows when to let a gag die ; thus , we 're subjected to one mind-numbingly lengthy riff on poo and pee jokes after another .",1,0,0,5,balanced-held-out-test
+` how many more voyages can this limping but dearly-loved franchise survive ? ',2,0,0,5,balanced-held-out-test
+"hu and liu offer natural , matter-of-fact performances that glint with sorrow , longing and love .",4,3,3,5,balanced-held-out-test
+"cantet perfectly captures the hotel lobbies , two-lane highways , and roadside cafes that permeate vincent 's days",3,3,3,5,balanced-held-out-test
+aspires for the piquant but only really achieves a sort of ridiculous sourness .,1,0,0,5,balanced-held-out-test
+the smartest bonehead comedy of the summer .,4,3,3,5,balanced-held-out-test
+both deeply weird and charmingly dear .,3,3,3,5,balanced-held-out-test
+"the film is all a little lit crit 101 , but it 's extremely well played and often very funny .",4,3,3,5,balanced-held-out-test
+the film is an enjoyable family film -- pretty much aimed at any youngster who loves horses .,3,3,3,5,balanced-held-out-test
+the movie has lots of dancing and fabulous music .,4,3,3,5,balanced-held-out-test
+it 's haunting .,2,3,3,5,balanced-held-out-test
+"i do n't know precisely what to make of steven soderbergh 's full frontal , though that did n't stop me from enjoying much of it .",3,3,3,5,balanced-held-out-test
+a cumbersome and cliche-ridden movie greased with every emotional device known to man .,1,0,0,5,balanced-held-out-test
+the cast is so low-wattage that none of the characters comes off as big ... and the setting remains indistinct .,1,0,0,5,balanced-held-out-test
+morrissette 's script and direction show a fair amount of intelligence and wit -- but it does n't signify a whole lot either .,2,2,2,5,balanced-held-out-test
+you 're too conscious of the effort it takes to be this spontaneous .,2,1,1,5,balanced-held-out-test
+"as a singular character study , it 's perfect .",4,3,3,5,balanced-held-out-test
+i cry for i spy -- or i would if this latest and laziest imaginable of all vintage-tv spinoffs were capable of engendering an emotional response of any kind .,0,0,0,5,balanced-held-out-test
+enduring love but exhausting cinema .,2,3,3,5,balanced-held-out-test
+"nair stuffs the film with dancing , henna , ornamentation , and group song , but her narrative clichés and telegraphed episodes smell of old soap opera .",1,1,1,5,balanced-held-out-test
+"a well-made , thoughtful , well-acted clunker , but a clunker nonetheless .",2,3,3,5,balanced-held-out-test
+... a well-observed and disturbing little movie,2,3,3,5,balanced-held-out-test
+"matthew mcconaughey tries , and fails , to control the screen with swaggering machismo and over-the-top lunacy .",0,1,1,5,balanced-held-out-test
+"the lack of pace kills it , although , in a movie about cancer , this might be apt .",1,0,0,5,balanced-held-out-test
+i love the way that it took chances and really asks you to take these great leaps of faith and pays off .,4,4,4,5,balanced-held-out-test
+"i enjoyed time of favor while i was watching it , but i was surprised at how quickly it faded from my memory .",2,2,2,5,balanced-held-out-test
+it 's a movie -- and an album -- you wo n't want to miss .,4,4,4,5,balanced-held-out-test
+it 's solid and affecting and exactly as thought-provoking as it should be .,4,3,3,5,balanced-held-out-test
+a charming yet poignant tale of the irrevocable ties that bind .,4,3,3,5,balanced-held-out-test
+"for its seriousness , high literary aspirations and stunning acting , the film can only be applauded .",4,4,4,5,balanced-held-out-test
+son of the bride may be a good half-hour too long but comes replete with a flattering sense of mystery and quietness .,1,3,3,5,balanced-held-out-test
+"nothing debases a concept comedy quite like the grinding of bad ideas , and showtime is crammed full of them .",0,0,0,5,balanced-held-out-test
+"like dickens with his passages , mcgrath crafts quite moving scenes throughout his resolutely dramatic variation on the novel .",4,3,3,5,balanced-held-out-test
+"this extremely unfunny film clocks in at 80 minutes , but feels twice as long .",0,0,0,5,balanced-held-out-test
+little more than a frothy vanity project .,1,0,0,5,balanced-held-out-test
+"occasionally funny , always very colorful and enjoyably overblown in the traditional almodóvar style .",4,3,3,5,balanced-held-out-test
+life is a crock -- or something like it .,1,0,0,5,balanced-held-out-test
+"this is such a high-energy movie where the drumming and the marching are so excellent , who cares if the story 's a little weak .",3,3,3,5,balanced-held-out-test
+"sometimes , nothing satisfies like old-fashioned swashbuckling .",3,3,3,5,balanced-held-out-test
+never mind whether you buy the stuff about barris being a cia hit man .,1,2,2,5,balanced-held-out-test
+"it is far from the worst , thanks to the topical issues it raises , the performances of stewart and hardy , and that essential feature -- a decent full-on space battle .",3,2,2,5,balanced-held-out-test
+recalls quiet freak-outs like l'avventura and repulsion .,2,2,2,5,balanced-held-out-test
+"what full frontal lacks in thematic coherence it largely makes up for as loosey-goosey , experimental entertainment .",3,3,3,5,balanced-held-out-test
+"opens at a funeral , ends on the protagonist 's death bed and does n't get much livelier in the three hours in between .",0,0,0,5,balanced-held-out-test
+i admired this work a lot .,4,4,4,5,balanced-held-out-test
+john mctiernan 's botched remake may be subtler than norman jewison 's 1975 ultraviolent futuristic corporate-sports saga .,0,2,2,5,balanced-held-out-test
+-lrb- sen 's -rrb- soap opera-ish approach undermines his good intentions .,1,0,0,5,balanced-held-out-test
+more than makes up for its mawkish posing by offering rousing spates of genuine feeling .,3,3,3,5,balanced-held-out-test
+"beers , who , when she 's given the right lines , can charm the paint off the wall ... -lrb- but -rrb- the script goes wrong at several key junctures .",2,2,2,5,balanced-held-out-test
+"it tries too hard , and overreaches the logic of its own world .",1,0,0,5,balanced-held-out-test
+with spy kids 2 : the island of lost dreams writer\/director\/producer robert rodriguez has cobbled together a film that feels like a sugar high gone awry .,0,0,0,5,balanced-held-out-test
+you 'll have more fun setting fire to yourself in the parking lot .,0,0,0,5,balanced-held-out-test
+"how on earth , or anywhere else , did director ron underwood manage to blow $ 100 million on this ?",0,0,0,5,balanced-held-out-test
+but you 'll definitely want the t-shirt .,2,3,3,5,balanced-held-out-test
+too timid to bring a sense of closure to an ugly chapter of the twentieth century .,1,0,0,5,balanced-held-out-test
+"despite a story predictable enough to make the sound of music play like a nail-biting thriller , its heart is so much in the right place it is difficult to get really peeved at it .",3,3,3,5,balanced-held-out-test
+"-lrb- gai -rrb- comes closer to any actress i can remember to personifying independence in its purest and , yes , most intimidating form .",3,4,4,5,balanced-held-out-test
+"it 's fun , but the code-talk will fly right over everyone 's head",2,3,3,5,balanced-held-out-test
+"i would have preferred a transfer down the hall to mr. holland 's class for the music , or to robin williams 's lecture so i could listen to a teacher with humor , passion , and verve .",1,1,1,5,balanced-held-out-test
+just another fish-out-of-water story that barely stays afloat .,0,0,0,5,balanced-held-out-test
+the film starts out as competent but unremarkable ... and gradually grows into something of considerable power .,3,3,3,5,balanced-held-out-test
+"reign of fire may be little more than another platter of reheated aliens , but it 's still pretty tasty .",3,3,3,5,balanced-held-out-test
+... breathes surprising new life into the familiar by amalgamating genres and adding true human complexity to its not-so-stock characters . ',3,3,3,5,balanced-held-out-test
+or tom green as han solo ?,2,2,2,5,balanced-held-out-test
+vile and tacky are the two best adjectives to describe ghost ship .,0,0,0,5,balanced-held-out-test
+"reinforces the talents of screenwriter charlie kaufman , creator of adaptation and being john malkovich .",3,3,3,5,balanced-held-out-test
+lawrence preaches strictly to the converted .,2,1,1,5,balanced-held-out-test
+"smith 's approach is never to tease , except gently and in that way that makes us consider our own eccentricities and how they are expressed through our homes .",3,3,3,5,balanced-held-out-test
+"a taut , intelligent psychological drama .",4,3,3,5,balanced-held-out-test
+"a free-for-all of half-baked thoughts , clumsily used visual tricks and self-indulgent actor moments .",0,0,0,5,balanced-held-out-test
+an engaging overview of johnson 's eccentric career .,3,3,3,5,balanced-held-out-test
+"a charming , quirky and leisurely paced scottish comedy -- except with an outrageous central gimmick that could have been a reject from monty python 's meaning of life .",4,3,3,5,balanced-held-out-test
+the kids often appear to be reading the lines and are incapable of conveying any emotion .,1,1,1,5,balanced-held-out-test
+this one does .,2,2,2,5,balanced-held-out-test
+"serry does a fine job of capturing the climate of the times and , perhaps unwittingly , relating it to what is happening in america in 2002 .",4,3,3,5,balanced-held-out-test
+polished korean political-action film is just as good -- and bad -- as hollywood action epics .,2,3,3,5,balanced-held-out-test
+"... tunney is allowed to build an uncommonly human character , an almost real-live girl complete with trouble and hope .",2,3,3,5,balanced-held-out-test
+"ostensibly celebrates middle-aged girl power , even as it presents friendship between women as pathetic , dysfunctional and destructive .",1,0,0,5,balanced-held-out-test
+"he can scale a building like a super hero , he can out-stealth any agent , he 'll get the girl .",2,3,3,5,balanced-held-out-test
+"if this is the resurrection of the halloween franchise , it would have been better off dead .",0,0,0,5,balanced-held-out-test
+these people would n't know subtle characterization if it put on a giant furry monster costume and then gave them a lapdance .,0,0,0,5,balanced-held-out-test
+"the story itself is uninteresting , and the songs are painfully undistinguished : they might be giants ' so to be one of us may be the most tuneless tune ever composed .",0,0,0,5,balanced-held-out-test
+"if it tried to do anything more , it would fail and perhaps explode , but at this level of manic whimsy , it is just about right .",3,3,3,5,balanced-held-out-test
+"using his audience as a figurative port-of-call , dong pulls his even-handed ideological ship to their dock for unloading , before he continues his longer journey still ahead .",2,3,3,5,balanced-held-out-test
+it has the courage to wonder about big questions with sincerity and devotion .,4,3,3,5,balanced-held-out-test
+"when she speaks , her creepy egyptian demigod voice is as computer processed and overproduced as it was in her music .",0,0,0,5,balanced-held-out-test
+"for all its failed connections , divine secrets of the ya-ya sisterhood is nurturing , in a gauzy , dithering way .",3,3,3,5,balanced-held-out-test
+sympathetically captures the often futile lifestyle of young people in modern japan .,2,3,3,5,balanced-held-out-test
+"a droll , well-acted , character-driven comedy with unexpected deposits of feeling .",3,3,3,5,balanced-held-out-test
+"we can see the wheels turning , and we might resent it sometimes , but this is still a nice little picture , made by bright and friendly souls with a lot of good cheer .",3,3,3,5,balanced-held-out-test
+"it may be a prize winner , but teacher is a bomb .",2,0,0,5,balanced-held-out-test
+"emerges as something rare , an issue movie that 's so honest and keenly observed that it does n't feel like one .",4,4,4,5,balanced-held-out-test
+a movie that tries to fuse the two ` woods ' but winds up a bolly-holly masala mess .,1,0,0,5,balanced-held-out-test
+neither funny nor suspenseful nor particularly well-drawn .,0,0,0,5,balanced-held-out-test
+` dragonfly ' is a movie about a bus wreck that turns into a film wreck .,1,0,0,5,balanced-held-out-test
+"taken individually or collectively , the stories never add up to as much as they promise .",1,0,0,5,balanced-held-out-test
+"the story 's so preposterous that i did n't believe it for a second , despite the best efforts of everyone involved .",0,0,0,5,balanced-held-out-test
+"without a strong script and energetic acting , dogma films can produce the same sleep-inducing effects as watching your neighbor 's home videos .",0,0,0,5,balanced-held-out-test
+"shainberg weaves a carefully balanced scenario that is controlled by neither character , is weirdly sympathetic to both and manages to be tender and darkly comic .",3,3,3,5,balanced-held-out-test
+made by jackasses for jackasses .,0,0,0,5,balanced-held-out-test
+consider the title 's clunk-on-the-head that suggests the overtime someone put in to come up with an irritatingly unimaginative retread concept .,1,0,0,5,balanced-held-out-test
+do n't expect any surprises in this checklist of teamwork cliches ...,0,1,1,5,balanced-held-out-test
+i loved it !,4,4,4,5,balanced-held-out-test
+"a tender and touching drama , based on the true story of a troubled african-american 's quest to come to terms with his origins , reveals the yearning we all have in our hearts for acceptance within the family circle .",4,3,3,5,balanced-held-out-test
+"for the most part , the ingredients are there .",2,2,2,5,balanced-held-out-test
+"a tough go , but leigh 's depth and rigor , and his skill at inspiring accomplished portrayals that are all the more impressive for their lack of showiness , offsets to a notable degree the film 's often-mined and despairing milieu .",3,3,3,5,balanced-held-out-test
+"the year 's happiest surprise , a movie that deals with a real subject in an always surprising way .",4,4,4,5,balanced-held-out-test
+in a word -- yes .,2,4,4,5,balanced-held-out-test
+the am-radio soundtrack and game cast -- tierney and the inimitable walken especially -- keep this unusual comedy from choking on its own conceit .,2,3,3,5,balanced-held-out-test
+somehow both wildly implausible and strangely conventional .,2,2,2,5,balanced-held-out-test
+"this is n't my favorite in the series , still i enjoyed it enough to recommend .",3,3,3,5,balanced-held-out-test
+"the movie 's quiet affirmation of neighborhood values gives it an honest , lived-in glow .",4,3,3,5,balanced-held-out-test
+"an enjoyable film for the family , amusing and cute for both adults and kids .",3,3,3,5,balanced-held-out-test
+binoche and magimel are perfect in these roles .,4,3,3,5,balanced-held-out-test
+"this is what imax was made for : strap on a pair of 3-d goggles , shut out the real world , and take a vicarious voyage to the last frontier -- space .",4,4,4,5,balanced-held-out-test
+an experience so engrossing it is like being buried in a new environment .,3,4,4,5,balanced-held-out-test
+"christians sensitive to a reductionist view of their lord as a luv-spreading dr. feelgood or omnipotent slacker will feel vastly more affronted than secularists , who might even praise god for delivering such an instant camp classic .",3,3,3,5,balanced-held-out-test
+wallace seems less like he 's been burning to tell a war story than he 's been itching to somehow tack one together,2,1,1,5,balanced-held-out-test
+everything that 's worthwhile about collision course can already be seen on television .,2,1,1,5,balanced-held-out-test
+"spousal abuse is a major problem in contemporary society , but the film reduces this domestic tragedy to florid melodrama .",0,0,0,5,balanced-held-out-test
+insomnia is involving .,2,3,3,5,balanced-held-out-test
+"it 's a flashy , star-splashed reduction .",2,1,1,5,balanced-held-out-test
+"though the controversial korean filmmaker 's latest effort is not for all tastes , it offers gorgeous imagery , effective performances , and an increasingly unsettling sense of foreboding .",3,3,3,5,balanced-held-out-test
+a moody horror\/thriller elevated by deft staging and the director 's well-known narrative gamesmanship .,3,3,3,5,balanced-held-out-test
+its characters are thinner than cardboard -- or even comic-book paper .,1,0,0,5,balanced-held-out-test
+abandons all pretense of creating historical context and waltzes off into a hectic soap about the ups and downs of the heavy breathing between the two artists .,0,1,1,5,balanced-held-out-test
+wait for video -- and then do n't rent it .,0,0,0,5,balanced-held-out-test
+but this costly dud is a far cry from either the book or the beloved film .,0,0,0,5,balanced-held-out-test
+"the vampire thriller blade ii starts off as a wild hoot and then sucks the blood out of its fun -- toward the end , you can feel your veins cringing from the workout .",1,1,1,5,balanced-held-out-test
+a standard haunted house tale transplanted to the high seas .,2,2,2,5,balanced-held-out-test
+her film is unrelentingly claustrophobic and unpleasant .,0,0,0,5,balanced-held-out-test
+a worthy tribute to a great humanitarian and her vibrant ` co-stars . ',3,3,3,5,balanced-held-out-test
+director dirk shafer and co-writer greg hinton ride the dubious divide where gay porn reaches for serious drama .,1,2,2,5,balanced-held-out-test
+"guaranteed to move anyone who ever shook , rattled , or rolled .",4,4,4,5,balanced-held-out-test
+madonna still ca n't act a lick .,0,0,0,5,balanced-held-out-test
+"there is a refreshing absence of cynicism in stuart little 2 -- quite a rarity , even in the family film market .",4,3,3,5,balanced-held-out-test
+the spark of special anime magic here is unmistakable and hard to resist .,3,4,4,5,balanced-held-out-test
+gloriously goofy -lrb- and gory -rrb- midnight movie stuff .,3,4,4,5,balanced-held-out-test
+"trivial where it should be profound , and hyper-cliched where it should be sincere .",0,0,0,5,balanced-held-out-test
+"occasionally , in the course of reviewing art-house obscurities and slam-bam action flicks , a jaded critic smacks into something truly new .",3,3,3,5,balanced-held-out-test
+"instead , we just get messy anger , a movie as personal therapy .",1,0,0,5,balanced-held-out-test
+"witty , touching and well paced .",3,4,4,5,balanced-held-out-test
+the element of surprise might be the only thing femme fatale has going for it .,2,0,0,5,balanced-held-out-test
+"but if it is indeed a duty of art to reflect life , than leigh has created a masterful piece of artistry right here .",4,4,4,5,balanced-held-out-test
+an endearingly offbeat romantic comedy with a great meet-cute gimmick .,4,3,3,5,balanced-held-out-test
+"starts off with a bang , but then fizzles like a wet stick of dynamite at the very end .",1,1,1,5,balanced-held-out-test
+"what could have become just another cautionary fable is allowed to play out as a clever , charming tale -- as pleasantly in its own way as its self-dramatizing characters .",3,3,3,5,balanced-held-out-test
+an enjoyably half-wit remake of the venerable italian comedy big deal on madonna street .,4,3,3,5,balanced-held-out-test
+"not everything works , but the average is higher than in mary and most other recent comedies .",3,2,2,5,balanced-held-out-test
+"director kapur is a filmmaker with a real flair for epic landscapes and adventure , and this is a better film than his earlier english-language movie , the overpraised elizabeth .",3,3,3,5,balanced-held-out-test
+"now it 's a bad , embarrassing movie .",0,0,0,5,balanced-held-out-test
+it 's just incredibly dull .,0,0,0,5,balanced-held-out-test
+to portray modern women the way director davis has done is just unthinkable .,2,0,0,5,balanced-held-out-test
+"bears resemblance to , and shares the weaknesses of , too many recent action-fantasy extravaganzas in which special effects overpower cogent story-telling and visual clarity during the big action sequences .",2,0,0,5,balanced-held-out-test
+"children may not understand everything that happens -- i 'm not sure even miyazaki himself does -- but they will almost certainly be fascinated , and undoubtedly delighted .",4,3,3,5,balanced-held-out-test
+this charmless nonsense ensues amid clanging film references that make jay and silent bob 's excellent adventure seem understated .,2,0,0,5,balanced-held-out-test
+brimful .,2,2,2,5,balanced-held-out-test
+"like a tone-deaf singer at a benefit concert , john q. is a bad movie appearing on behalf of a good cause .",0,0,0,5,balanced-held-out-test
+"just like hearst 's enormous yacht , it 's slow and unwieldy and takes a long time to reach its destination .",0,0,0,5,balanced-held-out-test
+this is one of polanski 's best films .,4,4,4,5,balanced-held-out-test
+"the ending does leave you unfulfilled , but these are performances to enjoy in a memorable ensemble piece .",2,3,3,5,balanced-held-out-test
+"elling really is about a couple of crazy guys , and it 's therapeutic to laugh along with them .",3,4,4,5,balanced-held-out-test
+"shadyac shoots his film like an m. night shyamalan movie , and he frequently maintains the same snail 's pace ; he just forgot to add any genuine tension .",0,0,0,5,balanced-held-out-test
+"i admired it , particularly that unexpected downer of an ending .",3,3,3,5,balanced-held-out-test
+illuminating if overly talky documentary .,2,3,3,5,balanced-held-out-test
+"a bowel-curdling , heart-stopping recipe for terror .",3,0,0,5,balanced-held-out-test
+this is really just another genre picture .,2,2,2,5,balanced-held-out-test
+nair does capture the complexity of a big family and its trials and tribulations ...,3,3,3,5,balanced-held-out-test
+a model of what films like this should be like .,4,4,4,5,balanced-held-out-test
+"despite its flaws , secretary stays in your head and makes you question your own firmly held positions .",3,3,3,5,balanced-held-out-test
+what 's most striking about this largely celebratory film ... is the sense of isolation that permeates these bastions of individuality in an ikea world .,3,2,2,5,balanced-held-out-test
+at the bottom rung of the series ' entries .,1,0,0,5,balanced-held-out-test
+"still , i 'm not quite sure what the point is ...",1,0,0,5,balanced-held-out-test
+"for all its alleged youthful fire , xxx is no less subservient to bond 's tired formula of guns , girls and gadgets while brandishing a new action hero .",1,1,1,5,balanced-held-out-test
+"often gruelling and heartbreaking to witness , but seldahl and wollter 's sterling performances raise this far above the level of the usual maudlin disease movie .",4,3,3,5,balanced-held-out-test
+obvious politics and rudimentary animation reduce the chances that the appeal of hey arnold !,1,0,0,5,balanced-held-out-test
+a wonderful character-based comedy .,4,4,4,5,balanced-held-out-test
+absorbing and disturbing -- perhaps more disturbing than originally intended -- but a little clarity would have gone a long way .,1,2,2,5,balanced-held-out-test
+this is simply the most fun you 'll ever have with a documentary !,4,4,4,5,balanced-held-out-test
+haynes has so fanatically fetishized every bizarre old-movie idiosyncrasy with such monastic devotion you 're not sure if you should applaud or look into having him committed .,2,1,1,5,balanced-held-out-test
+arguably the year 's silliest and most incoherent movie .,1,0,0,5,balanced-held-out-test
+"mixes likeable personalities , inventive photography and cutting , and wall-to-wall toe-tapping music to paint a picture of a subculture that is at once exhilarating , silly , perverse , hopeful and always fun .",4,4,4,5,balanced-held-out-test
+so what is the point ?,0,0,0,5,balanced-held-out-test
+"you could say that it 's slow at times , you could say that a few of the characters act in ways that real people would n't , but one thing you could n't say is that alias betty is predictable .",2,3,3,5,balanced-held-out-test
+it would be hard to think of a recent movie that has worked this hard to achieve this little fun .,0,0,0,5,balanced-held-out-test
+there 's more scatological action in 8 crazy nights than a proctologist is apt to encounter in an entire career .,1,4,4,5,balanced-held-out-test
+"as expected , sayles ' smart wordplay and clever plot contrivances are as sharp as ever , though they may be overshadowed by some strong performances .",3,3,3,5,balanced-held-out-test
+hugh grant and sandra bullock are two such likeable actors .,4,3,3,5,balanced-held-out-test
+"as adapted by kevin molony from simon leys ' novel `` the death of napoleon '' and directed by alan taylor , napoleon 's journey is interesting but his parisian rebirth is stillborn",1,1,1,5,balanced-held-out-test

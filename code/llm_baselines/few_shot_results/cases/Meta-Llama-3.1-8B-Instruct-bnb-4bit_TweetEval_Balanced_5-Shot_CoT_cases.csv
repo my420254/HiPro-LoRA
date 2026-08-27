@@ -1,0 +1,467 @@
+text,true_label,pred_label,llm_response,k_shot,prompt_style,protocol
+"Melania Trump's full speech at 2016 Republican National Convention, and comparison to Michelle Obama",1,0,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet compares Melania Trump's speech at the 2016 Republican National Convention to Michelle Obama's speech, implying a negative sentiment towards Melania Trump's speech. The use of the word ""comparison"" suggests a critical tone, and the mention of Michelle Obama, a widely respected figure, implies that Melania Trump's speech is being unfavorably compared to a superior example.
+
+Final Answer: 0",5,cot,balanced-held-out-test
+"@user India, I am sure top management/Admin would've fallen Prey to Leftists'/Psedoseculiars' setting tempetions -:)!",0,1,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet contains the phrase ""I am sure top management/Admin would've fallen Prey to Leftists'/Psedoseculiars' setting tempetions"", which suggests a negative sentiment towards a particular group of people. The use of the word ""Prey"" implies a sense of vulnerability and potential harm, and the mention of ""Leftists'/Psedoseculiars"" as a negative entity reinforces this sentiment. Additionally, the use of the smiley face :) at the end of the sentence may be an attempt to soften the tone, but it does not entirely counteract the negative sentiment expressed in the rest of the message.
+
+Final Answer:",5,cot,balanced-held-out-test
+@user @user @user Now that is awesome #mannequinchallenge #WeAre,2,2,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet contains the phrase ""#mannequinchallenge #WeAre"", which suggests a positive and celebratory tone. The use of the word ""awesome"" further reinforces this interpretation. Additionally, the hashtag ""#WeAre"" implies a sense of unity and solidarity, which is typically associated with positive emotions.
+
+Final Answer: 2",5,cot,balanced-held-out-test
+"Breaking News!! Hear this all Homosexual people not everyone supports gay marriage, some people believe marriage is…",1,1,"To classify the sentiment of the given tweet, we need to analyze the language and tone used. The tweet starts with ""Breaking News!!"", which is often used to convey a sense of importance or surprise, but in this case, it's followed by a statement that presents a neutral or informative tone. The phrase ""not everyone supports gay marriage"" is a factual statement, and the phrase ""some people believe marriage is…"" is a neutral expression of differing opinions. There is no emotional language or tone that suggests a strong positive or negative sentiment. Therefore, the overall sentiment of the tweet is neutral.
+
+Final Answer: 1",5,cot,balanced-held-out-test
+@user The majority of the deplorables that voted for Trump Dumb,1,0,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet contains the word ""deplorables,"" which is a derogatory term, and the phrase ""Dumb,"" which is a negative adjective. The tone is critical and condescending, indicating a negative sentiment towards the people who voted for Trump.
+
+Final Answer: 0",5,cot,balanced-held-out-test
+@user He's not talking about killing Americans via drone strikes like your head thug obama!,0,0,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet contains a comparison between the current president and a previous president, with a negative connotation towards the current president. The use of the phrase ""head thug"" is a derogatory term, indicating a strong negative sentiment. Additionally, the tweet is criticizing a specific policy of the current president, drone strikes, which is a controversial topic.
+
+Final Answer: 0",5,cot,balanced-held-out-test
+#Saakashvili has his say on #Ukraine #Odessa #Georgia,1,1,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet mentions ""#Saakashvili"", ""#Ukraine"", and ""#Odessa"", which are related to a specific event or issue. The tone appears to be informative or neutral, as the tweet is likely reporting on a news event rather than expressing a personal opinion or emotion.
+
+The language used is objective and factual, with no emotional words or phrases that would indicate a strong positive or negative sentiment. The tweet does not contain any words or phrases that would suggest a negative tone, such as ""hate"", ""anger"", or ""dislike"". Similarly, it does not contain any words or phrases that would suggest a positive tone, such as ""love"",",5,cot,balanced-held-out-test
+Burtle for sale! DM me! #Hatchimals #hatchimal #blackfriday #burtle,2,2,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet contains the phrase ""Burtle for sale"" which is an enthusiastic and inviting statement, indicating that the speaker is excited to sell the item. The use of the hashtag ""#blackfriday"" also suggests a sense of urgency and excitement, which is typically associated with positive emotions. Additionally, the speaker is inviting others to contact them directly (""DM me""), which implies a friendly and approachable tone.
+
+Final Answer: 2",5,cot,balanced-held-out-test
+It's funny to watch the news stations try to figure Donald Trump out when he is putting his cabinet togetherSo funny,1,1,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet mentions that it's ""funny"" to watch news stations trying to figure out Donald Trump, which implies amusement and a lighthearted tone. The use of ""So funny"" further emphasizes this sentiment, indicating that the speaker finds the situation entertaining.
+
+Final Answer: 1",5,cot,balanced-held-out-test
+One of my first papers in grad. school was about how the Feds engineered US housing patterns since the 1920s.…,1,1,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The text mentions a historical topic, ""how the Feds engineered US housing patterns since the 1920s,"" which is presented in a neutral and informative manner. There is no emotional language or emotive tone, indicating a lack of strong positive or negative feelings. The text is more focused on conveying information than expressing an opinion or emotion.
+
+Final Answer: 1",5,cot,balanced-held-out-test
+Grayson Allen is so cute 😭😭😭,2,2,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet contains the words ""so cute"" and the emojis 😭😭😭, which are typically associated with strong affection and admiration. The use of multiple exclamation marks and the enthusiastic tone of the language also suggest a positive sentiment.
+
+Final Answer: 2",5,cot,balanced-held-out-test
+Hacked PELOSI emails CONFIRM Dems responsible for Mayhem in Cleveland during RNC proving they are Party of DISGUST!,0,0,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet contains strong negative words such as ""Hacked"", ""CONFIRM"", ""Dems"", ""responsible"", ""Mayhem"", and ""DISGUST"", which indicate a negative sentiment. The use of capital letters for certain words emphasizes the intensity of the sentiment. The tone is accusatory and critical, pointing to a specific group (Dems) and making a strong claim about their actions.
+
+Final Answer: 0",5,cot,balanced-held-out-test
+It's more difficult to move to Mexico as the Clintons built a bloody great fence all along the Border…,0,0,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet mentions a negative event (""more difficult"") and a specific issue (""the Clintons built a bloody great fence""), which implies a negative sentiment towards the Clintons and the fence. The use of the word ""bloody"" also adds to the negative tone.
+
+Final Answer: 0",5,cot,balanced-held-out-test
+"@user Kim Jong Un wishes his propaganda was a good as this.  BHO never uses the restroom either, We believe that. Wink wink",0,0,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet contains a sarcastic comment about President Barack Obama (BHO) and a comparison with Kim Jong Un, implying that the speaker is mocking the idea that Obama is similar to the North Korean leader. The use of ""Wink wink"" suggests a playful and mocking tone, indicating that the speaker is being facetious and not genuinely expressing admiration for Obama.
+
+Final Answer: 0",5,cot,balanced-held-out-test
+Charles rails on bible thumping conservatives all the time and I find it funny because they're always taken a back that a veteran is going—,0,0,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet mentions that Charles rails on bible thumping conservatives, implying criticism and mocking. The phrase ""I find it funny"" suggests amusement, but the context is negative, as the speaker is criticizing conservatives. The tone is sarcastic and mocking, indicating a negative sentiment.
+
+Final Answer: 0",5,cot,balanced-held-out-test
+Watching Scream Queens Season 2 Episode 5 'Chanel Pour Homme-icide' #ScreamQueens #ChanelPourHommeIcide @user,1,1,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet is about watching a TV show, Scream Queens, and mentions a specific episode title. There is no indication of strong emotions such as happiness, sadness, or anger. The tone is neutral, and the language is informative.
+
+Final Answer: 1",5,cot,balanced-held-out-test
+New #BeautyAndTheBeast photo of Gaston wooing Belle @user @user,2,2,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet mentions a ""new"" photo of Gaston wooing Belle, which is a positive event in the context of the Disney movie Beauty and the Beast. The use of the word ""new"" and the mention of a popular character's romantic interest suggests a positive tone.
+
+Final Answer: 2",5,cot,balanced-held-out-test
+"Published on Nov 18, 2016Speech by Stephen K. Bannon (Steve Bannon), Donald Trump's senior strategic advisor and...",1,1,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet is a news headline or summary, and it does not contain any emotional language or personal opinions. It is a factual statement about a speech by Stephen K. Bannon, and it does not express any positive or negative emotions.
+
+Final Answer: 1",5,cot,balanced-held-out-test
+"This woman is still talking about Melania Trump's admittedly plagiarized speech, guys.As in, she's still saying i…",1,0,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet expresses criticism and disapproval towards Melania Trump, using the phrase ""admittedly plagiarized speech"" which implies a negative opinion. The tone is also confrontational, with the use of ""guys"" which suggests a sense of frustration or annoyance.
+
+Final Answer: 0",5,cot,balanced-held-out-test
+"Tonight's plan is to sketch, design and colour in clothes, shoes and accessories for all our favourite characters f…",2,2,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet mentions ""Tonight's plan"" which implies a positive and excited tone, as the person is looking forward to engaging in a creative activity. The use of words like ""sketch"", ""design"", and ""colour"" also convey a sense of enthusiasm and creativity. Additionally, the mention of favourite characters suggests a positive and affectionate tone.
+
+Final Answer: 2",5,cot,balanced-held-out-test
+Retweeted Medical Marijuana (@AmericanGanja):So it's legal for a single doctor to prescribe these dangerous...,0,0,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet mentions ""dangerous"" which is a negative word, but it is used in a context that implies criticism towards the current laws or regulations regarding medical marijuana, rather than expressing a personal negative emotion. The tone is more informative and critical than emotional.
+
+Final Answer: 0",5,cot,balanced-held-out-test
+"{New Post} Yolanda Adams and Common singing ""Glory"" at the BET's #ThankYouObama event: This is an awesome rendition…",2,2,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet is about Yolanda Adams and Common singing ""Glory"" at the BET's #ThankYouObama event, and the description is positive, using the word ""awesome"". This suggests that the speaker is expressing admiration and approval for the performance.
+
+Final Answer: 2",5,cot,balanced-held-out-test
+"@user @user BEING DESPERATE CALLS FOR DESPERATE MORONIC ACTIONS....FUNNY THOU 😂CNN NEEDS RATING AT AT COST,AS WELL AS ANY LIBERALS MEDIA",0,1,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet contains the phrase ""FUNNY THOU"", which is a colloquial expression indicating amusement or sarcasm. However, the overall tone of the tweet is critical and mocking, with the use of derogatory terms like ""DESPERATE MORONIC ACTIONS"" and ""LIBERALS MEDIA"". The tone is also confrontational, as indicated by the use of ""CALLS FOR DESPERATE MORONIC ACTIONS"", which suggests a sense of urgency and frustration. The mention of ""CNN NEEDS RATING AT AT COST"" implies a negative sentiment towards the media outlet. Overall, the sentiment of the tweet is negative.
+
+Final Answer:",5,cot,balanced-held-out-test
+Day 2 of vegetarianism 🍏🍐🍓🍇🍌 going good 😊👍🏻✌🏻️,2,1,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet contains positive emojis such as 😊, 👍🏻, and ✌🏻️, which indicate a positive sentiment. The use of the phrase ""going good"" also suggests a positive tone. However, the tone is not overly enthusiastic or emphatic, which might suggest a neutral or mildly positive sentiment.
+
+Final Answer: 1",5,cot,balanced-held-out-test
+"3D printing is great fun, even the cheaper kits turn out reasonable quality.",2,2,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet states that 3D printing is ""great fun"" and the quality is ""reasonable"", which indicates a positive experience. The use of the word ""fun"" and the overall context suggest a favorable opinion.
+
+Final Answer: 2",5,cot,balanced-held-out-test
+@user Kim Jong-un can help you. He can show you the way.,2,0,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet is a sarcastic and mocking statement about Kim Jong-un, implying that he is not a reliable or trustworthy individual. The use of the phrase ""He can show you the way"" is an ironic expression, suggesting that Kim Jong-un is not a good role model or guide. The tone is clearly negative and mocking.
+
+Final Answer: 0",5,cot,balanced-held-out-test
+"@user @user When Hillary said, ""Basket of Deplorables."" That outcome was awesome.",2,0,"To classify the sentiment of the given tweet, we need to analyze the language and tone used. The tweet mentions that Hillary's statement ""Basket of Deplorables"" had a positive outcome, implying that the speaker agrees with or supports the statement. The use of the word ""awesome"" suggests a positive sentiment.
+
+However, the context of the statement is negative, as ""Basket of Deplorables"" is a derogatory term used by Hillary Clinton to describe a group of people who support Donald Trump during the 2016 US presidential election. The speaker's positive sentiment towards the statement suggests that they share or sympathize with the negative views expressed by Hillary Clinton.
+
+Final Answer: 0",5,cot,balanced-held-out-test
+@user I agree wholeheartedly! #notmyprsident #StillWithHer #sanders @user @user @user @user #TGIFriday,2,2,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet contains the phrase ""#TGIFriday"", which is a colloquial expression indicating a positive sentiment towards the end of the workweek. Additionally, the user agrees with someone else's statement using ""#notmyprsident #StillWithHer #sanders"", which suggests a positive sentiment towards the mentioned individuals or causes. The overall tone of the tweet is lighthearted and celebratory.
+
+Final Answer: 2",5,cot,balanced-held-out-test
+"When Media sells killer vaccines,give it FEAR label: ZIKA;  when MEDIA wants2hide a REAL DANGER (Black violence), I…",0,0,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet expresses a negative sentiment towards the media, using words like ""killer"" and ""hide"", which imply a critical and distrustful tone. The use of the phrase ""I..."" suggests a personal and emotional investment in the issue, further indicating a negative sentiment. Additionally, the use of the phrase ""REAL DANGER"" with capital letters emphasizes the speaker's strong feelings about the issue.
+
+Final Answer: 0",5,cot,balanced-held-out-test
+Obama's dirty secret: Funded fossil fuel projects worldwide while cutting American power plants & jobs #ObamasLegacy,0,0,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet mentions ""dirty secret"" and ""cutting American power plants & jobs"", which are negative phrases indicating a critical tone towards Obama's actions. The use of the hashtag ""#ObamasLegacy"" also suggests a negative connotation. Therefore, the sentiment of the tweet is negative.
+
+Final Answer: 0",5,cot,balanced-held-out-test
+"Arsonists setting fires in #Israel, now the hills of #Jerusalem are burning😥🇮🇱 #IsraelFires #arson #Arabs #Jews",0,0,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet mentions arsonists setting fires in Israel, which is a serious and alarming situation. The use of the word ""burning"" and the emojis 😥 and 🇮🇱 convey a sense of sadness, concern, and urgency. The hashtags #IsraelFires, #arson, and #Jews also suggest a negative tone. However, the tone is not explicitly angry or confrontational, but rather informative and concerned.
+
+Final Answer: 0",5,cot,balanced-held-out-test
+"FrPavone: ""total number of deaths by capital punishment, for our entire history, is less than the number of deaths by abortion every 5days""",0,1,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet states that the total number of deaths by capital punishment is less than the number of deaths by abortion every 5 days. This statement is a factual comparison and does not express a personal opinion or emotion. It is a neutral statement presenting a statistic.
+
+Final Answer: 1",5,cot,balanced-held-out-test
+The Egyptian President Mikheil Saakashvili said he would explain if wanting to do it as a record of Palestinian ambitions.,1,1,"To classify the sentiment of the given tweet, we need to analyze the language and tone used. The tweet mentions the Egyptian President Mikheil Saakashvili, but it's not clear who Mikheil Saakashvili is, as he is the former President of Georgia, not Egypt. The sentence structure is formal and lacks emotive language, which suggests a neutral tone. There is no indication of strong emotions such as happiness, sadness, or anger.
+
+Final Answer: 1",5,cot,balanced-held-out-test
+@user wasn't it raised in 2-3 days?? Report said George Soros cyber bots contributed $165k per hour for a couple days.,0,0,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet mentions a report about George Soros and cyber bots contributing $165k per hour, which implies a negative tone towards Soros. The use of the word ""cyber bots"" also suggests a critical or suspicious tone. Additionally, the phrase ""Report said"" implies that the information is based on a credible source, which adds to the negative sentiment.
+
+Final Answer: 0",5,cot,balanced-held-out-test
+@user @user @user religion is a scare tactic and these folks are a prime example. #stomptheyard  #steppinforchrist,0,0,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet states that ""religion is a scare tactic"" which implies a negative view of religion. The hashtags ""#stomptheyard"" and ""#steppinforchrist"" suggest a confrontational and critical tone towards religious individuals. The overall language used is critical and dismissive, indicating a negative sentiment.
+
+Final Answer: 0",5,cot,balanced-held-out-test
+Operated by Imura Works of Imura has been working to protect the freedom of gun rights and 3D printing workPlease support the activities!!,2,2,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet mentions ""protect the freedom of gun rights"" which is a positive statement, but it also mentions ""Please support the activities!!"" which is a polite request, but the overall tone is still positive. There is no negative language or criticism in the tweet.
+
+Final Answer: 2",5,cot,balanced-held-out-test
+Follow my buddy @user Want on my list of friend promos tweet me (Interactive Followers Only)#PJNET #Tcot #Tlot #TPP #TeaParty,1,1,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet appears to be an invitation to follow the user's friend, with a list of hashtags related to the Tea Party movement. The tone is neutral, as it is a straightforward invitation without any emotional language or negative/positive connotations. The hashtags suggest a specific interest or affiliation, but they do not convey a strong sentiment.
+
+Final Answer: 1",5,cot,balanced-held-out-test
+Please don't consider donating to @user They'll just buy more euthanasia.,0,0,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet expresses a strong negative sentiment towards the organization @user, urging the reader not to donate to them. The use of the word ""don't"" and the phrase ""just buy more euthanasia"" convey a sense of disapproval and concern.
+
+Final Answer: 0",5,cot,balanced-held-out-test
+"@user spends $Millions on politicians like #Giuliani, to push #iran war, makes Kim Jong Un look humble!https://t.co/sQpap31XUj",0,0,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet expresses strong disapproval and criticism towards someone who spends millions on politicians like Giuliani to push for war, implying that this action is excessive and potentially harmful. The use of the phrase ""makes Kim Jong Un look humble"" is a rhetorical device that emphasizes the absurdity of the situation, further indicating a negative sentiment.
+
+Final Answer: 0",5,cot,balanced-held-out-test
+@user @user all the liberals in the US will be morning their hero. Let's see if Obama lowers white house flag.,0,0,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet mentions ""morning their hero,"" which implies sadness or mourning, but the context is about a negative event (death or passing of a person), and the tone is more neutral/informative than emotional. The phrase ""Let's see if Obama lowers white house flag"" suggests a neutral, observational tone rather than a positive or negative one.
+
+Final Answer: 0",5,cot,balanced-held-out-test
+#Beauty #ArianaGrande-CHRISTMAS & CHILL-JAPAN ONLY #CD BONUS TRACK C94 #Deals #TopSeller,2,1,"To classify the sentiment of the given tweet, we need to analyze the language and tone used. The tweet contains the hashtag ""#TopSeller"" and ""#Deals"", which are typically associated with positive connotations, indicating a successful or popular product. Additionally, the mention of a ""BONUS TRACK"" suggests a desirable or exciting aspect. However, the tone is neutral, as there is no explicit expression of emotions or strong opinions. The use of ""#ArianaGrande"" and ""#Beauty"" also suggests a positive association with the artist and the topic, but the overall tone remains neutral.
+
+Final Answer: 1",5,cot,balanced-held-out-test
+Oral history & policy by @user  or why #RCT is not the gold standard  @user @user @user,1,0,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet mentions ""Oral history & policy"" and ""#RCT is not the gold standard"", which suggests a critical or argumentative tone. The use of the phrase ""why"" implies a questioning or inquiring tone, but the context suggests a negative or critical tone. The presence of multiple @user handles also implies a discussion or debate, which is often associated with negative or critical conversations.
+
+Final Answer: 0",5,cot,balanced-held-out-test
+Urban landscapes will have far fewer cars#carsharing #autonomous #Driverless #selfdriving #uber #lyft #SmartCity,1,1,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet mentions ""Urban landscapes"" and various keywords related to transportation and technology, such as ""carsharing"", ""autonomous"", ""selfdriving"", ""uber"", and ""lyft"". The tone appears to be informative and neutral, as the text is describing a future scenario without expressing any emotions or opinions. There is no indication of negativity, positivity, or strong emotions, which suggests a neutral tone.
+
+Final Answer: 1",5,cot,balanced-held-out-test
+"VIDEO: #Russia FM Lavrov (@mfa_russia) caught lying red-handed about airstrikes in #Aleppo, #Idlib & #Homs in…",0,0,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet mentions ""caught lying red-handed,"" which is a phrase typically used to express strong disapproval and accusation. The use of the word ""lying"" and the phrase ""caught red-handed"" implies a negative sentiment towards the person being accused, in this case, Russia's FM Lavrov. The hashtags #Aleppo, #Idlib, and #Homs also suggest a negative context, as they are associated with conflict and violence.
+
+Final Answer: 0",5,cot,balanced-held-out-test
+Bad hombres. Raul about to shoot innocent man,0,0,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet contains the phrase ""Bad hombres"" which is a colloquial and somewhat derogatory term, and ""Raul about to shoot innocent man"", which implies a violent and negative action. The tone is critical and disapproving, indicating a negative sentiment.
+
+Final Answer: 0",5,cot,balanced-held-out-test
+.@DefraGovUK please can you stop hiding discussions on #fracking and make sure people aren't kept in the dark on an important issue?,1,0,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet expresses a sense of frustration and concern, with the user asking the government to be transparent about the issue of fracking. The use of the word ""please"" is polite, but the overall tone is one of urgency and demand for information. The user is not expressing anger or hatred, but rather a sense of importance and need for transparency.
+
+Final Answer: 0",5,cot,balanced-held-out-test
+@user @user UR going 2 love Steve Bannon as DJT's senior advisor 😂😂😂,2,2,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet contains the phrase ""UR going 2 love"", which is a colloquial expression indicating strong affection or admiration. The use of the emojis 😂😂😂 further emphasizes a positive sentiment. However, the subject of the tweet is Steve Bannon, who is a polarizing figure with many negative associations. Despite this, the tone of the tweet is overwhelmingly positive, suggesting that the speaker is expressing admiration or approval of Bannon's appointment.
+
+Final Answer: 2",5,cot,balanced-held-out-test
+@user Love It!Following! Retweeted! #WIN  Oh fantastic 💖💖 #Hatchimals #BlackFriday,2,2,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The presence of positive words and phrases such as ""Love It!"", ""Following!"", ""Retweeted!"", and ""Oh fantastic"" indicates a positive sentiment. The use of enthusiastic language and emojis (💖💖) further reinforces this interpretation. Additionally, the hashtags ""#WIN"" and ""#BlackFriday"" suggest a celebratory tone, which is consistent with a positive sentiment.
+
+Final Answer: 2",5,cot,balanced-held-out-test
+Who Are the Millions of ‘Bad Hombres’ Slated for US Deportation? via @user,1,0,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet mentions ""Bad Hombres"" which is a term used by Donald Trump to describe immigrants, implying a negative connotation. However, the tone is more informative and neutral, as it is a news headline rather than an opinion piece. The use of the word ""via"" also suggests a neutral, factual tone.
+
+Final Answer: 0",5,cot,balanced-held-out-test
+Well said #Muhammad Ali Jinnah,2,1,"To classify the sentiment of the given tweet, we need to analyze the language and tone used. The tweet says ""#Muhammad Ali Jinnah"", which is a name, and the phrase ""Well said"" is used, indicating approval or agreement. There is no negative or critical language used in the tweet, and the tone is neutral and appreciative.
+
+Final Answer: 1",5,cot,balanced-held-out-test
+The Chanelles in #ScreamQueens are more authentic medical practitioners than the Syrian White Helmets. #FakeNews,1,0,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet expresses a strong negative opinion about the Syrian White Helmets and the TV show Scream Queens, using the phrase ""#FakeNews"" which implies a sense of distrust and criticism. The tone is confrontational and accusatory, indicating a negative sentiment.
+
+Final Answer: 0",5,cot,balanced-held-out-test
+"Gold heart earrings, Textured gold heart charm dangle earrings, heart jewelry, valentines..",2,1,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet describes gold heart earrings and charms, using positive adjectives such as ""gold"" and ""heart"", which are often associated with love and affection. The context is related to Valentine's Day, which is typically a positive and celebratory occasion. There is no negative language or tone in the tweet, indicating a neutral description of a product rather than an expression of emotion.
+
+Final Answer: 1",5,cot,balanced-held-out-test
+Samsungs galaxy note 7 smartphone banned from all #TechNews #Tech #News #Gadget #Apps,1,0,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet states that Samsung's Galaxy Note 7 smartphone is banned, which is a negative event. The use of the word ""banned"" implies a restriction or prohibition, which is typically associated with a negative sentiment. Additionally, the hashtags ""#TechNews"", ""#Tech"", ""#News"", ""#Gadget"", and ""#Apps"" suggest a neutral or informative tone, but the overall context of the tweet is negative.
+
+Final Answer: 0",5,cot,balanced-held-out-test
+"@user HAS THE HILL REPORTED ON THE ANTI TRUMP RIOTS? LOOTING,BURNING DESTROYING BUSINESSES ? ARE THE THUGS  AND KIDS RUNNING OUR COUNTRY?",0,0,"The given text expresses strong negative emotions towards a specific event or group, using words like ""RIOTS"", ""LOOTING"", ""BURNING"", and ""DESTROYING"", which indicate a high level of anger and frustration. The tone is confrontational and accusatory, with the speaker questioning the state of the country and its youth. The use of capital letters and exclamation marks emphasizes the intensity of the sentiment.
+
+Final Answer: 0",5,cot,balanced-held-out-test
+Yep... they are staying put... Amazing work Mike Pence,2,2,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet contains the phrase ""Amazing work"", which is a positive expression, and the name ""Mike Pence"", which is a person associated with a positive outcome in the context of the tweet. The overall tone is one of approval and admiration.
+
+Final Answer: 2",5,cot,balanced-held-out-test
+Here's Putin's man in our White House.@LindseyGrahamSC @user @user @user @user,1,0,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet mentions ""Putin's man in our White House,"" which implies a negative sentiment towards the person or entity associated with Putin, and a negative sentiment towards the White House. The tone is critical and accusatory.
+
+Final Answer: 0",5,cot,balanced-held-out-test
+@user Check the Clinton Foundation for contributions to Jill Stein!  There's your problem!  Hillary still in the game and trying,0,1,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet mentions the Clinton Foundation and accuses Hillary Clinton of being involved in a problem, but the tone is not overtly negative. The language used is accusatory, but the sentiment is more neutral, as it's a statement of fact rather than an expression of emotion.
+
+Final Answer: 1",5,cot,balanced-held-out-test
+It already WAS normalized. See: Obamacare MT @user Business-specific meddling shouldn't be normalized.,0,1,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet expresses disagreement with the normalization of a specific issue, using the phrase ""shouldn't be normalized."" This indicates a negative sentiment towards the issue, but the tone is more critical and argumentative rather than emotional. The use of the phrase ""see"" and the reference to a specific tweet (@user) suggests a more objective and informative tone, which further supports a neutral classification.
+
+Final Answer: 1",5,cot,balanced-held-out-test
+Donald Trump and the Rise of White Supremacist Media @user #NotMyPresident #uniteblue #Resist #MAGA #tcot @user,0,0,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet contains hashtags such as ""#NotMyPresident"", ""#uniteblue"", ""#Resist"", and ""#MAGA"", which are typically associated with negative sentiments towards a particular individual or ideology. The use of ""#tcot"" (top conservative tweets) suggests a polarized and confrontational tone. The overall language and tone of the tweet convey a strong negative sentiment towards Donald Trump and his supporters.
+
+Final Answer: 0",5,cot,balanced-held-out-test
+Shout out car crashes. Shout out Kim Jong Un. Shout out the Lakers maybe signing him to a 10-day for this game.,1,1,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet mentions ""shout out"" which is typically a positive expression, but it is followed by negative entities such as ""car crashes"" and ""Kim Jong Un"", a controversial figure. However, the tone seems to be more neutral or even ironic, as the mention of ""Lakers"" is a positive entity, but it's paired with a conditional and somewhat negative action (""signing him to a 10-day contract for this game""). The overall tone seems to be more neutral, as the speaker appears to be making a statement rather than expressing a strong emotion.
+
+Final Answer: 1",5,cot,balanced-held-out-test
+Great news from meeting of @user @user and @user #Ukraine soon to get visa-free #Schengen access.,2,2,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet mentions ""Great news"" which is a positive phrase, and the context is about a positive development for Ukraine, indicating a favorable outcome. The use of the hashtag ""#Ukraine"" and ""#Schengen access"" suggests a positive event. The tone is optimistic and celebratory.
+
+Final Answer: 2",5,cot,balanced-held-out-test
+What would The [un] @user & Conservatives say if @user or @user did a secret deal to give $300miln to WA? #auspol,0,1,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet is questioning the reaction of a specific group (The [un] @user & Conservatives) to a hypothetical scenario where a different group (@user or @user) makes a secret deal to give $300miln to WA. The tone is neutral, as it is a rhetorical question and does not express any emotion or opinion. It is not negative, as it does not contain any negative language or criticism. It is also not positive, as it does not contain any positive language or praise.
+
+Final Answer: 1",5,cot,balanced-held-out-test
+People are going to protest trump for 4 years and will accomplish nothing,0,0,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet states that people will protest Trump for 4 years and accomplish nothing, which implies a negative outlook on the situation. The use of the word ""nothing"" suggests a pessimistic tone, indicating that the speaker believes the protests will be ineffective.
+
+Final Answer: 0",5,cot,balanced-held-out-test
+@user @user @user @user Too bad #MH17 truth comes free. I know how that really bugs piss out of you paid #Kremlintrolls,0,0,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet contains the phrase ""#MH17 truth comes free"" which implies that the speaker is expressing a positive sentiment towards the revelation of truth, but the tone is also somewhat sarcastic and critical towards those who might be opposed to it, indicated by ""#Kremlintrolls"". However, the overall sentiment is still leaning towards a negative tone towards the opposition, but the speaker's tone is more assertive and critical rather than sad or angry.
+
+Final Answer: 0",5,cot,balanced-held-out-test
+@user i keep my social security card in there cuz i figure no one would willingly open up and read pokespec,1,1,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet states that the user keeps their social security card in a particular place because they assume no one would willingly open and read it. The tone is matter-of-fact and neutral, with no apparent emotional language or sentiment. The user is simply stating a fact or a personal preference without expressing any positive or negative emotions.
+
+Final Answer: 1",5,cot,balanced-held-out-test
+Electoral College must reject Trump #rejecttrump #notmypresident #takingbackdemocracy #blacklivesmatter #nevertrump,0,0,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet contains several words and hashtags with negative connotations, such as ""reject,"" ""notmypresident,"" ""nevertrump,"" and ""blacklivesmatter,"" which are often associated with anti-Trump and progressive movements. The tone is also critical and assertive, indicating a strong negative sentiment towards Trump.
+
+Final Answer: 0",5,cot,balanced-held-out-test
+#Turkey #Yemen Supplies running out for Iraqis left in embattled Mosul,1,0,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet mentions ""Supplies running out"" which implies a negative situation, but there is no explicit expression of emotion or opinion. The tone is informative and neutral, providing factual information about the situation in Mosul.
+
+Final Answer: 0",5,cot,balanced-held-out-test
+"@user @user Yeah, I'm really looking forward to the constant Medicaid paperwork deluge for years on end. So much fun.",2,0,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet states that the speaker is ""really looking forward"" to the ""constant Medicaid paperwork deluge,"" which implies a negative sentiment. The use of the word ""deluge"" suggests a large and overwhelming amount of paperwork, and the speaker's tone is sarcastic, indicating that they are not genuinely looking forward to it.
+
+Final Answer: 0",5,cot,balanced-held-out-test
+The people who looted money meant for maternity and vaccines still playing politics with the lives of Kenyans#LipaKamaTender,0,0,"The sentiment of the given tweet is negative because it expresses outrage and frustration towards individuals who have misused funds meant for essential services, using strong language like ""looted"" and ""#LipaKamaTender"" which implies corruption and exploitation.
+
+Final Answer: 0",5,cot,balanced-held-out-test
+"@user Maybe online but in terms of presence outside the left, tankies have sane leftists beat. Most orgs are composed of tankies.",1,1,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet states that ""tankies"" have the leftists beat in terms of presence outside the left, which implies a comparison of the two groups. The word ""sane"" is used to describe the leftists, which is a positive adjective. However, the overall tone is not overwhelmingly positive, as it's a comparison rather than a direct statement of praise. The tone is more neutral, as it's a factual statement about the relative presence of the two groups.
+
+Final Answer: 1",5,cot,balanced-held-out-test
+Ayyyyeeeee Thanksgiving 2016 in the books! Good time good time #mannequinchallenge @ New Orleans…,2,1,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet contains the phrase ""Good time good time"", which is a positive expression, and the hashtags ""#mannequinchallenge"" and ""@ New Orleans"" suggest a fun and celebratory atmosphere. Additionally, the use of the exclamation mark at the end of the sentence emphasizes the positivity. However, the tone is casual and informal, which might suggest a neutral or positive sentiment.
+
+Final Answer: 1",5,cot,balanced-held-out-test
+"Curry: ""The political dogma of Obama, Clinton and Pope Francis surrounding climate change seems like more of a recipe for ‘anti-science.’""",0,0,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet expresses a negative opinion about the political leaders' stance on climate change, using phrases like ""recipe for 'anti-science'"" which implies a strong disapproval. The tone is critical and dismissive, indicating a negative sentiment.
+
+Final Answer: 0",5,cot,balanced-held-out-test
+@user    Go get em girl!!!!   👊🏽,2,2,"The given text is a short message of encouragement, with the use of the phrase ""Go get em"" and the thumbs up emoji 👊🏽, which are typically associated with positivity and support. The tone is uplifting and motivational, indicating a positive sentiment.
+
+Final Answer: 2",5,cot,balanced-held-out-test
+"#Eurozone BREAKING: Vladimir Putin admits Kim Jong-un is better in every way and would ""love to see... [his] face"" #SydMUN16",2,0,"To classify the sentiment of the given tweet, we need to analyze the language and tone used. The tweet mentions Vladimir Putin admitting that Kim Jong-un is better in every way, which is a negative statement about Putin's opinion of himself. The use of the phrase ""BREAKING"" suggests a sense of urgency and importance, but the tone is still negative. The hashtags ""#SydMUN16"" indicate that the tweet is related to a conference or event, but the sentiment remains negative.
+
+The language used is formal and objective, but the content is critical of Putin's statement. There is no indication of a positive or neutral tone.
+
+Final Answer: 0",5,cot,balanced-held-out-test
+"“Make Art, and Fight the Power”: A Historically Black National Book Awards - The New Yorker #NBAwards | @user",1,1,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet is quoting a phrase from a book, and the context is a book award. The tone is informative and neutral, with no indication of strong emotions or opinions. The use of the phrase ""Make Art, and Fight the Power"" suggests a sense of empowerment and positivity, but it is not explicitly stated by the author of the tweet, rather it is a quote from the book. Therefore, the overall sentiment of the tweet is neutral.
+
+Final Answer: 1",5,cot,balanced-held-out-test
+Up North for thanksgiving🦃,1,1,"To classify the sentiment of the given tweet, we need to analyze the language and tone used. The tweet contains a seasonal greeting with a festive symbol, indicating a positive and neutral tone. There is no negative language or emotional expression that would suggest a negative sentiment.
+
+Final Answer: 1",5,cot,balanced-held-out-test
+"Tell it, Sistah! #ElizabethWarren #TrumpTransitionTeam #DrainTheSwamp",2,2,"To classify the sentiment of the given tweet, we need to analyze the language and tone used. The tweet contains the phrase ""Tell it, Sistah!"", which is an expression of encouragement and support. The hashtags ""#ElizabethWarren #TrumpTransitionTeam #DrainTheSwamp"" suggest a political context, but the tone is not negative or neutral. The use of ""Tell it"" implies a sense of empowerment and solidarity, which is a positive sentiment.
+
+Final Answer: 2",5,cot,balanced-held-out-test
+UN Security Council to vote Monday on proposed ceasefire in Syria's Aleppo.,1,1,"To classify the sentiment of the given tweet, we need to analyze the language and tone used. The tweet states that the UN Security Council will be voting on a proposed ceasefire in Syria's Aleppo, which is a neutral statement. There is no emotional language or opinion expressed, just a factual announcement. Therefore, the sentiment is neutral.
+
+Final Answer: 1",5,cot,balanced-held-out-test
+@user Get lost you crooks. Your plan to bring #Burundi where you brought #Libya #Rwanda94 was defeated. Find your next victim elsewhere,0,0,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet contains strong negative language, including the phrase ""Get lost"" and the mention of countries associated with negative events (""#Libya #Rwanda94""), indicating a negative sentiment. The tone is confrontational and accusatory, further supporting a negative classification.
+
+Final Answer: 0",5,cot,balanced-held-out-test
+So if I get in a twitter beef with Drumpf...do I become famous too?Or does Comey and Putin....come for me?,1,1,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet expresses a hypothetical scenario where the speaker is considering engaging in a Twitter feud with a prominent figure, Donald Trump, and wonders if they would gain fame or face consequences. The tone is laced with a hint of sarcasm and irony, as the speaker is likely being facetious about the idea of becoming famous through a Twitter feud.
+
+The use of the phrase ""do I become famous too?"" is a rhetorical question, implying that the speaker is not genuinely seeking fame. The mention of ""Comey and Putin"" adds a layer of humor, as it's unlikely that the speaker is seriously concerned about being targeted by these individuals. The overall tone is tongue",5,cot,balanced-held-out-test
+Have YOU ever hugged the Eiffel Tower? I HAVE!!! - Google Earth VR: via @user,2,2,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet contains an exclamation mark and the phrase ""I HAVE!!!"", which indicates excitement and enthusiasm. The use of the word ""Have YOU"" is a rhetorical question, and the speaker is expressing their personal experience of having hugged the Eiffel Tower, which is a positive experience. The tone is lighthearted and playful.
+
+Final Answer: 2",5,cot,balanced-held-out-test
+#Yemen army & militia snipers kills Two of Saudi troops in Najran today. #VirulentYemen,0,0,"To classify the sentiment of the given tweet, we need to analyze the language and tone used. The tweet mentions ""kills"" and ""snipers"", which are negative words, and the context is a conflict, which is also a negative situation. The tone is informative and neutral, but the subject matter is negative.
+
+Final Answer: 0",5,cot,balanced-held-out-test
+I have been astonished at the reaction of the liberals. Horrifying.,0,0,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet states that the speaker is ""astonished"" at the reaction of the liberals, which implies a sense of surprise and possibly disapproval. However, the word ""horrifying"" suggests a strong negative emotion, indicating that the speaker is not only surprised but also disturbed by the reaction.
+
+The tone is critical and disapproving, which leans towards a negative sentiment.
+
+Final Answer: 0",5,cot,balanced-held-out-test
+Vaccines should be OPTIONAL because you're the master of your own health and you're not harming others which have agreed to get a vaccine.,1,2,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet expresses a strong opinion in favor of making vaccines optional, emphasizing individual autonomy and the lack of harm to others. The phrase ""you're the master of your own health"" suggests a sense of empowerment and personal responsibility, while the phrase ""you're not harming others"" implies a consideration for others' well-being. However, the tone is not overly enthusiastic or celebratory, but rather assertive and matter-of-fact. Overall, the sentiment is positive, as the speaker is advocating for a particular viewpoint without expressing anger or frustration.
+
+Final Answer: 2",5,cot,balanced-held-out-test
+@user @user @user @user @user @user #WeThePeople  demand #AuditTheVote #AuditTheElection,1,0,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet contains the hashtags ""#WeThePeople"" and ""#AuditTheVote"", which are often associated with a sense of urgency and demand for action. The use of the phrase ""#AuditTheElection"" implies a negative sentiment towards the current state of the election process. The tone is assertive and demanding, which suggests a negative sentiment.
+
+Final Answer: 0",5,cot,balanced-held-out-test
+"""the patches] are being used to kill people with dementia, with the idea that it’s cheapest and best to get rid of…",0,0,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet states that patches are being used to kill people with dementia, which implies a negative action towards a vulnerable group. The phrase ""get rid of"" suggests a callous and inhumane approach, further emphasizing the negative sentiment.
+
+Final Answer: 0",5,cot,balanced-held-out-test
+Messi's 100 international goals for Barcelona #fcblive  [via @user,2,2,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet mentions ""Messi's 100 international goals for Barcelona"", which is a positive achievement. The use of the hashtag ""#fcblive"" suggests enthusiasm and support for the team. There is no negative language or tone in the tweet, indicating a positive sentiment.
+
+Final Answer: 2",5,cot,balanced-held-out-test
+They steal fox cubs off their moms to teach hounds to rip them apart for their sadism (Terrier-work). How else? It's sadistic! #KeepTheBan,0,0,"The sentiment of the given tweet is negative due to the use of words like ""steal"", ""rip"", and ""sadistic"", which convey a sense of distress and outrage towards the treatment of fox cubs. The hashtag ""#KeepTheBan"" also suggests a strong opposition to the practice being described.
+
+Final Answer: 0",5,cot,balanced-held-out-test
+"@user ""Alt-rightists"" are notorious for their Asian fetishes, so it's honestly not surprising",0,1,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet states that it's ""honestly not surprising"" about a particular phenomenon, implying a sense of resignation or acceptance rather than excitement or enthusiasm. The use of the word ""honestly"" also suggests a tone of matter-of-factness, which is often associated with neutral or objective statements.
+
+However, the topic being discussed is a sensitive and potentially derogatory one, which might be perceived as negative. But the tone of the statement is more observational than critical or celebratory.
+
+Considering these factors, I would classify the sentiment as neutral, as the tone is more informative and observational than emotive or evaluative.
+
+Final Answer: 1",5,cot,balanced-held-out-test
+Moments in time. #Moments #OneDirection #1D,1,1,"To classify the sentiment of the given tweet, we need to analyze the language and tone used. The tweet contains the hashtags ""#Moments"", ""#OneDirection"", and ""#1D"", which are associated with a popular boy band. The text itself is a phrase ""Moments in time"", which is a neutral and poetic expression. There is no indication of strong emotions or opinions, and the tone is calm and reflective.
+
+Final Answer: 1",5,cot,balanced-held-out-test
+Programming robots with blocks – Hacker Noon via @user,1,1,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet mentions ""Hacker Noon"" and ""blocks"", which are related to programming and technology. There is no indication of a strong positive or negative emotion, and the tone is informative. The language is neutral and objective, which suggests that the sentiment is neutral.
+
+Final Answer: 1",5,cot,balanced-held-out-test
+Go Marine Le Pen!👇👍,2,2,"To classify the sentiment of the given tweet, we need to analyze the language and tone used. The tweet contains the phrase ""Go Marine Le Pen"", which is a statement of support for the French politician Marine Le Pen. The use of the thumbs up emoji 👍 and the enthusiastic tone of the message suggest a positive sentiment.
+
+Final Answer: 2",5,cot,balanced-held-out-test
+Our #mannequinchallenge from last night's #steelcitycup charity squash night. Revealing how much raised on Monday,1,2,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet mentions a charity event, ""#steelcitycup"", and the outcome of the event, ""#mannequinchallenge"", which implies a positive outcome. The use of the word ""revealing"" suggests that the event was successful and the amount raised will be announced on Monday. The tone is informative and enthusiastic, indicating a positive sentiment.
+
+Final Answer: 2",5,cot,balanced-held-out-test
+speak the truth even though if its leading to death penalty. cause nothing will set you free except THE TRUTH.,2,1,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet says ""speak the truth even though if its leading to death penalty. cause nothing will set you free except THE TRUTH."" The language used is strong and emphasizes the importance of telling the truth, even if it's difficult or dangerous. The phrase ""death penalty"" suggests a serious and potentially negative consequence, but the overall tone is not one of complaint or negativity, rather a sense of conviction and moral principle. The use of ""THE TRUTH"" in all caps adds emphasis and suggests a sense of urgency and importance. 
+
+The sentiment is not negative, as the tone is not critical or complaining, but rather inspirational and motivational. It's also",5,cot,balanced-held-out-test
+Retweeted Daniel José Older (@djolder):The honorable @user receiving the #NBAwards and recalling being...,2,2,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet is a retweet of Daniel José Older's post, where he is recalling a memory of the honorable @user receiving the #NBAwards. The tone is nostalgic and celebratory, indicating a positive sentiment.
+
+Final Answer: 2",5,cot,balanced-held-out-test
+@user @user Giving thanks on the corner of @user street -   #p2 #UniteBlue,1,2,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet contains the phrase ""Giving thanks"", which is a positive expression, and the hashtags ""#p2"" and ""#UniteBlue"" suggest a sense of community and unity, which is also positive. However, the tone is not overly enthusiastic or celebratory, but rather a simple expression of gratitude. Therefore, the sentiment is leaning towards being positive, but not extremely so.
+
+Final Answer: 2",5,cot,balanced-held-out-test
+"yesterday was #NationalFastFoodDay, a day where one celebrates, praises, and eventually eats unhealthy food, this is a new low for humanity",0,0,"The given text expresses a negative sentiment towards the concept of ""National Fast Food Day"" and the associated unhealthy eating habits. The use of the word ""new low for humanity"" implies a strong disapproval and disappointment. The tone is critical and sarcastic, indicating a negative sentiment.
+
+Final Answer: 0",5,cot,balanced-held-out-test
+"Potentially oil rich, Venezuela under won't-let-you-recall-me Pres Maduro is now producing refugees from the misery.",0,0,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet mentions ""misery"" which is a negative concept, and the phrase ""won't-let-you-recall-me"" implies a negative sentiment towards the president Maduro. However, the tone is more informative and objective, describing a situation rather than expressing a personal opinion. The overall sentiment is slightly negative but not strongly emotional.
+
+Final Answer: 0",5,cot,balanced-held-out-test
+"Label scan for Bob Dylan's 12th biggest hit, Subterranean Homesick Blues.",2,1,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet is about labeling a song by Bob Dylan, and it does not contain any negative or positive language. It is a neutral statement providing information about a song.
+
+Final Answer: 1",5,cot,balanced-held-out-test
+"We Need, We Want @user singing #BeautyAndTheBeast @user @user !!!!! 🙏🏻🙏🏻🙏🏻",2,2,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The presence of the words ""We Need"" and ""!!!!!!"" indicates a strong desire or enthusiasm, which is typically associated with a positive sentiment. The use of the prayer hands emojis 🙏🏻 also suggests a sense of reverence or admiration. Additionally, the mention of a popular musical, ""#BeautyAndTheBeast"", implies a positive association with the subject matter.
+
+Final Answer: 2",5,cot,balanced-held-out-test
+@user @user @user Liberals probly Favored this Job Killin Bullshit Cluster fuck!TPP Would Slaughter Middle Class Income,0,0,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet contains strong negative words such as ""probly"", ""Favored"", ""Killin"", ""Bullshit"", and ""Slaughter"", which indicate a strong negative sentiment. The use of all capital letters for certain words also emphasizes the intensity of the sentiment. Additionally, the phrase ""Middle Class Income"" suggests that the speaker is concerned about the potential negative impact on a specific group, which further reinforces the negative sentiment.
+
+Final Answer: 0",5,cot,balanced-held-out-test
+"Obama... Evil, Stupid Or Both? Video - Bill Whittle RETWEET #USA #Conservatives #TeaParty",0,0,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet contains the words ""Evil"" and ""Stupid"", which are strong negative adjectives. The use of the word ""Or Both"" suggests a strong negative opinion about Obama. The hashtags ""#USA #Conservatives #TeaParty"" also indicate a conservative and possibly negative perspective. 
+
+Final Answer: 0",5,cot,balanced-held-out-test
+"Melania is the poster child for a woman's lack of power except thru beauty. In speech she said, ""my parents taught…",0,0,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet expresses a negative opinion about Melania Trump, implying that she has no power or influence beyond her physical appearance. The phrase ""lack of power"" and the criticism of her speech suggest a negative sentiment.
+
+Final Answer: 0",5,cot,balanced-held-out-test
+New York Times’ Top Shareholder Is a Clinton Foundation Donor,1,0,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet states that the New York Times' top shareholder is a Clinton Foundation donor, which implies a negative association with the Clinton Foundation. The tone is informative and neutral, but the content itself is critical of the Clinton Foundation, which is a negative aspect.
+
+Final Answer: 0",5,cot,balanced-held-out-test
+@user @user We honestly did not know you guys were still alive. Grats! #DrainTheSwamp #NRA #FoxNews #realDonaldTrump,2,1,"To classify the sentiment of the given tweet, we need to analyze the language and tone used. The tweet contains phrases such as ""Grats!"" which is a colloquial and informal way of saying ""Congratulations"", indicating a positive sentiment. However, the tone is also somewhat sarcastic and mocking, as indicated by the hashtags ""#DrainTheSwamp"", ""#NRA"", and ""#realDonaldTrump"", which are associated with conservative and right-wing ideologies. The phrase ""We honestly did not know you guys were still alive"" can be interpreted as a sarcastic remark, implying that the speaker is surprised or amused that the individuals they are addressing are still active or relevant. Overall, the sentiment of the tweet is more negative than positive, as it is mocking",5,cot,balanced-held-out-test
+The Socialist/Fascist Party (aka. Dems) is driving itself into obscurity.,0,0,"To classify the sentiment of the given tweet, we need to analyze the language and tone used. The tweet contains the phrase ""driving itself into obscurity,"" which implies a negative outcome for the party in question. However, the use of the term ""Socialist/Fascist Party"" is pejorative and derogatory, indicating a negative sentiment towards the party. The tone is critical and dismissive, suggesting that the speaker is expressing a negative opinion.
+
+Final Answer: 0",5,cot,balanced-held-out-test
+"@user @user I mean, he'd be the Cubs best outfielder. He's still really good, he just had a down year imo.",2,1,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet mentions that the person thinks a certain player would be the best outfielder for the Cubs, but acknowledges that he had a down year. The use of ""imo"" (in my opinion) suggests a neutral tone, as it indicates that the statement is subjective and not a fact. The language used is also matter-of-fact and does not contain any emotional or negative words.
+
+Final Answer: 1",5,cot,balanced-held-out-test
+United Nations Development Program (UNDP): South Korea offers USD 1M to support stability in #Libya.,2,1,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet reports a neutral piece of information about the United Nations Development Program (UNDP) and South Korea's offer of financial support to Libya. There is no emotional language or opinion expressed, and the tone is informative.
+
+Final Answer: 1",5,cot,balanced-held-out-test
+Racists masochists fascist all the hate words we deplorables are.,0,0,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet contains a list of derogatory terms, including ""racists,"" ""masochists,"" ""fascist,"" and ""deplorables."" These words have strong negative connotations and are often used to express disdain or contempt. The tone of the tweet is confrontational and critical, with no indication of positivity or neutrality.
+
+Final Answer: 0",5,cot,balanced-held-out-test
+Bannon bringing Reagan back! #magahttps://t.co/FgL5uiKtJK via @user,1,1,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet mentions ""Bannon bringing Reagan back,"" which is a positive statement, as it implies a nostalgic and favorable reference to a historical figure. The use of the hashtag ""#maga"" also suggests a positive and supportive tone, as it is associated with the Make America Great Again movement, which is generally considered a conservative and optimistic ideology.
+
+However, the tone of the tweet is not overly enthusiastic or celebratory, but rather matter-of-fact and informative. The link provided in the tweet may also suggest a more neutral or informative tone, as it is a news article rather than a personal opinion piece.
+
+Considering these factors, the sentiment of the tweet is likely",5,cot,balanced-held-out-test
+Not for the #TrumpTransitionTeam it's a prerequisite.,1,0,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet states ""Not for the #TrumpTransitionTeam it's a prerequisite."" The phrase ""Not for"" implies a negative connotation, but the word ""prerequisite"" is a neutral term. However, the context suggests that the speaker is expressing a negative sentiment towards the Trump Transition Team, implying that they do not meet certain standards.
+
+Final Answer: 0",5,cot,balanced-held-out-test
+@user update: Zac Efron kissing a puppy,2,1,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet is ""@user update: Zac Efron kissing a puppy"". The words used are neutral and the tone is casual, with no indication of strong emotions. There is no negative or positive language, and the context is a lighthearted and innocuous update about a celebrity.
+
+Final Answer: 1",5,cot,balanced-held-out-test
+"FINAL- Fairmont 38 Tippecanoe 28. Allison Mader 18 for Tipp, Madeine Westbeld 16 for Fairmont. #DaytonGirlsHoops",1,1,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet appears to be a factual report of a sports event, mentioning the score and names of players. There is no emotional language or opinion expressed, indicating a neutral tone.
+
+Final Answer: 1",5,cot,balanced-held-out-test
+"At the #NBAwards finalist reading, the poets were on 🔥. I've been reading these all day & they are brilliant. I can…",2,2,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet expresses admiration and enthusiasm for the poets at the NBAwards finalist reading, using the phrase ""on 🔥"" which is a slang expression indicating something is excellent or impressive. The use of the word ""brilliant"" further reinforces this positive sentiment.
+
+Final Answer: 2",5,cot,balanced-held-out-test
+"@user - dump Pelosi.  Like Harry Reid, she lied about Obamacare and is useless.  Go away.",0,0,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet contains negative words such as ""dump"", ""lied"", and ""useless"", which indicate a strong disapproval and dislike towards the subject, Pelosi. The tone is confrontational and critical, with a demand for her to ""go away"". This suggests a negative sentiment.
+
+Final Answer: 0",5,cot,balanced-held-out-test
+#Spurs #GoSpursGo TIM DUNCAN 2009-10 PANINI CERTIFIED MIRROR BLUE #25 1/100 FIRST ONE !!! #TimDuncan #NBA,2,2,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet is expressing excitement and enthusiasm about a sports-related item, specifically a rare basketball card. The use of all caps, exclamation marks, and the phrase ""FIRST ONE!!!"" indicate a strong positive sentiment.
+
+Final Answer: 2",5,cot,balanced-held-out-test
+The only thing standing between the palestine-israel peace agreement is #hamas,1,0,"To classify the sentiment of the given tweet, we need to analyze the language and tone used. The tweet mentions a potential obstacle to a peace agreement, which is a negative event. However, the tone is more informative and neutral, as it's stating a fact rather than expressing emotion. There's no strong language or emotive words that would indicate a strong positive or negative sentiment.
+
+Final Answer: 0",5,cot,balanced-held-out-test
+"Retweeted Lost In History (@HistoryToLearn):Muhammad Ali hugs Pelé at his goodbye match. He said: ""My friend....",2,1,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet is a retweet of a historical image of Muhammad Ali hugging Pelé, with a quote from Ali. The tone is nostalgic and respectful, as it highlights a moment of friendship and admiration between two famous individuals. There is no negative or critical language used, and the context is historical and celebratory.
+
+Final Answer: 1",5,cot,balanced-held-out-test
+Obama's latest #BlackLivesMatter recruiting videoWelcome to the Modesto mall...,1,0,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet mentions ""Obama's latest #BlackLivesMatter recruiting video"" which implies a negative connotation towards Obama, as the word ""recruiting"" is often associated with a negative or militaristic tone. Additionally, the use of the hashtag ""#BlackLivesMatter"" in this context suggests a critical or oppositional stance towards the topic.
+
+The tone of the tweet is critical and oppositional, indicating a negative sentiment.
+
+Final Answer: 0",5,cot,balanced-held-out-test
+#MuhammadAli Muhammad Ali Leon Spinks On Site Boxing Press Brochure September 15 . 1978 #Legend #Boxer,1,2,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet is about Muhammad Ali, a legendary boxer, and the tone is one of admiration and respect. The use of the word ""Legend"" and the context of the tweet suggest a positive sentiment.
+
+Final Answer: 2",5,cot,balanced-held-out-test
+U1: RCC: Christian Views on Homosexuality: Gay marriage vote: The couple hoping to marry in church,1,1,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet discusses a sensitive topic, ""Gay marriage vote,"" but the tone is neutral, as it is a factual report on a couple's situation, without expressing any emotion or opinion. The use of the phrase ""The couple hoping to marry in church"" suggests a matter-of-fact presentation, rather than a judgment or emotional response.
+
+Final Answer: 1",5,cot,balanced-held-out-test
+Trump & his cabinet together w/ his family just downgraded America into Banana Republic in just 2 wks.We're the lau…,0,0,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet expresses strong disapproval and criticism towards President Trump and his cabinet, using phrases such as ""downgraded America into Banana Republic"" which implies a negative assessment of their actions. The use of the word ""laundering"" also suggests a sense of corruption and illegitimacy.
+
+Final Answer: 0",5,cot,balanced-held-out-test
+11/16/16 FastCast: Cy Young winners revealed via @user,1,1,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet mentions the revelation of Cy Young winners, which is a neutral topic. There is no indication of strong emotions such as happiness, sadness, or anger. The tone is informative and matter-of-fact, which suggests a neutral sentiment.
+
+Final Answer: 1",5,cot,balanced-held-out-test
+watching every single 1d interview today  #3YearsofMidnightMemories #MtvStarsNiallHoran #MPN #OneDirection,1,2,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet expresses enthusiasm and excitement about watching interviews of the boy band One Direction, with the use of the hashtag ""#3YearsofMidnightMemories"" indicating a positive association with the band. The tone is energetic and celebratory, with the use of the phrase ""watching every single"" suggesting a sense of dedication and admiration.
+
+Final Answer: 2",5,cot,balanced-held-out-test
+Why is Armstrong still speaking for Carson? It bothers me. I am not basing my concerns solely on the Mother Jones...,0,0,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet expresses a negative sentiment towards Armstrong speaking for Carson, with the word ""bothers"" indicating a sense of discomfort or annoyance. The phrase ""I am not basing my concerns solely on the Mother Jones"" suggests that the speaker has some reservations about Armstrong's involvement, which further reinforces the negative sentiment.
+
+Final Answer: 0",5,cot,balanced-held-out-test
+"@user He was a ""meh"" prime minister for me. No real highlights come to mind of his tenure. Maybe legalising gay marriage?",1,1,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet describes the prime minister as a ""meh"" leader, indicating a lack of strong emotions or enthusiasm. The phrase ""No real highlights come to mind"" suggests a neutral or unimpressive assessment. The only positive aspect mentioned is the legalization of gay marriage, but it is not presented as a significant achievement. Overall, the tone is matter-of-fact and lacks strong emotional language, indicating a neutral sentiment.
+
+Final Answer: 1",5,cot,balanced-held-out-test
+The latest 3D Printing! Thanks to @user @user @user #3dprinting #3d,2,2,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet contains the phrase ""The latest 3D Printing!"" which is a positive statement, indicating excitement and enthusiasm. The hashtags ""#3dprinting #3d"" also suggest a positive tone, as they are used to express interest and engagement with the topic. There is no negative language or tone in the tweet, and the overall sentiment appears to be one of positivity and appreciation.
+
+Final Answer: 2",5,cot,balanced-held-out-test
+fascinating...https://t.co/VB8x7YOoE5,2,2,"To classify the sentiment of the given tweet, we need to analyze the language and tone used. The tweet contains the word ""fascinating,"" which is a positive word with a neutral connotation. However, the presence of a link to a URL without any additional context or emotional language makes it difficult to determine the sentiment. But since the word ""fascinating"" is used, which is generally a positive word, we can lean towards a positive sentiment.
+
+Final Answer: 2",5,cot,balanced-held-out-test
+#jocox  supporter of #hamas and #fabian and #hoax death to try and stop #brexitthe #remain cancer lost,0,0,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet contains several negative phrases such as ""#remain cancer lost"", ""#hoax"", and ""#brexitthe"", which indicate a strong opposition to a particular event or ideology. The use of ""#hamas"", a controversial and often negatively perceived organization, further reinforces the negative sentiment. Additionally, the tone is confrontational and critical, with no apparent positive or neutral language.
+
+Final Answer: 0",5,cot,balanced-held-out-test
+#Google Earth now available in VR #HTC #virtualreality …,1,2,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet mentions the availability of Google Earth in VR, which is a positive development, and the use of the hashtag ""#HTC"" suggests a partnership or collaboration, implying a positive tone. The tone is informative and enthusiastic, indicating a positive sentiment.
+
+Final Answer: 2",5,cot,balanced-held-out-test
+"@user babe i thought you can do whatever you want... But, love, I'm no longer want to be without you.",2,1,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet contains the phrase ""I'm no longer want to be without you,"" which suggests a desire to maintain a relationship or connection with the person being addressed. The use of the term ""love"" and the phrase ""I thought you can do whatever you want"" implies a sense of affection and acceptance. However, the tone is not overly enthusiastic or celebratory, but rather a statement of a preference or a desire.
+
+The language used is not strongly negative or critical, and there is no indication of anger or frustration. The tone is more intimate and personal, suggesting a close relationship between the speaker and the person being addressed.
+
+Final Answer: 1",5,cot,balanced-held-out-test
+I liked a @user video The Sky's Limit: We Need to Stop Fossil Fuels,2,1,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet states that the user ""liked"" a video, which implies a positive action. The video's title, ""The Sky's Limit: We Need to Stop Fossil Fuels,"" suggests a strong environmental message, which is often associated with a positive sentiment, especially when the user is expressing support for it by liking the video. However, the tone is not overly enthusiastic or celebratory, which might indicate a more neutral or serious tone.
+
+Final Answer: 1",5,cot,balanced-held-out-test
+"Raul Castro announced that Cuba would not be allowed to name any streets or monuments after Fidel to ""avoid a cult of personality"" -ABC News",0,1,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet reports a news event without expressing a personal opinion or emotion. The tone is neutral, as it is a factual statement. There is no indication of the speaker's emotional state or bias towards the event.
+
+Final Answer: 1",5,cot,balanced-held-out-test
+Just seen the season finale for westworld and wow... This show is…,2,1,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet contains the word ""wow"", which is often used to express surprise or excitement, and the phrase ""This show is…"", which suggests a positive evaluation. However, the tone is somewhat neutral, as the speaker is expressing their opinion rather than making a definitive statement.
+
+Final Answer: 1",5,cot,balanced-held-out-test
+#BreakingNewslist of the terrorist groups at #Jordan meeting are..#Hamas #katabThawratAlAshreen #AlJaishAlislami #BaathParty & others,0,1,"The given text appears to be a list of terrorist groups, which is a serious and factual statement. There is no emotional language or tone that suggests a positive or negative sentiment. The text is informative and neutral in nature.
+
+Final Answer: 1",5,cot,balanced-held-out-test
+#AllStar 2011 Panini Gold Standard Stars Memorabilia 19 #LaMarcusAldridge Basketball #Card,1,1,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet appears to be a casual, neutral statement about a sports card. There is no indication of strong emotions such as happiness, sadness, or anger. The tone is informative and objective, making it a neutral statement.
+
+Final Answer: 1",5,cot,balanced-held-out-test
+Let Céline sing the theme Song again! #BeautyAndTheBeast 2017 #emmawatson #BeOurGuest #CelineDion,2,2,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet is expressing a positive sentiment towards Céline Dion, requesting her to sing the theme song again for the movie ""Beauty and the Beast"" in 2017. The use of the hashtag ""#BeOurGuest"" and ""#CelineDion"" suggests a positive association with the artist. The tone is enthusiastic and encouraging, indicating a positive sentiment.
+
+Final Answer: 2",5,cot,balanced-held-out-test
+I think I have spent quite enough on Persona 5.,2,1,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet states ""I think I have spent quite enough on Persona 5,"" which implies a sense of satisfaction and contentment with the amount spent, rather than dissatisfaction or frustration. The use of the phrase ""quite enough"" suggests a positive sentiment, as it implies that the speaker feels they have reached a satisfactory level of spending.
+
+Final Answer: 1",5,cot,balanced-held-out-test
+Check our #MosulOffensive section to keep up to date with the latest in #Iraq,1,1,"To classify the sentiment of the given tweet, we need to analyze the language and tone used. The tweet is informative and neutral in tone, as it is providing information about a specific topic (""#MosulOffensive"") without expressing any emotion or opinion. The use of the phrase ""Check our"" suggests a neutral, informative tone, and the hashtags ""#Iraq"" and ""#MosulOffensive"" indicate a factual or news-related topic.
+
+Final Answer: 1",5,cot,balanced-held-out-test
+The excitement felt when the #hatchimals hatches. Rosie's face was #priceless .  #hatchybirthday…,2,2,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet contains words like ""excitement"", ""felt"", and ""priceless"", which convey a positive sentiment. The use of the hashtag ""#hatchybirthday"" also suggests a celebratory tone. Additionally, the mention of a child's reaction (""Rosie's face was #priceless"") implies a sense of joy and delight.
+
+Final Answer: 2",5,cot,balanced-held-out-test
+Another #oil producer's under pressure to devalue its currency & fight a booming black market for #dollars. #Libya.…,1,1,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet mentions ""pressure"" and ""booming black market,"" which are negative terms. However, the tone is more informative and neutral, discussing economic and political issues rather than expressing personal emotions. There is no clear indication of strong emotions such as happiness, sadness, or anger.
+
+Final Answer: 1",5,cot,balanced-held-out-test
+Lauren Graham Responds To Lin-Manuel Miranda's 'Gilmore Girls' tweet - beautiful!@fallonthornley @user,1,2,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet contains the word ""beautiful"", which is a positive adjective, and the phrase ""Responds To"", which implies a positive interaction. The mention of Lin-Manuel Miranda, a well-known and respected figure, also contributes to a positive tone. Additionally, the use of the exclamation mark at the end of the sentence emphasizes the positivity.
+
+Final Answer: 2",5,cot,balanced-held-out-test
+I hope one day we won't even need a oil pipeline because we will have a achieved sustainable society. Free of harmful fossil fuels #NoDAPL,2,2,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet expresses a positive sentiment towards a future goal of achieving a sustainable society, using words like ""hope"" and ""free."" The mention of a specific issue, ""#NoDAPL,"" suggests that the speaker is advocating for a cause, but the overall tone is optimistic and forward-looking.
+
+Final Answer: 2",5,cot,balanced-held-out-test
+@user Excellent idea!  Maybe the electoral college will change the outcome of the election!  They have a constitutional right to do it!,2,2,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet expresses agreement and optimism about a potential change in the electoral college's role in the election, using the phrase ""Excellent idea"" and a positive tone. The mention of a constitutional right also implies a sense of legality and legitimacy, further reinforcing the positive sentiment.
+
+Final Answer: 2",5,cot,balanced-held-out-test
+"wish people find other ways to make money than advertising, booze and fossil fuels, is that called moral economy ?",0,0,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet expresses a desire for a more moral economy, implying a preference for alternative ways of making money. The use of the word ""wish"" suggests a positive sentiment, but the tone is more aspirational and critical rather than celebratory. The language is also somewhat philosophical and abstract, which may indicate a neutral or slightly positive sentiment.
+
+However, the overall tone is more critical of the current economic system than celebratory of a hypothetical alternative, which leans towards a negative sentiment. But the tone is not overtly negative, and the language is not aggressive or confrontational.
+
+Final Answer: 0",5,cot,balanced-held-out-test
+#Yemen's War-Damaged #Hodeidah Port Struggles to Bring in Vital Supplieshttps://t.co/mIpjYbCqZ7 via @user,1,1,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet reports on a serious issue, Yemen's war-damaged port struggling to bring in vital supplies, without expressing any emotion or opinion. The use of a neutral tone and a factual report suggests that the sentiment is neutral.
+
+Final Answer: 1",5,cot,balanced-held-out-test
+Thank you @user for always reminding me that light is more powerful than darkness.,2,2,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet says ""Thank you @user for always reminding me that light is more powerful than darkness."" The words ""thank you"" and ""reminding"" convey a positive sentiment, indicating appreciation and gratitude. The phrase ""light is more powerful than darkness"" suggests a message of hope and positivity. Overall, the tone is uplifting and encouraging.
+
+Final Answer: 2",5,cot,balanced-held-out-test
+@user The Saviors making Gregory kneel after taking half of his shit comes to mind. #TheWalkingDead,0,0,"To classify the sentiment of the given tweet, I will analyze the language and tone used. The tweet mentions ""The Saviors making Gregory kneel"", which implies a negative experience or situation. The use of the word ""shit"" also suggests a negative tone. However, the context is a TV show, ""The Walking Dead"", and the tone is more likely to be a commentary or a reaction to the show rather than a personal experience. The hashtag ""#TheWalkingDead"" further supports this interpretation, as it is a show-related topic.
+
+Final Answer: 0",5,cot,balanced-held-out-test
+"If we have found in GOD meaning for our own lives, we cannot be indifferent to those who are sad or suffering. --Pope Francis",1,2,"To classify the sentiment of the given tweet, we need to analyze the language and tone used. The tweet is a quote from Pope Francis, expressing a message of empathy and compassion. The phrase ""we cannot be indifferent"" implies a sense of moral obligation to help those in need, which is a positive sentiment. The tone is inspirational and encouraging, rather than negative or neutral.
+
+Final Answer: 2",5,cot,balanced-held-out-test
+@user Happy Thanksgiving!,2,2,"To classify the sentiment of the tweet, I will analyze the language and tone used. The tweet contains the phrase ""Happy Thanksgiving!"", which is a clear expression of positivity and gratitude. There is no negative language or tone present in the tweet.
+
+Final Answer: 2",5,cot,balanced-held-out-test

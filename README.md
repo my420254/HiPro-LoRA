@@ -1,237 +1,103 @@
-# HiPro-LoRA Strict Evaluation Package
+# HiPro-LoRA：面向低资源长尾情感分析的层次化原型 LoRA
 
-## 中文项目介绍
+HiPro-LoRA 是一套面向低资源长尾情感分析的参数高效微调方法，论文已被 **ECML-PKDD** 接收并提交最终版。ECML-PKDD 是机器学习与知识发现方向的重要国际会议，国内通常按 **CCF B 类会议** 识别，能够体现该工作在机器学习、NLP 和数据挖掘方向的完整科研价值。
 
-HiPro-LoRA 是我完成的一篇参数高效微调方向工作，论文已被 **ECML-PKDD** 接收并提交最终版。ECML-PKDD 是机器学习与知识发现方向的重要国际会议，国内通常按 **CCF B 类会议** 识别，在算法研发、NLP、机器学习岗位里有比较高的项目辨识度。
+本仓库整理了 HiPro-LoRA 的严格 held-out evaluation package，包括主实验、消融实验、门控动态分析、敏感性分析、LLM baseline、论文图表生成脚本和最终数据包。
 
-这个仓库重点展示两件事：一是方法本身围绕低资源长尾情感分析做了 LoRA 结构和训练策略改造；二是我把论文实验从“能跑出结果”整理成了严格 held-out evaluation package，保证验证集、测试集、低资源采样、类别均衡测试和 LLM baseline 的口径清晰。
+## 研究问题
 
-## 我解决的问题
+低资源长尾情感分析同时存在两类困难：
 
-长尾低资源场景下，普通 LoRA 微调容易出现两个问题：
+- 数据层面：尾部类别样本少、表达变化大，低资源采样会进一步放大类别不均衡；
+- 模型层面：普通 LoRA 的低秩增量参数容易优先拟合头部类别，尾部类别决策边界不稳定。
 
-- 少数类样本少，低秩增量参数容易优先拟合头部类别；
-- 验证集选择、测试集报告和低资源采样如果口径不严，容易把方法提升和数据划分收益混在一起。
+HiPro-LoRA 的目标是在不显著增加部署成本的前提下，增强 LoRA 对尾部类别的表示能力，并通过严格评测协议确保提升来自方法本身，而不是数据划分或模型选择口径。
 
-HiPro-LoRA 的重点是让 PEFT 方法在长尾类别上更稳定，同时让实验协议足够严格，能经得起面试和论文审稿追问。
+## 方法亮点
 
-## 面试展示重点
+- **层次化表示建模**：针对长尾低资源场景中单层表示不稳定的问题，引入更细粒度的语义融合机制；
+- **原型感知约束**：围绕尾部类别构建更稳定的类别中心，改善少数类特征聚集性；
+- **门控动态分析**：不仅报告最终指标，还保留训练过程中 gate 行为和敏感性曲线，增强方法可解释性；
+- **严格 held-out protocol**：显式区分 validation model selection 和 final test reporting，避免把验证集选择收益混入最终结果；
+- **LLM baseline 对齐**：提供少样本大模型 baseline，用于比较轻量 PEFT 与 7B 级模型在成本和效果上的差异。
 
-- **会议含金量**：ECML-PKDD 属于机器学习/数据挖掘方向的国际会议，CCF B 分类，能证明工作不只是课程实验，而是完整科研闭环。
-- **方法能力**：围绕 LoRA 在低资源长尾分布下的特征表达瓶颈，做结构、门控/原型感知和训练约束上的改造。
-- **评测严谨性**：显式区分 validation model selection 和 held-out test reporting，保留 Table/Figure 的最终数据包，避免结果口径混乱。
-- **工程能力**：提供统一 run scripts、GPU slot 调度、LLM baseline runner、figure generation、严格 CSV 输出，方便复现和排查。
-- **可讲难点**：低资源采样随机性、尾部类别 F1 波动、LLM baseline 成本、不同数据集 backbone 差异、审稿阶段对实验协议的可解释性要求。
+## 实验价值
 
-## 技术关键词
+在严格 held-out 设置中，HiPro-LoRA 在 6 个配置里取得 5 个 Tail-F1 最优和 4 个 Macro-F1 最优，其余设置也保持竞争力。该结果说明，面向长尾低资源任务时，结构化 PEFT 设计可以比单纯扩大模型规模更高效。
 
-`PyTorch` · `Transformers` · `PEFT` · `LoRA` · `Long-tail Learning` · `Low-resource NLP` · `LLM Baseline` · `Reproducible Evaluation`
+内部实验名 `LoRA-Ours` 对应论文中的 `HiPro-LoRA` 方法名。
 
-This repository packages the strict held-out evaluation protocol for **HiPro-LoRA**, a PEFT framework for low-resource long-tailed sentiment analysis.
-
-## Why this repo matters
-
-Most low-resource sentiment papers mix validation selection and final reporting too loosely. This package keeps the protocol explicit:
-
-- validation is used for model selection
-- final scores are reported on disjoint class-balanced test subsets
-- all strict CSVs and figure data are stored separately
-
-## My contribution
-
-- Designed the method and strict evaluation protocol
-- Built the result tables, sensitivity sweeps, and gate-dynamics traces
-- Organized the LLM baseline comparison package
-- Prepared the final table / figure data for the paper
-
-## Main result
-
-Across the strict held-out settings, HiPro-LoRA achieves the best Tail-F1 in 5 of 6 configurations and the best Macro-F1 in 4 of 6, while staying competitive in the remaining settings.
-
-## Status
-
-ECML-PKDD accepted, final version submitted.
-
-The internal experiment name `LoRA-Ours` corresponds to the paper-facing method name `HiPro-LoRA`.
-
-## Contents
+## 仓库结构
 
 ```text
-HiPro-loRA/
-├── table2_strict/                  # Main strict held-out results (Table 2)
-├── table3_strict/                  # Fine-grained ablation results (Table 3)
-├── sensitivity_gate_strict/        # Sensitivity & gate-dynamics (Figure 2, Figure 5)
-│   ├── sst5_sensitivity.py         #   SST-5 sensitivity sweeps → results/sst5_sensitivity.csv
-│   ├── smp2020_sensitivity.py      #   SMP2020 sensitivity sweeps → results/smp2020_sensitivity.csv
-│   ├── tweeteval_sensitivity.py    #   TweetEval sensitivity sweeps → results/tweeteval_sensitivity.csv
-│   ├── sst5_gate.py                #   SST-5 gate-dynamics trace
-│   ├── smp2020_gate.py             #   SMP2020 gate-dynamics trace
-│   ├── tweeteval_gate.py           #   TweetEval gate-dynamics trace
-│   └── results/                    #   Generated sensitivity & gate CSV output
-├── llm_baselines/                  # Strict few-shot LLM baseline runners and results
-├── run_scripts/                    # Unified experiment entry points
-├── figures/                        # Generated paper figures
-├── paper_source/                   # LaTeX source files
-├── Table2_summary.md               # Table 2 data package
-├── Table3_final.md                 # Table 3 data package
-├── Figure2_gate_dynamics_data.md   # Figure 2 data package
-├── Figure3_llm_comparison_data.md  # Figure 3 data package
-├── Figure4_efficiency_data.md      # Figure 4 data package
-├── Figure5_sensitivity_data.md     # Figure 5 data package
-└── create_Image.py                 # Figure generation script
+.
+├── README.md
+└── code/
+    ├── run_scripts/                    # 统一实验入口
+    ├── table2_strict/                  # 主实验严格 held-out 结果
+    ├── table3_strict/                  # 细粒度消融结果
+    ├── sensitivity_gate_strict/        # 敏感性分析与 gate 动态
+    ├── llm_baselines/                  # 大模型 few-shot baseline
+    ├── figures/                        # 论文图表
+    ├── paper_source/                   # 论文源码材料
+    ├── Table2_summary.md               # Table 2 数据包
+    ├── Table3_final.md                 # Table 3 数据包
+    ├── Figure2_gate_dynamics_data.md   # Figure 2 数据包
+    ├── Figure3_llm_comparison_data.md  # Figure 3 数据包
+    ├── Figure4_efficiency_data.md      # Figure 4 数据包
+    └── Figure5_sensitivity_data.md     # Figure 5 数据包
 ```
 
-## Environment
+## 数据集与 backbone
 
-Run commands from `mainCode`:
+| 数据集 | 来源 | Backbone |
+| --- | --- | --- |
+| SMP2020 | `Um1neko/smp2020` | `hfl/chinese-macbert-base` |
+| SST-5 | `SetFit/sst5` | `roberta-base` |
+| TweetEval | `tweet_eval` / `cardiffnlp/tweet_eval` | `roberta-base` |
+
+训练子集按低资源长尾设置采样，验证集用于模型选择，最终指标在 held-out class-balanced test subsets 上报告。
+
+## 运行方式
 
 ```bash
-cd <PROJECT_ROOT>/HiPro-LoRA/mainCode
-source <CONDA_INSTALL>/etc/profile.d/conda.sh
-conda activate hipro-lora
-export HF_ENDPOINT=https://hf-mirror.com
-export TOKENIZERS_PARALLELISM=false
-export NVIDIA_TF32_OVERRIDE=0
-export CUBLAS_WORKSPACE_CONFIG=:4096:8
+cd code
+python -u HiPro-loRA/run_scripts/run_figures.py
 ```
 
-For deterministic single-task launches, optionally set:
+复现完整严格实验：
 
 ```bash
-export PYTHONHASHSEED=45
+cd code
+python -u HiPro-loRA/run_scripts/run_all.py
 ```
 
-## Dependencies
-
-The current project environment is:
-
-```text
-Python 3.10.20
-PyTorch 2.7.0+cu128
-Transformers 4.53.3
-Datasets 4.4.1
-PEFT 0.16.0
-scikit-learn 1.7.2
-pandas 2.3.3
-NumPy 2.2.5
-Matplotlib 3.10.9
-Seaborn 0.12.2
-Accelerate 1.13.0
-bitsandbytes 0.49.2
-tqdm 4.67.1
-```
-
-Core package groups:
-
-- Training and model loading: `torch`, `transformers`, `datasets`, `peft`, `accelerate`, `bitsandbytes`
-- Metrics and data processing: `scikit-learn`, `pandas`, `numpy`
-- Figure generation: `matplotlib`, `seaborn`
-- Progress and utility support: `tqdm`
-
-## Dataset Sources
-
-All datasets are loaded through Hugging Face `datasets`.
-
-| Dataset | Hugging Face source | Split usage |
-|---|---|---|
-| SMP2020 | `Um1neko/smp2020` | The script uses the HF `train` split as the training pool, creates a stratified 20% validation split with seed `42`, and evaluates on the HF `test` split. |
-| SST-5 | `SetFit/sst5` | Table2/Table3: official `train`/`validation`/`test` splits. Sensitivity/gate: stratified 20% validation split from `train` with seed `42`. All validation/test subsets are class-balanced (80 per class) with seed `42`. |
-| TweetEval | `tweet_eval`, config `sentiment`; fallback `cardiffnlp/tweet_eval`, config `sentiment` | The script uses the official `train`, `validation`, and `test` splits. Validation and test subsets are class-balanced with seed `42`. |
-
-The low-resource long-tail training subsets are sampled from the training pool with the configured seeds. The held-out test subsets are never used for model selection.
-
-Backbone models:
-
-| Dataset | Backbone |
-|---|---|
-| SMP2020 | `hfl/chinese-macbert-base` |
-| SST-5 | `roberta-base` |
-| TweetEval | `roberta-base` |
-
-## Main Entry Points
+按实验组单独运行：
 
 ```bash
 python -u HiPro-loRA/run_scripts/run_table2_strict.py
 python -u HiPro-loRA/run_scripts/run_table3_strict.py
 python -u HiPro-loRA/run_scripts/run_sensitivity_gate_strict.py
-python -u HiPro-loRA/run_scripts/run_figures.py
-python -u HiPro-loRA/run_scripts/run_all.py
 ```
 
-GPU scheduling can be controlled with:
+多 GPU 调度可通过环境变量控制：
 
 ```bash
 export HIPRO_RUN_GPUS=0,1,2,3
 export HIPRO_RUN_GPU_SLOTS=0:2,1:2,2:3,3:3
 ```
 
-`run_all.py` executes the strict experiment groups sequentially and can overwrite existing result CSVs. Use it only when a full reproduction is intended.
-
-## Starting the Project
-
-Use the following workflow for normal use:
-
-```bash
-cd <PROJECT_ROOT>/HiPro-LoRA/mainCode
-source <CONDA_INSTALL>/etc/profile.d/conda.sh
-conda activate hipro-lora
-python -u HiPro-loRA/run_scripts/run_figures.py
-```
-
-To reproduce all strict experimental results, run:
-
-```bash
-python -u HiPro-loRA/run_scripts/run_all.py
-```
-
-To rerun only a specific result group, use the corresponding script from `run_scripts/`.
-
-## Final Result Files
-
-The main strict result tables are stored in:
+## 结果文件
 
 ```text
-table2_strict/results/*_table2_strict_results.csv
-table3_strict/results/*_table3_strict_results.csv
+code/table2_strict/results/*_table2_strict_results.csv
+code/table3_strict/results/*_table3_strict_results.csv
+code/sensitivity_gate_strict/results/*_sensitivity.csv
+code/llm_baselines/few_shot_results/llm_fewshot_results.csv
 ```
 
-Sensitivity and gate results are generated by the scripts under `sensitivity_gate_strict/`:
+## 项目状态
 
-```text
-sensitivity_gate_strict/results/sst5_sensitivity.csv
-sensitivity_gate_strict/results/smp2020_sensitivity.csv
-sensitivity_gate_strict/results/tweeteval_sensitivity.csv
-```
-
-The figure data packages are:
-
-```text
-Figure2_gate_dynamics_data.md
-Figure3_llm_comparison_data.md
-Figure4_efficiency_data.md
-Figure5_sensitivity_data.md
-```
-
-Generated figures are written to:
-
-```text
-figures/
-```
-
-The strict LLM baseline summary and raw records are:
-
-```text
-llm_baselines/LLM_BASELINE_SUMMARY.md
-llm_baselines/few_shot_results/llm_fewshot_results.csv
-llm_baselines/run_logs/
-```
-
-## Figure Generation
-
-To rebuild paper figures from the strict result files:
-
-```bash
-python -u HiPro-loRA/run_scripts/run_figures.py
-```
-
-The figure script reads strict CSVs and the final data packages. It does not use legacy mixed-protocol outputs.
+- 论文状态：ECML-PKDD 已接收，最终版已提交；
+- 代码状态：严格评测包、图表脚本和结果数据已整理；
+- 许可协议：MIT License。

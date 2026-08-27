@@ -1,0 +1,22 @@
+Task: Classify tweet sentiment. Reason briefly, then give the final answer.
+Options: 0:Negative, 1:Neutral, 2:Positive
+Examples:
+Text: ""#CNET - Just bought my 1st iPad, iPad3, feeling real burned, mad, about iPad4 so soon. Grrr. REALLY mad! Don't even care about mini now,"" -> Answer: 0
+Text: ""Mother's Day is coming like tomorrow or is it today? idk, but i didn't prepare anything for me's mom."" -> Answer: 0
+Text: "@user @user Nice Try - but why do you #LIE! (#Obama lies2) "Planned Parenthood does not provide mammograms"" -> Answer: 0
+Text: "Can't believe I left my charger at Tia's. I have just under 50% until tomorrow, so in living on my IPod. You can only contact me via Twitter" -> Answer: 0
+Text: "If I didn't yell at someone about Taylor Swift or Kesha then the entire day was a waste. Try to be better tomorrow." -> Answer: 0
+Text: "@user @user @user  I think this is the motive of the Yakub's laywers for pursuing the case" -> Answer: 1
+Text: "@user @user We are actually playing on Saturday\u002c January 19 - the week prior to the Senior Bowl." -> Answer: 1
+Text: "@user From this performance it is obvious why David Miliband comes up 1st when you google Miliband! #onetowatch" -> Answer: 1
+Text: "David Wright and his best friend both ground out in the 9th" -> Answer: 1
+Text: "Gonna watch Seinfeld, smoke a joint, and pass the hell out before going back to work at 2 jobs again tomorrow. #adultshit" -> Answer: 1
+Text: ""Thanks to Moomba, I've been cruising wi the Medicare since April 2011. Today I decided to finally go get it done! #abouttime"" -> Answer: 2
+Text: "Have you heard about Amazon Prime day? Don't miss it - July 15th! Yay! #ad #PrepForPrime @user #HappyPrimeDay" -> Answer: 2
+Text: "Houston peeps: Go see Rumours (Fleetwood Mac cover band from Los Angeles) at @user on Saturday.  You won't regret it." -> Answer: 2
+Text: "I went to a Remembrance service today for the 1st time and can say it was so touching." -> Answer: 2
+Text: "Kanye West was honored in a big way during Sunday night's MTV Video Music Awards by receiving the Michael Jackso..." -> Answer: 2
+
+Briefly explain the decision, then end with a separate line "Final Answer: <numeric ID>".
+Text: "[TEXT_TO_CLASSIFY]"
+Reasoning:

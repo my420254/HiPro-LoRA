@@ -1,0 +1,6 @@
+Task: Classify the sentiment of the text.
+Options: 0:Very Negative, 1:Negative, 2:Neutral, 3:Positive, 4:Very Positive
+
+Return ONLY the numeric ID (0-4). Do not explain.
+Text: "[TEXT_TO_CLASSIFY]"
+Answer:
