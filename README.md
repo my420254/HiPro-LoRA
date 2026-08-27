@@ -1,5 +1,32 @@
 # HiPro-LoRA Strict Evaluation Package
 
+## 中文项目介绍
+
+HiPro-LoRA 是我完成的一篇参数高效微调方向工作，论文已被 **ECML-PKDD** 接收并提交最终版。ECML-PKDD 是机器学习与知识发现方向的重要国际会议，国内通常按 **CCF B 类会议** 识别，在算法研发、NLP、机器学习岗位里有比较高的项目辨识度。
+
+这个仓库重点展示两件事：一是方法本身围绕低资源长尾情感分析做了 LoRA 结构和训练策略改造；二是我把论文实验从“能跑出结果”整理成了严格 held-out evaluation package，保证验证集、测试集、低资源采样、类别均衡测试和 LLM baseline 的口径清晰。
+
+## 我解决的问题
+
+长尾低资源场景下，普通 LoRA 微调容易出现两个问题：
+
+- 少数类样本少，低秩增量参数容易优先拟合头部类别；
+- 验证集选择、测试集报告和低资源采样如果口径不严，容易把方法提升和数据划分收益混在一起。
+
+HiPro-LoRA 的重点是让 PEFT 方法在长尾类别上更稳定，同时让实验协议足够严格，能经得起面试和论文审稿追问。
+
+## 面试展示重点
+
+- **会议含金量**：ECML-PKDD 属于机器学习/数据挖掘方向的国际会议，CCF B 分类，能证明工作不只是课程实验，而是完整科研闭环。
+- **方法能力**：围绕 LoRA 在低资源长尾分布下的特征表达瓶颈，做结构、门控/原型感知和训练约束上的改造。
+- **评测严谨性**：显式区分 validation model selection 和 held-out test reporting，保留 Table/Figure 的最终数据包，避免结果口径混乱。
+- **工程能力**：提供统一 run scripts、GPU slot 调度、LLM baseline runner、figure generation、严格 CSV 输出，方便复现和排查。
+- **可讲难点**：低资源采样随机性、尾部类别 F1 波动、LLM baseline 成本、不同数据集 backbone 差异、审稿阶段对实验协议的可解释性要求。
+
+## 技术关键词
+
+`PyTorch` · `Transformers` · `PEFT` · `LoRA` · `Long-tail Learning` · `Low-resource NLP` · `LLM Baseline` · `Reproducible Evaluation`
+
 This repository packages the strict held-out evaluation protocol for **HiPro-LoRA**, a PEFT framework for low-resource long-tailed sentiment analysis.
 
 ## Why this repo matters
